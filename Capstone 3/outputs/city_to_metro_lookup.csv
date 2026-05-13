@@ -1,0 +1,895 @@
+city_alias,city_alias_norm,metro_title,primary_state,region,population,alias_match_rank
+Abilene,ABILENE,"Abilene, TX",TX,South,181969,1
+Akron,AKRON,"Akron, OH",OH,Midwest,702209,1
+Albany,ALBANY,"Albany-Schenectady-Troy, NY",NY,Northeast,913485,1
+Albany,ALBANY,"Albany, GA",GA,South,146051,2
+Albany,ALBANY,"Albany, OR",OR,West,132474,3
+Albany Schenectady Troy,ALBANY SCHENECTADY TROY,"Albany-Schenectady-Troy, NY",NY,Northeast,913485,1
+Albany-Schenectady-Troy,ALBANY-SCHENECTADY-TROY,"Albany-Schenectady-Troy, NY",NY,Northeast,913485,1
+Albuquerque,ALBUQUERQUE,"Albuquerque, NM",NM,West,929919,1
+Alexandria,ALEXANDRIA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",DC,South,6437907,1
+Alexandria,ALEXANDRIA,"Alexandria, LA",LA,South,148008,2
+Allentown,ALLENTOWN,"Allentown-Bethlehem-Easton, PA-NJ",PA,Northeast,886418,1
+Allentown Bethlehem Easton,ALLENTOWN BETHLEHEM EASTON,"Allentown-Bethlehem-Easton, PA-NJ",PA,Northeast,886418,1
+Allentown-Bethlehem-Easton,ALLENTOWN-BETHLEHEM-EASTON,"Allentown-Bethlehem-Easton, PA-NJ",PA,Northeast,886418,1
+Altoona,ALTOONA,"Altoona, PA",PA,Northeast,120269,1
+Amarillo,AMARILLO,"Amarillo, TX",TX,South,278330,1
+Ames,AMES,"Ames, IA",IA,Midwest,129227,1
+Amherst Town,AMHERST TOWN,"Amherst Town-Northampton, MA",MA,Northeast,165399,1
+Amherst Town Northampton,AMHERST TOWN NORTHAMPTON,"Amherst Town-Northampton, MA",MA,Northeast,165399,1
+Amherst Town-Northampton,AMHERST TOWN-NORTHAMPTON,"Amherst Town-Northampton, MA",MA,Northeast,165399,1
+Anacortes,ANACORTES,"Mount Vernon-Anacortes, WA",WA,West,132736,1
+Anaheim,ANAHEIM,"Los Angeles-Long Beach-Anaheim, CA",CA,West,12927614,1
+Anchorage,ANCHORAGE,"Anchorage, AK",AK,West,407213,1
+Anderson,ANDERSON,"Greenville-Anderson-Greer, SC",SC,South,996680,1
+Ann Arbor,ANN ARBOR,"Ann Arbor, MI",MI,Midwest,373875,1
+Anniston,ANNISTON,"Anniston-Oxford, AL",AL,South,116427,1
+Anniston Oxford,ANNISTON OXFORD,"Anniston-Oxford, AL",AL,South,116427,1
+Anniston-Oxford,ANNISTON-OXFORD,"Anniston-Oxford, AL",AL,South,116427,1
+Appleton,APPLETON,"Appleton, WI",WI,Midwest,248992,1
+Arlington,ARLINGTON,"Dallas-Fort Worth-Arlington, TX",TX,South,8344032,1
+Arlington,ARLINGTON,"Washington-Arlington-Alexandria, DC-VA-MD-WV",DC,South,6437907,2
+Asheville,ASHEVILLE,"Asheville, NC",NC,South,422333,1
+Ashland,ASHLAND,"Huntington-Ashland, WV-KY-OH",WV,South,366760,1
+Athens,ATHENS,"Athens-Clarke County, GA",GA,South,221801,1
+Athens Clarke County,ATHENS CLARKE COUNTY,"Athens-Clarke County, GA",GA,South,221801,1
+Athens-Clarke County,ATHENS-CLARKE COUNTY,"Athens-Clarke County, GA",GA,South,221801,1
+Atlanta,ATLANTA,"Atlanta-Sandy Springs-Roswell, GA",GA,South,6409047,1
+Atlanta Sandy Springs Roswell,ATLANTA SANDY SPRINGS ROSWELL,"Atlanta-Sandy Springs-Roswell, GA",GA,South,6409047,1
+Atlanta-Sandy Springs-Roswell,ATLANTA-SANDY SPRINGS-ROSWELL,"Atlanta-Sandy Springs-Roswell, GA",GA,South,6409047,1
+Atlantic City,ATLANTIC CITY,"Atlantic City-Hammonton, NJ",NJ,Northeast,372989,1
+Atlantic City Hammonton,ATLANTIC CITY HAMMONTON,"Atlantic City-Hammonton, NJ",NJ,Northeast,372989,1
+Atlantic City-Hammonton,ATLANTIC CITY-HAMMONTON,"Atlantic City-Hammonton, NJ",NJ,Northeast,372989,1
+Auburn,AUBURN,"Auburn-Opelika, AL",AL,South,205355,1
+Auburn,AUBURN,"Lewiston-Auburn, ME",ME,Northeast,115272,2
+Auburn Opelika,AUBURN OPELIKA,"Auburn-Opelika, AL",AL,South,205355,1
+Auburn-Opelika,AUBURN-OPELIKA,"Auburn-Opelika, AL",AL,South,205355,1
+Augusta,AUGUSTA,"Augusta-Richmond County, GA-SC",GA,South,636658,1
+Augusta Richmond County,AUGUSTA RICHMOND COUNTY,"Augusta-Richmond County, GA-SC",GA,South,636658,1
+Augusta-Richmond County,AUGUSTA-RICHMOND COUNTY,"Augusta-Richmond County, GA-SC",GA,South,636658,1
+Aurora,AURORA,"Denver-Aurora-Centennial, CO",CO,West,3050512,1
+Austin,AUSTIN,"Austin-Round Rock-San Marcos, TX",TX,South,2550637,1
+Austin Round Rock San Marcos,AUSTIN ROUND ROCK SAN MARCOS,"Austin-Round Rock-San Marcos, TX",TX,South,2550637,1
+Austin-Round Rock-San Marcos,AUSTIN-ROUND ROCK-SAN MARCOS,"Austin-Round Rock-San Marcos, TX",TX,South,2550637,1
+Bakersfield,BAKERSFIELD,"Bakersfield-Delano, CA",CA,West,922529,1
+Bakersfield Delano,BAKERSFIELD DELANO,"Bakersfield-Delano, CA",CA,West,922529,1
+Bakersfield-Delano,BAKERSFIELD-DELANO,"Bakersfield-Delano, CA",CA,West,922529,1
+Baltimore,BALTIMORE,"Baltimore-Columbia-Towson, MD",MD,South,2859024,1
+Baltimore Columbia Towson,BALTIMORE COLUMBIA TOWSON,"Baltimore-Columbia-Towson, MD",MD,South,2859024,1
+Baltimore-Columbia-Towson,BALTIMORE-COLUMBIA-TOWSON,"Baltimore-Columbia-Towson, MD",MD,South,2859024,1
+Bangor,BANGOR,"Bangor, ME",ME,Northeast,156840,1
+Barnstable Town,BARNSTABLE TOWN,"Barnstable Town, MA",MA,Northeast,232570,1
+Barre,BARRE,"Scranton--Wilkes-Barre, PA",PA,Northeast,574009,1
+Baton Rouge,BATON ROUGE,"Baton Rouge, LA",LA,South,882652,1
+Battle Creek,BATTLE CREEK,"Battle Creek, MI",MI,Midwest,133785,1
+Bay City,BAY CITY,"Bay City, MI",MI,Midwest,102651,1
+Bayou Cane,BAYOU CANE,"Houma-Bayou Cane-Thibodaux, LA",LA,South,199206,1
+Beaumont,BEAUMONT,"Beaumont-Port Arthur, TX",TX,South,398733,1
+Beaumont Port Arthur,BEAUMONT PORT ARTHUR,"Beaumont-Port Arthur, TX",TX,South,398733,1
+Beaumont-Port Arthur,BEAUMONT-PORT ARTHUR,"Beaumont-Port Arthur, TX",TX,South,398733,1
+Beavercreek,BEAVERCREEK,"Dayton-Kettering-Beavercreek, OH",OH,Midwest,821740,1
+Beckley,BECKLEY,"Beckley, WV",WV,South,110979,1
+Bellevue,BELLEVUE,"Seattle-Tacoma-Bellevue, WA",WA,West,4145494,1
+Bellingham,BELLINGHAM,"Bellingham, WA",WA,West,234954,1
+Beloit,BELOIT,"Janesville-Beloit, WI",WI,Midwest,165461,1
+Bend,BEND,"Bend, OR",OR,West,264407,1
+Bethlehem,BETHLEHEM,"Allentown-Bethlehem-Easton, PA-NJ",PA,Northeast,886418,1
+Bibb County,BIBB COUNTY,"Macon-Bibb County, GA",GA,South,236551,1
+Billings,BILLINGS,"Billings, MT",MT,West,192531,1
+Biloxi,BILOXI,"Gulfport-Biloxi, MS",MS,South,426793,1
+Binghamton,BINGHAMTON,"Binghamton, NY",NY,Northeast,243971,1
+Birmingham,BIRMINGHAM,"Birmingham, AL",AL,South,1192583,1
+Bismarck,BISMARCK,"Bismarck, ND",ND,Midwest,138774,1
+Blacksburg,BLACKSBURG,"Blacksburg-Christiansburg-Radford, VA",VA,South,183318,1
+Blacksburg Christiansburg Radford,BLACKSBURG CHRISTIANSBURG RADFORD,"Blacksburg-Christiansburg-Radford, VA",VA,South,183318,1
+Blacksburg-Christiansburg-Radford,BLACKSBURG-CHRISTIANSBURG-RADFORD,"Blacksburg-Christiansburg-Radford, VA",VA,South,183318,1
+Bloomington,BLOOMINGTON,"Minneapolis-St. Paul-Bloomington, MN-WI",MN,Midwest,3757952,1
+Bloomington,BLOOMINGTON,"Bloomington, IL",IL,Midwest,172069,2
+Bloomington,BLOOMINGTON,"Bloomington, IN",IN,Midwest,162553,3
+Bluffton,BLUFFTON,"Hilton Head Island-Bluffton-Port Royal, SC",SC,South,237393,1
+Boise City,BOISE CITY,"Boise City, ID",ID,West,844979,1
+Bossier City,BOSSIER CITY,"Shreveport-Bossier City, LA",LA,South,383269,1
+Boston,BOSTON,"Boston-Cambridge-Newton, MA-NH",MA,Northeast,5025517,1
+Boston Cambridge Newton,BOSTON CAMBRIDGE NEWTON,"Boston-Cambridge-Newton, MA-NH",MA,Northeast,5025517,1
+Boston-Cambridge-Newton,BOSTON-CAMBRIDGE-NEWTON,"Boston-Cambridge-Newton, MA-NH",MA,Northeast,5025517,1
+Boulder,BOULDER,"Boulder, CO",CO,West,330262,1
+Bowling Green,BOWLING GREEN,"Bowling Green, KY",KY,South,197734,1
+Bozeman,BOZEMAN,"Bozeman, MT",MT,West,126984,1
+Bradenton,BRADENTON,"North Port-Bradenton-Sarasota, FL",FL,South,934956,1
+Bremerton,BREMERTON,"Bremerton-Silverdale-Port Orchard, WA",WA,West,281420,1
+Bremerton Silverdale Port Orchard,BREMERTON SILVERDALE PORT ORCHARD,"Bremerton-Silverdale-Port Orchard, WA",WA,West,281420,1
+Bremerton-Silverdale-Port Orchard,BREMERTON-SILVERDALE-PORT ORCHARD,"Bremerton-Silverdale-Port Orchard, WA",WA,West,281420,1
+Brent,BRENT,"Pensacola-Ferry Pass-Brent, FL",FL,South,538928,1
+Bridgeport,BRIDGEPORT,"Bridgeport-Stamford-Danbury, CT",CT,Northeast,972679,1
+Bridgeport Stamford Danbury,BRIDGEPORT STAMFORD DANBURY,"Bridgeport-Stamford-Danbury, CT",CT,Northeast,972679,1
+Bridgeport-Stamford-Danbury,BRIDGEPORT-STAMFORD-DANBURY,"Bridgeport-Stamford-Danbury, CT",CT,Northeast,972679,1
+Bristol,BRISTOL,"Kingsport-Bristol, TN-VA",TN,South,314259,1
+Brownsville,BROWNSVILLE,"Brownsville-Harlingen, TX",TX,South,431874,1
+Brownsville Harlingen,BROWNSVILLE HARLINGEN,"Brownsville-Harlingen, TX",TX,South,431874,1
+Brownsville-Harlingen,BROWNSVILLE-HARLINGEN,"Brownsville-Harlingen, TX",TX,South,431874,1
+Brunswick,BRUNSWICK,"Brunswick-St. Simons, GA",GA,South,116080,1
+Brunswick St Simons,BRUNSWICK SAINT SIMONS,"Brunswick-St. Simons, GA",GA,South,116080,1
+Brunswick-St Simons,BRUNSWICK-ST SIMONS,"Brunswick-St. Simons, GA",GA,South,116080,1
+Bryan,BRYAN,"College Station-Bryan, TX",TX,South,288771,1
+Buffalo,BUFFALO,"Buffalo-Cheektowaga, NY",NY,Northeast,1160172,1
+Buffalo Cheektowaga,BUFFALO CHEEKTOWAGA,"Buffalo-Cheektowaga, NY",NY,Northeast,1160172,1
+Buffalo-Cheektowaga,BUFFALO-CHEEKTOWAGA,"Buffalo-Cheektowaga, NY",NY,Northeast,1160172,1
+Burlington,BURLINGTON,"Burlington-South Burlington, VT",VT,Northeast,229550,1
+Burlington,BURLINGTON,"Burlington, NC",NC,South,183040,2
+Burlington South Burlington,BURLINGTON SOUTH BURLINGTON,"Burlington-South Burlington, VT",VT,Northeast,229550,1
+Burlington-South Burlington,BURLINGTON-SOUTH BURLINGTON,"Burlington-South Burlington, VT",VT,Northeast,229550,1
+Cambridge,CAMBRIDGE,"Boston-Cambridge-Newton, MA-NH",MA,Northeast,5025517,1
+Camden,CAMDEN,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",PA,Northeast,6330422,1
+Canton,CANTON,"Canton-Massillon, OH",OH,Midwest,400551,1
+Canton Massillon,CANTON MASSILLON,"Canton-Massillon, OH",OH,Midwest,400551,1
+Canton-Massillon,CANTON-MASSILLON,"Canton-Massillon, OH",OH,Midwest,400551,1
+Cape Coral,CAPE CORAL,"Cape Coral-Fort Myers, FL",FL,South,860959,1
+Cape Coral Fort Myers,CAPE CORAL FORT MYERS,"Cape Coral-Fort Myers, FL",FL,South,860959,1
+Cape Coral-Fort Myers,CAPE CORAL-FORT MYERS,"Cape Coral-Fort Myers, FL",FL,South,860959,1
+Cape Girardeau,CAPE GIRARDEAU,"Cape Girardeau, MO-IL",MO,Midwest,100842,1
+Carlisle,CARLISLE,"Harrisburg-Carlisle, PA",PA,Northeast,615361,1
+Carlsbad,CARLSBAD,"San Diego-Chula Vista-Carlsbad, CA",CA,West,3298799,1
+Carmel,CARMEL,"Indianapolis-Carmel-Greenwood, IN",IN,Midwest,2173288,1
+Carson City,CARSON CITY,"Carson City, NV",NV,West,58148,1
+Cary,CARY,"Raleigh-Cary, NC",NC,South,1562009,1
+Casper,CASPER,"Casper, WY",WY,West,80410,1
+Cedar Falls,CEDAR FALLS,"Waterloo-Cedar Falls, IA",IA,Midwest,170081,1
+Cedar Rapids,CEDAR RAPIDS,"Cedar Rapids, IA",IA,Midwest,278677,1
+Centennial,CENTENNIAL,"Denver-Aurora-Centennial, CO",CO,West,3050512,1
+Chambersburg,CHAMBERSBURG,"Chambersburg, PA",PA,Northeast,159285,1
+Champaign,CHAMPAIGN,"Champaign-Urbana, IL",IL,Midwest,243252,1
+Champaign Urbana,CHAMPAIGN URBANA,"Champaign-Urbana, IL",IL,Midwest,243252,1
+Champaign-Urbana,CHAMPAIGN-URBANA,"Champaign-Urbana, IL",IL,Midwest,243252,1
+Chandler,CHANDLER,"Phoenix-Mesa-Chandler, AZ",AZ,West,5186958,1
+Chapel Hill,CHAPEL HILL,"Durham-Chapel Hill, NC",NC,South,620522,1
+Charleston,CHARLESTON,"Charleston-North Charleston, SC",SC,South,869940,1
+Charleston,CHARLESTON,"Charleston, WV",WV,South,200122,2
+Charleston North Charleston,CHARLESTON NORTH CHARLESTON,"Charleston-North Charleston, SC",SC,South,869940,1
+Charleston-North Charleston,CHARLESTON-NORTH CHARLESTON,"Charleston-North Charleston, SC",SC,South,869940,1
+Charlotte,CHARLOTTE,"Charlotte-Concord-Gastonia, NC-SC",NC,South,2883370,1
+Charlotte Concord Gastonia,CHARLOTTE CONCORD GASTONIA,"Charlotte-Concord-Gastonia, NC-SC",NC,South,2883370,1
+Charlotte-Concord-Gastonia,CHARLOTTE-CONCORD-GASTONIA,"Charlotte-Concord-Gastonia, NC-SC",NC,South,2883370,1
+Charlottesville,CHARLOTTESVILLE,"Charlottesville, VA",VA,South,226140,1
+Chattanooga,CHATTANOOGA,"Chattanooga, TN-GA",TN,South,588763,1
+Cheektowaga,CHEEKTOWAGA,"Buffalo-Cheektowaga, NY",NY,Northeast,1160172,1
+Chesapeake,CHESAPEAKE,"Virginia Beach-Chesapeake-Norfolk, VA-NC",VA,South,1796689,1
+Cheyenne,CHEYENNE,"Cheyenne, WY",WY,West,101783,1
+Chicago,CHICAGO,"Chicago-Naperville-Elgin, IL-IN",IL,Midwest,9406924,1
+Chicago Naperville Elgin,CHICAGO NAPERVILLE ELGIN,"Chicago-Naperville-Elgin, IL-IN",IL,Midwest,9406924,1
+Chicago-Naperville-Elgin,CHICAGO-NAPERVILLE-ELGIN,"Chicago-Naperville-Elgin, IL-IN",IL,Midwest,9406924,1
+Chico,CHICO,"Chico, CA",CA,West,208334,1
+Christiansburg,CHRISTIANSBURG,"Blacksburg-Christiansburg-Radford, VA",VA,South,183318,1
+Chula Vista,CHULA VISTA,"San Diego-Chula Vista-Carlsbad, CA",CA,West,3298799,1
+Cincinnati,CINCINNATI,"Cincinnati, OH-KY-IN",OH,Midwest,2304804,1
+Clarke County,CLARKE COUNTY,"Athens-Clarke County, GA",GA,South,221801,1
+Clarksville,CLARKSVILLE,"Clarksville, TN-KY",TN,South,344003,1
+Clearwater,CLEARWATER,"Tampa-St. Petersburg-Clearwater, FL",FL,South,3424560,1
+Cleveland,CLEVELAND,"Cleveland, OH",OH,Midwest,2171877,1
+Cleveland,CLEVELAND,"Cleveland, TN",TN,South,132120,2
+Coeur d'Alene,COEUR D ALENE,"Coeur d'Alene, ID",ID,West,188323,1
+College,COLLEGE,"Fairbanks-College, AK",AK,West,94951,1
+College Station,COLLEGE STATION,"College Station-Bryan, TX",TX,South,288771,1
+College Station Bryan,COLLEGE STATION BRYAN,"College Station-Bryan, TX",TX,South,288771,1
+College Station-Bryan,COLLEGE STATION-BRYAN,"College Station-Bryan, TX",TX,South,288771,1
+Colorado Springs,COLORADO SPRINGS,"Colorado Springs, CO",CO,West,777635,1
+Columbia,COLUMBIA,"Baltimore-Columbia-Towson, MD",MD,South,2859024,1
+Columbia,COLUMBIA,"Columbia, SC",SC,South,871176,2
+Columbia,COLUMBIA,"Columbia, MO",MO,Midwest,217988,3
+Columbus,COLUMBUS,"Columbus, OH",OH,Midwest,2225377,1
+Columbus,COLUMBUS,"Columbus, GA-AL",GA,South,328206,2
+Columbus,COLUMBUS,"Columbus, IN",IN,Midwest,84741,3
+Concord,CONCORD,"Charlotte-Concord-Gastonia, NC-SC",NC,South,2883370,1
+Conway,CONWAY,"Little Rock-North Little Rock-Conway, AR",AR,South,770959,1
+Conway,CONWAY,"Myrtle Beach-Conway-North Myrtle Beach, SC",SC,South,413391,2
+Corcoran,CORCORAN,"Hanford-Corcoran, CA",CA,West,154913,1
+Corpus Christi,CORPUS CHRISTI,"Corpus Christi, TX",TX,South,448853,1
+Corvallis,CORVALLIS,"Corvallis, OR",OR,West,98899,1
+Covington,COVINGTON,"Slidell-Mandeville-Covington, LA",LA,South,277615,1
+Crestview,CRESTVIEW,"Crestview-Fort Walton Beach-Destin, FL",FL,South,310149,1
+Crestview Fort Walton Beach Destin,CRESTVIEW FORT WALTON BEACH DESTIN,"Crestview-Fort Walton Beach-Destin, FL",FL,South,310149,1
+Crestview-Fort Walton Beach-Destin,CRESTVIEW-FORT WALTON BEACH-DESTIN,"Crestview-Fort Walton Beach-Destin, FL",FL,South,310149,1
+Dallas,DALLAS,"Dallas-Fort Worth-Arlington, TX",TX,South,8344032,1
+Dallas Fort Worth Arlington,DALLAS FORT WORTH ARLINGTON,"Dallas-Fort Worth-Arlington, TX",TX,South,8344032,1
+Dallas-Fort Worth-Arlington,DALLAS-FORT WORTH-ARLINGTON,"Dallas-Fort Worth-Arlington, TX",TX,South,8344032,1
+Dalton,DALTON,"Dalton, GA",GA,South,146386,1
+Danbury,DANBURY,"Bridgeport-Stamford-Danbury, CT",CT,Northeast,972679,1
+Daphne,DAPHNE,"Daphne-Fairhope-Foley, AL",AL,South,261608,1
+Daphne Fairhope Foley,DAPHNE FAIRHOPE FOLEY,"Daphne-Fairhope-Foley, AL",AL,South,261608,1
+Daphne-Fairhope-Foley,DAPHNE-FAIRHOPE-FOLEY,"Daphne-Fairhope-Foley, AL",AL,South,261608,1
+Davenport,DAVENPORT,"Davenport-Moline-Rock Island, IA-IL",IA,Midwest,381415,1
+Davenport Moline Rock Island,DAVENPORT MOLINE ROCK ISLAND,"Davenport-Moline-Rock Island, IA-IL",IA,Midwest,381415,1
+Davenport-Moline-Rock Island,DAVENPORT-MOLINE-ROCK ISLAND,"Davenport-Moline-Rock Island, IA-IL",IA,Midwest,381415,1
+Davidson,DAVIDSON,"Nashville-Davidson--Murfreesboro--Franklin, TN",TN,South,2151715,1
+Dayton,DAYTON,"Dayton-Kettering-Beavercreek, OH",OH,Midwest,821740,1
+Dayton Kettering Beavercreek,DAYTON KETTERING BEAVERCREEK,"Dayton-Kettering-Beavercreek, OH",OH,Midwest,821740,1
+Dayton-Kettering-Beavercreek,DAYTON-KETTERING-BEAVERCREEK,"Dayton-Kettering-Beavercreek, OH",OH,Midwest,821740,1
+Daytona Beach,DAYTONA BEACH,"Deltona-Daytona Beach-Ormond Beach, FL",FL,South,739516,1
+Dearborn,DEARBORN,"Detroit-Warren-Dearborn, MI",MI,Midwest,4400578,1
+Decatur,DECATUR,"Decatur, AL",AL,South,159651,1
+Decatur,DECATUR,"Decatur, IL",IL,Midwest,100737,2
+Delano,DELANO,"Bakersfield-Delano, CA",CA,West,922529,1
+Deltona,DELTONA,"Deltona-Daytona Beach-Ormond Beach, FL",FL,South,739516,1
+Deltona Daytona Beach Ormond Beach,DELTONA DAYTONA BEACH ORMOND BEACH,"Deltona-Daytona Beach-Ormond Beach, FL",FL,South,739516,1
+Deltona-Daytona Beach-Ormond Beach,DELTONA-DAYTONA BEACH-ORMOND BEACH,"Deltona-Daytona Beach-Ormond Beach, FL",FL,South,739516,1
+Denison,DENISON,"Sherman-Denison, TX",TX,South,150532,1
+Denver,DENVER,"Denver-Aurora-Centennial, CO",CO,West,3050512,1
+Denver Aurora Centennial,DENVER AURORA CENTENNIAL,"Denver-Aurora-Centennial, CO",CO,West,3050512,1
+Denver-Aurora-Centennial,DENVER-AURORA-CENTENNIAL,"Denver-Aurora-Centennial, CO",CO,West,3050512,1
+Des Moines,DES MOINES,"Des Moines-West Des Moines, IA",IA,Midwest,753913,1
+Des Moines West Des Moines,DES MOINES WEST DES MOINES,"Des Moines-West Des Moines, IA",IA,Midwest,753913,1
+Des Moines-West Des Moines,DES MOINES-WEST DES MOINES,"Des Moines-West Des Moines, IA",IA,Midwest,753913,1
+Destin,DESTIN,"Crestview-Fort Walton Beach-Destin, FL",FL,South,310149,1
+Detroit,DETROIT,"Detroit-Warren-Dearborn, MI",MI,Midwest,4400578,1
+Detroit Warren Dearborn,DETROIT WARREN DEARBORN,"Detroit-Warren-Dearborn, MI",MI,Midwest,4400578,1
+Detroit-Warren-Dearborn,DETROIT-WARREN-DEARBORN,"Detroit-Warren-Dearborn, MI",MI,Midwest,4400578,1
+Dothan,DOTHAN,"Dothan, AL",AL,South,154766,1
+Douglas,DOUGLAS,"Sierra Vista-Douglas, AZ",AZ,West,125773,1
+Dover,DOVER,"Dover, DE",DE,South,192690,1
+Dubuque,DUBUQUE,"Dubuque, IA",IA,Midwest,99242,1
+Duluth,DULUTH,"Duluth, MN-WI",MN,Midwest,281815,1
+Durham,DURHAM,"Durham-Chapel Hill, NC",NC,South,620522,1
+Durham Chapel Hill,DURHAM CHAPEL HILL,"Durham-Chapel Hill, NC",NC,South,620522,1
+Durham-Chapel Hill,DURHAM-CHAPEL HILL,"Durham-Chapel Hill, NC",NC,South,620522,1
+Eagle Pass,EAGLE PASS,"Eagle Pass, TX",TX,South,58829,1
+East Hartford,EAST HARTFORD,"Hartford-West Hartford-East Hartford, CT",CT,Northeast,1169048,1
+East Lansing,EAST LANSING,"Lansing-East Lansing, MI",MI,Midwest,479971,1
+East Wenatchee,EAST WENATCHEE,"Wenatchee-East Wenatchee, WA",WA,West,127023,1
+Easton,EASTON,"Allentown-Bethlehem-Easton, PA-NJ",PA,Northeast,886418,1
+Eau Claire,EAU CLAIRE,"Eau Claire, WI",WI,Midwest,176153,1
+Edinburg,EDINBURG,"McAllen-Edinburg-Mission, TX",TX,South,914820,1
+El Centro,EL CENTRO,"El Centro, CA",CA,West,181724,1
+El Paso,EL PASO,"El Paso, TX",TX,South,877840,1
+Elgin,ELGIN,"Chicago-Naperville-Elgin, IL-IN",IL,Midwest,9406924,1
+Elizabethtown,ELIZABETHTOWN,"Elizabethtown, KY",KY,South,127744,1
+Elkhart,ELKHART,"Elkhart-Goshen, IN",IN,Midwest,207436,1
+Elkhart Goshen,ELKHART GOSHEN,"Elkhart-Goshen, IN",IN,Midwest,207436,1
+Elkhart-Goshen,ELKHART-GOSHEN,"Elkhart-Goshen, IN",IN,Midwest,207436,1
+Elmira,ELMIRA,"Elmira, NY",NY,Northeast,81115,1
+Enid,ENID,"Enid, OK",OK,South,62007,1
+Erie,ERIE,"Erie, PA",PA,Northeast,267750,1
+Eugene,EUGENE,"Eugene-Springfield, OR",OR,West,382396,1
+Eugene Springfield,EUGENE SPRINGFIELD,"Eugene-Springfield, OR",OR,West,382396,1
+Eugene-Springfield,EUGENE-SPRINGFIELD,"Eugene-Springfield, OR",OR,West,382396,1
+Evansville,EVANSVILLE,"Evansville, IN",IN,Midwest,271793,1
+Fairbanks,FAIRBANKS,"Fairbanks-College, AK",AK,West,94951,1
+Fairbanks College,FAIRBANKS COLLEGE,"Fairbanks-College, AK",AK,West,94951,1
+Fairbanks-College,FAIRBANKS-COLLEGE,"Fairbanks-College, AK",AK,West,94951,1
+Fairhope,FAIRHOPE,"Daphne-Fairhope-Foley, AL",AL,South,261608,1
+Fargo,FARGO,"Fargo, ND-MN",ND,Midwest,267793,1
+Farmington,FARMINGTON,"Farmington, NM",NM,West,120817,1
+Fayette,FAYETTE,"Lexington-Fayette, KY",KY,South,533366,1
+Fayetteville,FAYETTEVILLE,"Fayetteville-Springdale-Rogers, AR",AR,South,605547,1
+Fayetteville,FAYETTEVILLE,"Fayetteville, NC",NC,South,393812,2
+Fayetteville Springdale Rogers,FAYETTEVILLE SPRINGDALE ROGERS,"Fayetteville-Springdale-Rogers, AR",AR,South,605547,1
+Fayetteville-Springdale-Rogers,FAYETTEVILLE-SPRINGDALE-ROGERS,"Fayetteville-Springdale-Rogers, AR",AR,South,605547,1
+Ferry Pass,FERRY PASS,"Pensacola-Ferry Pass-Brent, FL",FL,South,538928,1
+Flagstaff,FLAGSTAFF,"Flagstaff, AZ",AZ,West,145161,1
+Flint,FLINT,"Flint, MI",MI,Midwest,402279,1
+Florence,FLORENCE,"Florence, SC",SC,South,200474,1
+Florence,FLORENCE,"Florence-Muscle Shoals, AL",AL,South,156287,2
+Florence Muscle Shoals,FLORENCE MUSCLE SHOALS,"Florence-Muscle Shoals, AL",AL,South,156287,1
+Florence-Muscle Shoals,FLORENCE-MUSCLE SHOALS,"Florence-Muscle Shoals, AL",AL,South,156287,1
+Foley,FOLEY,"Daphne-Fairhope-Foley, AL",AL,South,261608,1
+Folsom,FOLSOM,"Sacramento-Roseville-Folsom, CA",CA,West,2463127,1
+Fond du Lac,FOND DU LAC,"Fond du Lac, WI",WI,Midwest,104269,1
+Fort Collins,FORT COLLINS,"Fort Collins-Loveland, CO",CO,West,374574,1
+Fort Collins Loveland,FORT COLLINS LOVELAND,"Fort Collins-Loveland, CO",CO,West,374574,1
+Fort Collins-Loveland,FORT COLLINS-LOVELAND,"Fort Collins-Loveland, CO",CO,West,374574,1
+Fort Drum,FORT DRUM,"Watertown-Fort Drum, NY",NY,Northeast,113140,1
+Fort Lauderdale,FORT LAUDERDALE,"Miami-Fort Lauderdale-West Palm Beach, FL",FL,South,6457988,1
+Fort Myers,FORT MYERS,"Cape Coral-Fort Myers, FL",FL,South,860959,1
+Fort Smith,FORT SMITH,"Fort Smith, AR-OK",AR,South,232848,1
+Fort Walton Beach,FORT WALTON BEACH,"Crestview-Fort Walton Beach-Destin, FL",FL,South,310149,1
+Fort Wayne,FORT WAYNE,"Fort Wayne, IN",IN,Midwest,462978,1
+Fort Worth,FORT WORTH,"Dallas-Fort Worth-Arlington, TX",TX,South,8344032,1
+Franklin,FRANKLIN,"Nashville-Davidson--Murfreesboro--Franklin, TN",TN,South,2151715,1
+Fremont,FREMONT,"San Francisco-Oakland-Fremont, CA",CA,West,4648486,1
+Fresno,FRESNO,"Fresno, CA",CA,West,1189557,1
+Gadsden,GADSDEN,"Gadsden, AL",AL,South,103207,1
+Gainesville,GAINESVILLE,"Gainesville, FL",FL,South,360881,1
+Gainesville,GAINESVILLE,"Gainesville, GA",GA,South,221745,2
+Gastonia,GASTONIA,"Charlotte-Concord-Gastonia, NC-SC",NC,South,2883370,1
+Gettysburg,GETTYSBURG,"Gettysburg, PA",PA,Northeast,107914,1
+Glens Falls,GLENS FALLS,"Glens Falls, NY",NY,Northeast,125127,1
+Goldsboro,GOLDSBORO,"Goldsboro, NC",NC,South,120338,1
+Goshen,GOSHEN,"Elkhart-Goshen, IN",IN,Midwest,207436,1
+Grand Forks,GRAND FORKS,"Grand Forks, ND-MN",ND,Midwest,104184,1
+Grand Island,GRAND ISLAND,"Grand Island, NE",NE,Midwest,77278,1
+Grand Junction,GRAND JUNCTION,"Grand Junction, CO",CO,West,161260,1
+Grand Rapids,GRAND RAPIDS,"Grand Rapids-Wyoming-Kentwood, MI",MI,Midwest,1178826,1
+Grand Rapids Wyoming Kentwood,GRAND RAPIDS WYOMING KENTWOOD,"Grand Rapids-Wyoming-Kentwood, MI",MI,Midwest,1178826,1
+Grand Rapids-Wyoming-Kentwood,GRAND RAPIDS-WYOMING-KENTWOOD,"Grand Rapids-Wyoming-Kentwood, MI",MI,Midwest,1178826,1
+Grants Pass,GRANTS PASS,"Grants Pass, OR",OR,West,88276,1
+Great Falls,GREAT FALLS,"Great Falls, MT",MT,West,84523,1
+Greeley,GREELEY,"Greeley, CO",CO,West,369745,1
+Green Bay,GREEN BAY,"Green Bay, WI",WI,Midwest,334697,1
+Greensboro,GREENSBORO,"Greensboro-High Point, NC",NC,South,800722,1
+Greensboro High Point,GREENSBORO HIGH POINT,"Greensboro-High Point, NC",NC,South,800722,1
+Greensboro-High Point,GREENSBORO-HIGH POINT,"Greensboro-High Point, NC",NC,South,800722,1
+Greenville,GREENVILLE,"Greenville-Anderson-Greer, SC",SC,South,996680,1
+Greenville,GREENVILLE,"Greenville, NC",NC,South,180783,2
+Greenville Anderson Greer,GREENVILLE ANDERSON GREER,"Greenville-Anderson-Greer, SC",SC,South,996680,1
+Greenville-Anderson-Greer,GREENVILLE-ANDERSON-GREER,"Greenville-Anderson-Greer, SC",SC,South,996680,1
+Greenwood,GREENWOOD,"Indianapolis-Carmel-Greenwood, IN",IN,Midwest,2173288,1
+Greer,GREER,"Greenville-Anderson-Greer, SC",SC,South,996680,1
+Gulfport,GULFPORT,"Gulfport-Biloxi, MS",MS,South,426793,1
+Gulfport Biloxi,GULFPORT BILOXI,"Gulfport-Biloxi, MS",MS,South,426793,1
+Gulfport-Biloxi,GULFPORT-BILOXI,"Gulfport-Biloxi, MS",MS,South,426793,1
+Hagerstown,HAGERSTOWN,"Hagerstown-Martinsburg, MD-WV",MD,South,312992,1
+Hagerstown Martinsburg,HAGERSTOWN MARTINSBURG,"Hagerstown-Martinsburg, MD-WV",MD,South,312992,1
+Hagerstown-Martinsburg,HAGERSTOWN-MARTINSBURG,"Hagerstown-Martinsburg, MD-WV",MD,South,312992,1
+Hammond,HAMMOND,"Hammond, LA",LA,South,139823,1
+Hammonton,HAMMONTON,"Atlantic City-Hammonton, NJ",NJ,Northeast,372989,1
+Hanford,HANFORD,"Hanford-Corcoran, CA",CA,West,154913,1
+Hanford Corcoran,HANFORD CORCORAN,"Hanford-Corcoran, CA",CA,West,154913,1
+Hanford-Corcoran,HANFORD-CORCORAN,"Hanford-Corcoran, CA",CA,West,154913,1
+Hanover,HANOVER,"York-Hanover, PA",PA,Northeast,471240,1
+Harlingen,HARLINGEN,"Brownsville-Harlingen, TX",TX,South,431874,1
+Harrisburg,HARRISBURG,"Harrisburg-Carlisle, PA",PA,Northeast,615361,1
+Harrisburg Carlisle,HARRISBURG CARLISLE,"Harrisburg-Carlisle, PA",PA,Northeast,615361,1
+Harrisburg-Carlisle,HARRISBURG-CARLISLE,"Harrisburg-Carlisle, PA",PA,Northeast,615361,1
+Harrisonburg,HARRISONBURG,"Harrisonburg, VA",VA,South,138838,1
+Hartford,HARTFORD,"Hartford-West Hartford-East Hartford, CT",CT,Northeast,1169048,1
+Hartford West Hartford East Hartford,HARTFORD WEST HARTFORD EAST HARTFORD,"Hartford-West Hartford-East Hartford, CT",CT,Northeast,1169048,1
+Hartford-West Hartford-East Hartford,HARTFORD-WEST HARTFORD-EAST HARTFORD,"Hartford-West Hartford-East Hartford, CT",CT,Northeast,1169048,1
+Hattiesburg,HATTIESBURG,"Hattiesburg, MS",MS,South,156411,1
+Helena,HELENA,"Helena, MT",MT,West,96327,1
+Henderson,HENDERSON,"Las Vegas-Henderson-North Las Vegas, NV",NV,West,2398871,1
+Hickory,HICKORY,"Hickory-Lenoir-Morganton, NC",NC,South,373031,1
+Hickory Lenoir Morganton,HICKORY LENOIR MORGANTON,"Hickory-Lenoir-Morganton, NC",NC,South,373031,1
+Hickory-Lenoir-Morganton,HICKORY-LENOIR-MORGANTON,"Hickory-Lenoir-Morganton, NC",NC,South,373031,1
+High Point,HIGH POINT,"Greensboro-High Point, NC",NC,South,800722,1
+Hillsboro,HILLSBORO,"Portland-Vancouver-Hillsboro, OR-WA",OR,West,2537070,1
+Hilton Head Island,HILTON HEAD ISLAND,"Hilton Head Island-Bluffton-Port Royal, SC",SC,South,237393,1
+Hilton Head Island Bluffton Port Royal,HILTON HEAD ISLAND BLUFFTON PORT ROYAL,"Hilton Head Island-Bluffton-Port Royal, SC",SC,South,237393,1
+Hilton Head Island-Bluffton-Port Royal,HILTON HEAD ISLAND-BLUFFTON-PORT ROYAL,"Hilton Head Island-Bluffton-Port Royal, SC",SC,South,237393,1
+Hinesville,HINESVILLE,"Hinesville, GA",GA,South,89657,1
+Homosassa Springs,HOMOSASSA SPRINGS,"Homosassa Springs, FL",FL,South,170174,1
+Hot Springs,HOT SPRINGS,"Hot Springs, AR",AR,South,99902,1
+Houma,HOUMA,"Houma-Bayou Cane-Thibodaux, LA",LA,South,199206,1
+Houma Bayou Cane Thibodaux,HOUMA BAYOU CANE THIBODAUX,"Houma-Bayou Cane-Thibodaux, LA",LA,South,199206,1
+Houma-Bayou Cane-Thibodaux,HOUMA-BAYOU CANE-THIBODAUX,"Houma-Bayou Cane-Thibodaux, LA",LA,South,199206,1
+Houston,HOUSTON,"Houston-Pasadena-The Woodlands, TX",TX,South,7796182,1
+Houston Pasadena The Woodlands,HOUSTON PASADENA THE WOODLANDS,"Houston-Pasadena-The Woodlands, TX",TX,South,7796182,1
+Houston-Pasadena-The Woodlands,HOUSTON-PASADENA-THE WOODLANDS,"Houston-Pasadena-The Woodlands, TX",TX,South,7796182,1
+Huntington,HUNTINGTON,"Huntington-Ashland, WV-KY-OH",WV,South,366760,1
+Huntington Ashland,HUNTINGTON ASHLAND,"Huntington-Ashland, WV-KY-OH",WV,South,366760,1
+Huntington-Ashland,HUNTINGTON-ASHLAND,"Huntington-Ashland, WV-KY-OH",WV,South,366760,1
+Huntsville,HUNTSVILLE,"Huntsville, AL",AL,South,542297,1
+Idaho Falls,IDAHO FALLS,"Idaho Falls, ID",ID,West,171773,1
+Indianapolis,INDIANAPOLIS,"Indianapolis-Carmel-Greenwood, IN",IN,Midwest,2173288,1
+Indianapolis Carmel Greenwood,INDIANAPOLIS CARMEL GREENWOOD,"Indianapolis-Carmel-Greenwood, IN",IN,Midwest,2173288,1
+Indianapolis-Carmel-Greenwood,INDIANAPOLIS-CARMEL-GREENWOOD,"Indianapolis-Carmel-Greenwood, IN",IN,Midwest,2173288,1
+Iowa City,IOWA CITY,"Iowa City, IA",IA,Midwest,182711,1
+Ithaca,ITHACA,"Ithaca, NY",NY,Northeast,105602,1
+Jackson,JACKSON,"Jackson, MS",MS,South,605803,1
+Jackson,JACKSON,"Jackson, TN",TN,South,183680,2
+Jackson,JACKSON,"Jackson, MI",MI,Midwest,160233,3
+Jacksonville,JACKSONVILLE,"Jacksonville, FL",FL,South,1760548,1
+Jacksonville,JACKSONVILLE,"Jacksonville, NC",NC,South,212954,2
+Janesville,JANESVILLE,"Janesville-Beloit, WI",WI,Midwest,165461,1
+Janesville Beloit,JANESVILLE BELOIT,"Janesville-Beloit, WI",WI,Midwest,165461,1
+Janesville-Beloit,JANESVILLE-BELOIT,"Janesville-Beloit, WI",WI,Midwest,165461,1
+Jefferson City,JEFFERSON CITY,"Jefferson City, MO",MO,Midwest,152832,1
+Jefferson County,JEFFERSON COUNTY,"Louisville/Jefferson County, KY-IN",KY,South,1396762,1
+Jersey City,JERSEY CITY,"New York-Newark-Jersey City, NY-NJ",NY,Northeast,19940274,1
+Johnson City,JOHNSON CITY,"Johnson City, TN",TN,South,215679,1
+Johnstown,JOHNSTOWN,"Johnstown, PA",PA,Northeast,130108,1
+Jonesboro,JONESBORO,"Jonesboro, AR",AR,South,138152,1
+Joplin,JOPLIN,"Joplin, MO-KS",MO,Midwest,207131,1
+Kahului,KAHULUI,"Kahului-Wailuku, HI",HI,West,163769,1
+Kahului Wailuku,KAHULUI WAILUKU,"Kahului-Wailuku, HI",HI,West,163769,1
+Kahului-Wailuku,KAHULUI-WAILUKU,"Kahului-Wailuku, HI",HI,West,163769,1
+Kalamazoo,KALAMAZOO,"Kalamazoo-Portage, MI",MI,Midwest,264780,1
+Kalamazoo Portage,KALAMAZOO PORTAGE,"Kalamazoo-Portage, MI",MI,Midwest,264780,1
+Kalamazoo-Portage,KALAMAZOO-PORTAGE,"Kalamazoo-Portage, MI",MI,Midwest,264780,1
+Kankakee,KANKAKEE,"Kankakee, IL",IL,Midwest,106410,1
+Kansas City,KANSAS CITY,"Kansas City, MO-KS",MO,Midwest,2254288,1
+Kelso,KELSO,"Longview-Kelso, WA",WA,West,113982,1
+Kennewick,KENNEWICK,"Kennewick-Richland, WA",WA,West,319428,1
+Kennewick Richland,KENNEWICK RICHLAND,"Kennewick-Richland, WA",WA,West,319428,1
+Kennewick-Richland,KENNEWICK-RICHLAND,"Kennewick-Richland, WA",WA,West,319428,1
+Kenosha,KENOSHA,"Kenosha, WI",WI,Midwest,168754,1
+Kentwood,KENTWOOD,"Grand Rapids-Wyoming-Kentwood, MI",MI,Midwest,1178826,1
+Kettering,KETTERING,"Dayton-Kettering-Beavercreek, OH",OH,Midwest,821740,1
+Killeen,KILLEEN,"Killeen-Temple, TX",TX,South,509487,1
+Killeen Temple,KILLEEN TEMPLE,"Killeen-Temple, TX",TX,South,509487,1
+Killeen-Temple,KILLEEN-TEMPLE,"Killeen-Temple, TX",TX,South,509487,1
+Kingman,KINGMAN,"Lake Havasu City-Kingman, AZ",AZ,West,226479,1
+Kingsport,KINGSPORT,"Kingsport-Bristol, TN-VA",TN,South,314259,1
+Kingsport Bristol,KINGSPORT BRISTOL,"Kingsport-Bristol, TN-VA",TN,South,314259,1
+Kingsport-Bristol,KINGSPORT-BRISTOL,"Kingsport-Bristol, TN-VA",TN,South,314259,1
+Kingston,KINGSTON,"Kingston, NY",NY,Northeast,182977,1
+Kiryas Joel,KIRYAS JOEL,"Kiryas Joel-Poughkeepsie-Newburgh, NY",NY,Northeast,711730,1
+Kiryas Joel Poughkeepsie Newburgh,KIRYAS JOEL POUGHKEEPSIE NEWBURGH,"Kiryas Joel-Poughkeepsie-Newburgh, NY",NY,Northeast,711730,1
+Kiryas Joel-Poughkeepsie-Newburgh,KIRYAS JOEL-POUGHKEEPSIE-NEWBURGH,"Kiryas Joel-Poughkeepsie-Newburgh, NY",NY,Northeast,711730,1
+Kissimmee,KISSIMMEE,"Orlando-Kissimmee-Sanford, FL",FL,South,2940513,1
+Knoxville,KNOXVILLE,"Knoxville, TN",TN,South,957376,1
+Kokomo,KOKOMO,"Kokomo, IN",IN,Midwest,84082,1
+La Crosse,LA CROSSE,"La Crosse-Onalaska, WI-MN",WI,Midwest,170763,1
+La Crosse Onalaska,LA CROSSE ONALASKA,"La Crosse-Onalaska, WI-MN",WI,Midwest,170763,1
+La Crosse-Onalaska,LA CROSSE-ONALASKA,"La Crosse-Onalaska, WI-MN",WI,Midwest,170763,1
+La Porte,LA PORTE,"Michigan City-La Porte, IN",IN,Midwest,111348,1
+Lacey,LACEY,"Olympia-Lacey-Tumwater, WA",WA,West,302912,1
+Lafayette,LAFAYETTE,"Lafayette, LA",LA,South,419704,1
+Lafayette,LAFAYETTE,"Lafayette-West Lafayette, IN",IN,Midwest,231353,2
+Lafayette West Lafayette,LAFAYETTE WEST LAFAYETTE,"Lafayette-West Lafayette, IN",IN,Midwest,231353,1
+Lafayette-West Lafayette,LAFAYETTE-WEST LAFAYETTE,"Lafayette-West Lafayette, IN",IN,Midwest,231353,1
+Lake Charles,LAKE CHARLES,"Lake Charles, LA",LA,South,243719,1
+Lake Havasu City,LAKE HAVASU CITY,"Lake Havasu City-Kingman, AZ",AZ,West,226479,1
+Lake Havasu City Kingman,LAKE HAVASU CITY KINGMAN,"Lake Havasu City-Kingman, AZ",AZ,West,226479,1
+Lake Havasu City-Kingman,LAKE HAVASU CITY-KINGMAN,"Lake Havasu City-Kingman, AZ",AZ,West,226479,1
+Lakeland,LAKELAND,"Lakeland-Winter Haven, FL",FL,South,852878,1
+Lakeland Winter Haven,LAKELAND WINTER HAVEN,"Lakeland-Winter Haven, FL",FL,South,852878,1
+Lakeland-Winter Haven,LAKELAND-WINTER HAVEN,"Lakeland-Winter Haven, FL",FL,South,852878,1
+Lancaster,LANCASTER,"Lancaster, PA",PA,Northeast,563293,1
+Lansing,LANSING,"Lansing-East Lansing, MI",MI,Midwest,479971,1
+Lansing East Lansing,LANSING EAST LANSING,"Lansing-East Lansing, MI",MI,Midwest,479971,1
+Lansing-East Lansing,LANSING-EAST LANSING,"Lansing-East Lansing, MI",MI,Midwest,479971,1
+Laredo,LAREDO,"Laredo, TX",TX,South,272823,1
+Las Cruces,LAS CRUCES,"Las Cruces, NM",NM,West,229366,1
+Las Vegas,LAS VEGAS,"Las Vegas-Henderson-North Las Vegas, NV",NV,West,2398871,1
+Las Vegas Henderson North Las Vegas,LAS VEGAS HENDERSON NORTH LAS VEGAS,"Las Vegas-Henderson-North Las Vegas, NV",NV,West,2398871,1
+Las Vegas-Henderson-North Las Vegas,LAS VEGAS-HENDERSON-NORTH LAS VEGAS,"Las Vegas-Henderson-North Las Vegas, NV",NV,West,2398871,1
+Lawrence,LAWRENCE,"Lawrence, KS",KS,Midwest,121989,1
+Lawton,LAWTON,"Lawton, OK",OK,South,126503,1
+Lebanon,LEBANON,"Lebanon, PA",PA,Northeast,145319,1
+Lehi,LEHI,"Provo-Orem-Lehi, UT",UT,West,760154,1
+Lenoir,LENOIR,"Hickory-Lenoir-Morganton, NC",NC,South,373031,1
+Lewiston,LEWISTON,"Lewiston-Auburn, ME",ME,Northeast,115272,1
+Lewiston,LEWISTON,"Lewiston, ID-WA",ID,West,65370,2
+Lewiston Auburn,LEWISTON AUBURN,"Lewiston-Auburn, ME",ME,Northeast,115272,1
+Lewiston-Auburn,LEWISTON-AUBURN,"Lewiston-Auburn, ME",ME,Northeast,115272,1
+Lexington,LEXINGTON,"Lexington-Fayette, KY",KY,South,533366,1
+Lexington Fayette,LEXINGTON FAYETTE,"Lexington-Fayette, KY",KY,South,533366,1
+Lexington Park,LEXINGTON PARK,"Lexington Park, MD",MD,South,211382,1
+Lexington-Fayette,LEXINGTON-FAYETTE,"Lexington-Fayette, KY",KY,South,533366,1
+Lima,LIMA,"Lima, OH",OH,Midwest,100866,1
+Lincoln,LINCOLN,"Lincoln, NE",NE,Midwest,351919,1
+Little Rock,LITTLE ROCK,"Little Rock-North Little Rock-Conway, AR",AR,South,770959,1
+Little Rock North Little Rock Conway,LITTLE ROCK NORTH LITTLE ROCK CONWAY,"Little Rock-North Little Rock-Conway, AR",AR,South,770959,1
+Little Rock-North Little Rock-Conway,LITTLE ROCK-NORTH LITTLE ROCK-CONWAY,"Little Rock-North Little Rock-Conway, AR",AR,South,770959,1
+Lodi,LODI,"Stockton-Lodi, CA",CA,West,816108,1
+Logan,LOGAN,"Logan, UT-ID",UT,West,160053,1
+Long Beach,LONG BEACH,"Los Angeles-Long Beach-Anaheim, CA",CA,West,12927614,1
+Longview,LONGVIEW,"Longview, TX",TX,South,295490,1
+Longview,LONGVIEW,"Longview-Kelso, WA",WA,West,113982,2
+Longview Kelso,LONGVIEW KELSO,"Longview-Kelso, WA",WA,West,113982,1
+Longview-Kelso,LONGVIEW-KELSO,"Longview-Kelso, WA",WA,West,113982,1
+Los Angeles,LOS ANGELES,"Los Angeles-Long Beach-Anaheim, CA",CA,West,12927614,1
+Los Angeles Long Beach Anaheim,LOS ANGELES LONG BEACH ANAHEIM,"Los Angeles-Long Beach-Anaheim, CA",CA,West,12927614,1
+Los Angeles-Long Beach-Anaheim,LOS ANGELES-LONG BEACH-ANAHEIM,"Los Angeles-Long Beach-Anaheim, CA",CA,West,12927614,1
+Louisville,LOUISVILLE,"Louisville/Jefferson County, KY-IN",KY,South,1396762,1
+Louisville/Jefferson County,LOUISVILLE JEFFERSON COUNTY,"Louisville/Jefferson County, KY-IN",KY,South,1396762,1
+Loveland,LOVELAND,"Fort Collins-Loveland, CO",CO,West,374574,1
+Lubbock,LUBBOCK,"Lubbock, TX",TX,South,367530,1
+Lynchburg,LYNCHBURG,"Lynchburg, VA",VA,South,267427,1
+Macon,MACON,"Macon-Bibb County, GA",GA,South,236551,1
+Macon Bibb County,MACON BIBB COUNTY,"Macon-Bibb County, GA",GA,South,236551,1
+Macon-Bibb County,MACON-BIBB COUNTY,"Macon-Bibb County, GA",GA,South,236551,1
+Madison,MADISON,"Madison, WI",WI,Midwest,707606,1
+Manchester,MANCHESTER,"Manchester-Nashua, NH",NH,Northeast,430462,1
+Manchester Nashua,MANCHESTER NASHUA,"Manchester-Nashua, NH",NH,Northeast,430462,1
+Manchester-Nashua,MANCHESTER-NASHUA,"Manchester-Nashua, NH",NH,Northeast,430462,1
+Mandeville,MANDEVILLE,"Slidell-Mandeville-Covington, LA",LA,South,277615,1
+Manhattan,MANHATTAN,"Manhattan, KS",KS,Midwest,134892,1
+Mankato,MANKATO,"Mankato, MN",MN,Midwest,105193,1
+Mansfield,MANSFIELD,"Mansfield, OH",OH,Midwest,124853,1
+Marco Island,MARCO ISLAND,"Naples-Marco Island, FL",FL,South,416233,1
+Martinsburg,MARTINSBURG,"Hagerstown-Martinsburg, MD-WV",MD,South,312992,1
+Massillon,MASSILLON,"Canton-Massillon, OH",OH,Midwest,400551,1
+McAllen,MCALLEN,"McAllen-Edinburg-Mission, TX",TX,South,914820,1
+McAllen Edinburg Mission,MCALLEN EDINBURG MISSION,"McAllen-Edinburg-Mission, TX",TX,South,914820,1
+McAllen-Edinburg-Mission,MCALLEN-EDINBURG-MISSION,"McAllen-Edinburg-Mission, TX",TX,South,914820,1
+Medford,MEDFORD,"Medford, OR",OR,West,221331,1
+Melbourne,MELBOURNE,"Palm Bay-Melbourne-Titusville, FL",FL,South,658447,1
+Memphis,MEMPHIS,"Memphis, TN-MS-AR",TN,South,1337653,1
+Merced,MERCED,"Merced, CA",CA,West,296774,1
+Mesa,MESA,"Phoenix-Mesa-Chandler, AZ",AZ,West,5186958,1
+Metairie,METAIRIE,"New Orleans-Metairie, LA",LA,South,966230,1
+Miami,MIAMI,"Miami-Fort Lauderdale-West Palm Beach, FL",FL,South,6457988,1
+Miami Fort Lauderdale West Palm Beach,MIAMI FORT LAUDERDALE WEST PALM BEACH,"Miami-Fort Lauderdale-West Palm Beach, FL",FL,South,6457988,1
+Miami-Fort Lauderdale-West Palm Beach,MIAMI-FORT LAUDERDALE-WEST PALM BEACH,"Miami-Fort Lauderdale-West Palm Beach, FL",FL,South,6457988,1
+Michigan City,MICHIGAN CITY,"Michigan City-La Porte, IN",IN,Midwest,111348,1
+Michigan City La Porte,MICHIGAN CITY LA PORTE,"Michigan City-La Porte, IN",IN,Midwest,111348,1
+Michigan City-La Porte,MICHIGAN CITY-LA PORTE,"Michigan City-La Porte, IN",IN,Midwest,111348,1
+Midland,MIDLAND,"Midland, TX",TX,South,188071,1
+Midland,MIDLAND,"Midland, MI",MI,Midwest,84022,2
+Milwaukee,MILWAUKEE,"Milwaukee-Waukesha, WI",WI,Midwest,1574452,1
+Milwaukee Waukesha,MILWAUKEE WAUKESHA,"Milwaukee-Waukesha, WI",WI,Midwest,1574452,1
+Milwaukee-Waukesha,MILWAUKEE-WAUKESHA,"Milwaukee-Waukesha, WI",WI,Midwest,1574452,1
+Minneapolis,MINNEAPOLIS,"Minneapolis-St. Paul-Bloomington, MN-WI",MN,Midwest,3757952,1
+Minneapolis St Paul Bloomington,MINNEAPOLIS SAINT PAUL BLOOMINGTON,"Minneapolis-St. Paul-Bloomington, MN-WI",MN,Midwest,3757952,1
+Minneapolis-St Paul-Bloomington,MINNEAPOLIS-ST PAUL-BLOOMINGTON,"Minneapolis-St. Paul-Bloomington, MN-WI",MN,Midwest,3757952,1
+Minot,MINOT,"Minot, ND",ND,Midwest,75815,1
+Mishawaka,MISHAWAKA,"South Bend-Mishawaka, IN-MI",IN,Midwest,325294,1
+Mission,MISSION,"McAllen-Edinburg-Mission, TX",TX,South,914820,1
+Missoula,MISSOULA,"Missoula, MT",MT,West,126608,1
+Mobile,MOBILE,"Mobile, AL",AL,South,412339,1
+Modesto,MODESTO,"Modesto, CA",CA,West,556972,1
+Moline,MOLINE,"Davenport-Moline-Rock Island, IA-IL",IA,Midwest,381415,1
+Monroe,MONROE,"Monroe, LA",LA,South,222072,1
+Monroe,MONROE,"Monroe, MI",MI,Midwest,156045,2
+Montgomery,MONTGOMERY,"Montgomery, AL",AL,South,386587,1
+Morganton,MORGANTON,"Hickory-Lenoir-Morganton, NC",NC,South,373031,1
+Morgantown,MORGANTOWN,"Morgantown, WV",WV,South,142752,1
+Morristown,MORRISTOWN,"Morristown, TN",TN,South,126932,1
+Mount Pleasant,MOUNT PLEASANT,"Racine-Mount Pleasant, WI",WI,Midwest,198651,1
+Mount Vernon,MOUNT VERNON,"Mount Vernon-Anacortes, WA",WA,West,132736,1
+Mount Vernon Anacortes,MOUNT VERNON ANACORTES,"Mount Vernon-Anacortes, WA",WA,West,132736,1
+Mount Vernon-Anacortes,MOUNT VERNON-ANACORTES,"Mount Vernon-Anacortes, WA",WA,West,132736,1
+Muncie,MUNCIE,"Muncie, IN",IN,Midwest,112951,1
+Murfreesboro,MURFREESBORO,"Nashville-Davidson--Murfreesboro--Franklin, TN",TN,South,2151715,1
+Murray,MURRAY,"Salt Lake City-Murray, UT",UT,West,1300762,1
+Muscle Shoals,MUSCLE SHOALS,"Florence-Muscle Shoals, AL",AL,South,156287,1
+Muskegon,MUSKEGON,"Muskegon-Norton Shores, MI",MI,Midwest,177428,1
+Muskegon Norton Shores,MUSKEGON NORTON SHORES,"Muskegon-Norton Shores, MI",MI,Midwest,177428,1
+Muskegon-Norton Shores,MUSKEGON-NORTON SHORES,"Muskegon-Norton Shores, MI",MI,Midwest,177428,1
+Myrtle Beach,MYRTLE BEACH,"Myrtle Beach-Conway-North Myrtle Beach, SC",SC,South,413391,1
+Myrtle Beach Conway North Myrtle Beach,MYRTLE BEACH CONWAY NORTH MYRTLE BEACH,"Myrtle Beach-Conway-North Myrtle Beach, SC",SC,South,413391,1
+Myrtle Beach-Conway-North Myrtle Beach,MYRTLE BEACH-CONWAY-NORTH MYRTLE BEACH,"Myrtle Beach-Conway-North Myrtle Beach, SC",SC,South,413391,1
+Napa,NAPA,"Napa, CA",CA,West,132727,1
+Naperville,NAPERVILLE,"Chicago-Naperville-Elgin, IL-IN",IL,Midwest,9406924,1
+Naples,NAPLES,"Naples-Marco Island, FL",FL,South,416233,1
+Naples Marco Island,NAPLES MARCO ISLAND,"Naples-Marco Island, FL",FL,South,416233,1
+Naples-Marco Island,NAPLES-MARCO ISLAND,"Naples-Marco Island, FL",FL,South,416233,1
+Nashua,NASHUA,"Manchester-Nashua, NH",NH,Northeast,430462,1
+Nashville,NASHVILLE,"Nashville-Davidson--Murfreesboro--Franklin, TN",TN,South,2151715,1
+Nashville Davidson Murfreesboro Franklin,NASHVILLE DAVIDSON MURFREESBORO FRANKLIN,"Nashville-Davidson--Murfreesboro--Franklin, TN",TN,South,2151715,1
+Nashville-Davidson--Murfreesboro--Franklin,NASHVILLE-DAVIDSON--MURFREESBORO--FRANKLIN,"Nashville-Davidson--Murfreesboro--Franklin, TN",TN,South,2151715,1
+Neenah,NEENAH,"Oshkosh-Neenah, WI",WI,Midwest,173307,1
+New Braunfels,NEW BRAUNFELS,"San Antonio-New Braunfels, TX",TX,South,2763006,1
+New Haven,NEW HAVEN,"New Haven, CT",CT,Northeast,576718,1
+New London,NEW LONDON,"Norwich-New London-Willimantic, CT",CT,Northeast,282602,1
+New Orleans,NEW ORLEANS,"New Orleans-Metairie, LA",LA,South,966230,1
+New Orleans Metairie,NEW ORLEANS METAIRIE,"New Orleans-Metairie, LA",LA,South,966230,1
+New Orleans-Metairie,NEW ORLEANS-METAIRIE,"New Orleans-Metairie, LA",LA,South,966230,1
+New York,NEW YORK,"New York-Newark-Jersey City, NY-NJ",NY,Northeast,19940274,1
+New York Newark Jersey City,NEW YORK NEWARK JERSEY CITY,"New York-Newark-Jersey City, NY-NJ",NY,Northeast,19940274,1
+New York-Newark-Jersey City,NEW YORK-NEWARK-JERSEY CITY,"New York-Newark-Jersey City, NY-NJ",NY,Northeast,19940274,1
+Newark,NEWARK,"New York-Newark-Jersey City, NY-NJ",NY,Northeast,19940274,1
+Newburgh,NEWBURGH,"Kiryas Joel-Poughkeepsie-Newburgh, NY",NY,Northeast,711730,1
+Newton,NEWTON,"Boston-Cambridge-Newton, MA-NH",MA,Northeast,5025517,1
+Niles,NILES,"Niles, MI",MI,Midwest,152703,1
+Norfolk,NORFOLK,"Virginia Beach-Chesapeake-Norfolk, VA-NC",VA,South,1796689,1
+North Charleston,NORTH CHARLESTON,"Charleston-North Charleston, SC",SC,South,869940,1
+North Las Vegas,NORTH LAS VEGAS,"Las Vegas-Henderson-North Las Vegas, NV",NV,West,2398871,1
+North Little Rock,NORTH LITTLE ROCK,"Little Rock-North Little Rock-Conway, AR",AR,South,770959,1
+North Myrtle Beach,NORTH MYRTLE BEACH,"Myrtle Beach-Conway-North Myrtle Beach, SC",SC,South,413391,1
+North Port,NORTH PORT,"North Port-Bradenton-Sarasota, FL",FL,South,934956,1
+North Port Bradenton Sarasota,NORTH PORT BRADENTON SARASOTA,"North Port-Bradenton-Sarasota, FL",FL,South,934956,1
+North Port-Bradenton-Sarasota,NORTH PORT-BRADENTON-SARASOTA,"North Port-Bradenton-Sarasota, FL",FL,South,934956,1
+Northampton,NORTHAMPTON,"Amherst Town-Northampton, MA",MA,Northeast,165399,1
+Norton Shores,NORTON SHORES,"Muskegon-Norton Shores, MI",MI,Midwest,177428,1
+Norwich,NORWICH,"Norwich-New London-Willimantic, CT",CT,Northeast,282602,1
+Norwich New London Willimantic,NORWICH NEW LONDON WILLIMANTIC,"Norwich-New London-Willimantic, CT",CT,Northeast,282602,1
+Norwich-New London-Willimantic,NORWICH-NEW LONDON-WILLIMANTIC,"Norwich-New London-Willimantic, CT",CT,Northeast,282602,1
+Oakland,OAKLAND,"San Francisco-Oakland-Fremont, CA",CA,West,4648486,1
+Ocala,OCALA,"Ocala, FL",FL,South,428905,1
+Odessa,ODESSA,"Odessa, TX",TX,South,170022,1
+Ogden,OGDEN,"Ogden, UT",UT,West,669210,1
+Oklahoma City,OKLAHOMA CITY,"Oklahoma City, OK",OK,South,1497821,1
+Olympia,OLYMPIA,"Olympia-Lacey-Tumwater, WA",WA,West,302912,1
+Olympia Lacey Tumwater,OLYMPIA LACEY TUMWATER,"Olympia-Lacey-Tumwater, WA",WA,West,302912,1
+Olympia-Lacey-Tumwater,OLYMPIA-LACEY-TUMWATER,"Olympia-Lacey-Tumwater, WA",WA,West,302912,1
+Omaha,OMAHA,"Omaha, NE-IA",NE,Midwest,1001186,1
+Onalaska,ONALASKA,"La Crosse-Onalaska, WI-MN",WI,Midwest,170763,1
+Ontario,ONTARIO,"Riverside-San Bernardino-Ontario, CA",CA,West,4744214,1
+Opelika,OPELIKA,"Auburn-Opelika, AL",AL,South,205355,1
+Orem,OREM,"Provo-Orem-Lehi, UT",UT,West,760154,1
+Orlando,ORLANDO,"Orlando-Kissimmee-Sanford, FL",FL,South,2940513,1
+Orlando Kissimmee Sanford,ORLANDO KISSIMMEE SANFORD,"Orlando-Kissimmee-Sanford, FL",FL,South,2940513,1
+Orlando-Kissimmee-Sanford,ORLANDO-KISSIMMEE-SANFORD,"Orlando-Kissimmee-Sanford, FL",FL,South,2940513,1
+Ormond Beach,ORMOND BEACH,"Deltona-Daytona Beach-Ormond Beach, FL",FL,South,739516,1
+Oshkosh,OSHKOSH,"Oshkosh-Neenah, WI",WI,Midwest,173307,1
+Oshkosh Neenah,OSHKOSH NEENAH,"Oshkosh-Neenah, WI",WI,Midwest,173307,1
+Oshkosh-Neenah,OSHKOSH-NEENAH,"Oshkosh-Neenah, WI",WI,Midwest,173307,1
+Owensboro,OWENSBORO,"Owensboro, KY",KY,South,112812,1
+Oxford,OXFORD,"Anniston-Oxford, AL",AL,South,116427,1
+Oxnard,OXNARD,"Oxnard-Thousand Oaks-Ventura, CA",CA,West,835427,1
+Oxnard Thousand Oaks Ventura,OXNARD THOUSAND OAKS VENTURA,"Oxnard-Thousand Oaks-Ventura, CA",CA,West,835427,1
+Oxnard-Thousand Oaks-Ventura,OXNARD-THOUSAND OAKS-VENTURA,"Oxnard-Thousand Oaks-Ventura, CA",CA,West,835427,1
+Paducah,PADUCAH,"Paducah, KY-IL",KY,South,99814,1
+Palm Bay,PALM BAY,"Palm Bay-Melbourne-Titusville, FL",FL,South,658447,1
+Palm Bay Melbourne Titusville,PALM BAY MELBOURNE TITUSVILLE,"Palm Bay-Melbourne-Titusville, FL",FL,South,658447,1
+Palm Bay-Melbourne-Titusville,PALM BAY-MELBOURNE-TITUSVILLE,"Palm Bay-Melbourne-Titusville, FL",FL,South,658447,1
+Panama City,PANAMA CITY,"Panama City-Panama City Beach, FL",FL,South,226221,1
+Panama City Beach,PANAMA CITY BEACH,"Panama City-Panama City Beach, FL",FL,South,226221,1
+Panama City Panama City Beach,PANAMA CITY PANAMA CITY BEACH,"Panama City-Panama City Beach, FL",FL,South,226221,1
+Panama City-Panama City Beach,PANAMA CITY-PANAMA CITY BEACH,"Panama City-Panama City Beach, FL",FL,South,226221,1
+Parkersburg,PARKERSBURG,"Parkersburg-Vienna, WV",WV,South,87120,1
+Parkersburg Vienna,PARKERSBURG VIENNA,"Parkersburg-Vienna, WV",WV,South,87120,1
+Parkersburg-Vienna,PARKERSBURG-VIENNA,"Parkersburg-Vienna, WV",WV,South,87120,1
+Pasadena,PASADENA,"Houston-Pasadena-The Woodlands, TX",TX,South,7796182,1
+Paso Robles,PASO ROBLES,"San Luis Obispo-Paso Robles, CA",CA,West,281843,1
+Pensacola,PENSACOLA,"Pensacola-Ferry Pass-Brent, FL",FL,South,538928,1
+Pensacola Ferry Pass Brent,PENSACOLA FERRY PASS BRENT,"Pensacola-Ferry Pass-Brent, FL",FL,South,538928,1
+Pensacola-Ferry Pass-Brent,PENSACOLA-FERRY PASS-BRENT,"Pensacola-Ferry Pass-Brent, FL",FL,South,538928,1
+Peoria,PEORIA,"Peoria, IL",IL,Midwest,365668,1
+Petaluma,PETALUMA,"Santa Rosa-Petaluma, CA",CA,West,485375,1
+Philadelphia,PHILADELPHIA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",PA,Northeast,6330422,1
+Philadelphia Camden Wilmington,PHILADELPHIA CAMDEN WILMINGTON,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",PA,Northeast,6330422,1
+Philadelphia-Camden-Wilmington,PHILADELPHIA-CAMDEN-WILMINGTON,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",PA,Northeast,6330422,1
+Phoenix,PHOENIX,"Phoenix-Mesa-Chandler, AZ",AZ,West,5186958,1
+Phoenix Mesa Chandler,PHOENIX MESA CHANDLER,"Phoenix-Mesa-Chandler, AZ",AZ,West,5186958,1
+Phoenix-Mesa-Chandler,PHOENIX-MESA-CHANDLER,"Phoenix-Mesa-Chandler, AZ",AZ,West,5186958,1
+Pinehurst,PINEHURST,"Pinehurst-Southern Pines, NC",NC,South,108417,1
+Pinehurst Southern Pines,PINEHURST SOUTHERN PINES,"Pinehurst-Southern Pines, NC",NC,South,108417,1
+Pinehurst-Southern Pines,PINEHURST-SOUTHERN PINES,"Pinehurst-Southern Pines, NC",NC,South,108417,1
+Pittsburgh,PITTSBURGH,"Pittsburgh, PA",PA,Northeast,2429917,1
+Pittsfield,PITTSFIELD,"Pittsfield, MA",MA,Northeast,128726,1
+Pocatello,POCATELLO,"Pocatello, ID",ID,West,91010,1
+Port Arthur,PORT ARTHUR,"Beaumont-Port Arthur, TX",TX,South,398733,1
+Port Orchard,PORT ORCHARD,"Bremerton-Silverdale-Port Orchard, WA",WA,West,281420,1
+Port Royal,PORT ROYAL,"Hilton Head Island-Bluffton-Port Royal, SC",SC,South,237393,1
+Port St Lucie,PORT SAINT LUCIE,"Port St. Lucie, FL",FL,South,556336,1
+Portage,PORTAGE,"Kalamazoo-Portage, MI",MI,Midwest,264780,1
+Portland,PORTLAND,"Portland-Vancouver-Hillsboro, OR-WA",OR,West,2537070,1
+Portland,PORTLAND,"Portland-South Portland, ME",ME,Northeast,571534,2
+Portland South Portland,PORTLAND SOUTH PORTLAND,"Portland-South Portland, ME",ME,Northeast,571534,1
+Portland Vancouver Hillsboro,PORTLAND VANCOUVER HILLSBORO,"Portland-Vancouver-Hillsboro, OR-WA",OR,West,2537070,1
+Portland-South Portland,PORTLAND-SOUTH PORTLAND,"Portland-South Portland, ME",ME,Northeast,571534,1
+Portland-Vancouver-Hillsboro,PORTLAND-VANCOUVER-HILLSBORO,"Portland-Vancouver-Hillsboro, OR-WA",OR,West,2537070,1
+Poughkeepsie,POUGHKEEPSIE,"Kiryas Joel-Poughkeepsie-Newburgh, NY",NY,Northeast,711730,1
+Prescott,PRESCOTT,"Prescott Valley-Prescott, AZ",AZ,West,252013,1
+Prescott Valley,PRESCOTT VALLEY,"Prescott Valley-Prescott, AZ",AZ,West,252013,1
+Prescott Valley Prescott,PRESCOTT VALLEY PRESCOTT,"Prescott Valley-Prescott, AZ",AZ,West,252013,1
+Prescott Valley-Prescott,PRESCOTT VALLEY-PRESCOTT,"Prescott Valley-Prescott, AZ",AZ,West,252013,1
+Princeton,PRINCETON,"Trenton-Princeton, NJ",NJ,Northeast,392138,1
+Providence,PROVIDENCE,"Providence-Warwick, RI-MA",RI,Northeast,1700901,1
+Providence Warwick,PROVIDENCE WARWICK,"Providence-Warwick, RI-MA",RI,Northeast,1700901,1
+Providence-Warwick,PROVIDENCE-WARWICK,"Providence-Warwick, RI-MA",RI,Northeast,1700901,1
+Provo,PROVO,"Provo-Orem-Lehi, UT",UT,West,760154,1
+Provo Orem Lehi,PROVO OREM LEHI,"Provo-Orem-Lehi, UT",UT,West,760154,1
+Provo-Orem-Lehi,PROVO-OREM-LEHI,"Provo-Orem-Lehi, UT",UT,West,760154,1
+Pueblo,PUEBLO,"Pueblo, CO",CO,West,169866,1
+Punta Gorda,PUNTA GORDA,"Punta Gorda, FL",FL,South,212122,1
+Racine,RACINE,"Racine-Mount Pleasant, WI",WI,Midwest,198651,1
+Racine Mount Pleasant,RACINE MOUNT PLEASANT,"Racine-Mount Pleasant, WI",WI,Midwest,198651,1
+Racine-Mount Pleasant,RACINE-MOUNT PLEASANT,"Racine-Mount Pleasant, WI",WI,Midwest,198651,1
+Radford,RADFORD,"Blacksburg-Christiansburg-Radford, VA",VA,South,183318,1
+Raleigh,RALEIGH,"Raleigh-Cary, NC",NC,South,1562009,1
+Raleigh Cary,RALEIGH CARY,"Raleigh-Cary, NC",NC,South,1562009,1
+Raleigh-Cary,RALEIGH-CARY,"Raleigh-Cary, NC",NC,South,1562009,1
+Rapid City,RAPID CITY,"Rapid City, SD",SD,Midwest,153470,1
+Reading,READING,"Reading, PA",PA,Northeast,439117,1
+Redding,REDDING,"Redding, CA",CA,West,181121,1
+Reno,RENO,"Reno, NV",NV,West,575266,1
+Richland,RICHLAND,"Kennewick-Richland, WA",WA,West,319428,1
+Richmond,RICHMOND,"Richmond, VA",VA,South,1368219,1
+Richmond County,RICHMOND COUNTY,"Augusta-Richmond County, GA-SC",GA,South,636658,1
+Riverside,RIVERSIDE,"Riverside-San Bernardino-Ontario, CA",CA,West,4744214,1
+Riverside San Bernardino Ontario,RIVERSIDE SAN BERNARDINO ONTARIO,"Riverside-San Bernardino-Ontario, CA",CA,West,4744214,1
+Riverside-San Bernardino-Ontario,RIVERSIDE-SAN BERNARDINO-ONTARIO,"Riverside-San Bernardino-Ontario, CA",CA,West,4744214,1
+Roanoke,ROANOKE,"Roanoke, VA",VA,South,315456,1
+Rochester,ROCHESTER,"Rochester, NY",NY,Northeast,1057218,1
+Rochester,ROCHESTER,"Rochester, MN",MN,Midwest,230742,2
+Rock Island,ROCK ISLAND,"Davenport-Moline-Rock Island, IA-IL",IA,Midwest,381415,1
+Rockford,ROCKFORD,"Rockford, IL",IL,Midwest,337103,1
+Rocky Mount,ROCKY MOUNT,"Rocky Mount, NC",NC,South,147114,1
+Rogers,ROGERS,"Fayetteville-Springdale-Rogers, AR",AR,South,605547,1
+Rome,ROME,"Utica-Rome, NY",NY,Northeast,287932,1
+Rome,ROME,"Rome, GA",GA,South,101390,2
+Roseville,ROSEVILLE,"Sacramento-Roseville-Folsom, CA",CA,West,2463127,1
+Roswell,ROSWELL,"Atlanta-Sandy Springs-Roswell, GA",GA,South,6409047,1
+Round Rock,ROUND ROCK,"Austin-Round Rock-San Marcos, TX",TX,South,2550637,1
+Sacramento,SACRAMENTO,"Sacramento-Roseville-Folsom, CA",CA,West,2463127,1
+Sacramento Roseville Folsom,SACRAMENTO ROSEVILLE FOLSOM,"Sacramento-Roseville-Folsom, CA",CA,West,2463127,1
+Sacramento-Roseville-Folsom,SACRAMENTO-ROSEVILLE-FOLSOM,"Sacramento-Roseville-Folsom, CA",CA,West,2463127,1
+Saginaw,SAGINAW,"Saginaw, MI",MI,Midwest,187714,1
+Saint Cloud,SAINT CLOUD,"St. Cloud, MN",MN,Midwest,205878,1
+Saint George,SAINT GEORGE,"St. George, UT",UT,West,207943,1
+Saint Joseph,SAINT JOSEPH,"St. Joseph, MO-KS",MO,Midwest,119186,1
+Saint Paul,SAINT PAUL,"Minneapolis-St. Paul-Bloomington, MN-WI",MN,Midwest,3757952,1
+Saint Petersburg,SAINT PETERSBURG,"Tampa-St. Petersburg-Clearwater, FL",FL,South,3424560,1
+Saint Simons,SAINT SIMONS,"Brunswick-St. Simons, GA",GA,South,116080,1
+Salem,SALEM,"Winston-Salem, NC",NC,South,705187,1
+Salem,SALEM,"Salem, OR",OR,West,443416,2
+Salinas,SALINAS,"Salinas, CA",CA,West,436251,1
+Salisbury,SALISBURY,"Salisbury, MD",MD,South,131570,1
+Salt Lake City,SALT LAKE CITY,"Salt Lake City-Murray, UT",UT,West,1300762,1
+Salt Lake City Murray,SALT LAKE CITY MURRAY,"Salt Lake City-Murray, UT",UT,West,1300762,1
+Salt Lake City-Murray,SALT LAKE CITY-MURRAY,"Salt Lake City-Murray, UT",UT,West,1300762,1
+San Angelo,SAN ANGELO,"San Angelo, TX",TX,South,121408,1
+San Antonio,SAN ANTONIO,"San Antonio-New Braunfels, TX",TX,South,2763006,1
+San Antonio New Braunfels,SAN ANTONIO NEW BRAUNFELS,"San Antonio-New Braunfels, TX",TX,South,2763006,1
+San Antonio-New Braunfels,SAN ANTONIO-NEW BRAUNFELS,"San Antonio-New Braunfels, TX",TX,South,2763006,1
+San Bernardino,SAN BERNARDINO,"Riverside-San Bernardino-Ontario, CA",CA,West,4744214,1
+San Diego,SAN DIEGO,"San Diego-Chula Vista-Carlsbad, CA",CA,West,3298799,1
+San Diego Chula Vista Carlsbad,SAN DIEGO CHULA VISTA CARLSBAD,"San Diego-Chula Vista-Carlsbad, CA",CA,West,3298799,1
+San Diego-Chula Vista-Carlsbad,SAN DIEGO-CHULA VISTA-CARLSBAD,"San Diego-Chula Vista-Carlsbad, CA",CA,West,3298799,1
+San Francisco,SAN FRANCISCO,"San Francisco-Oakland-Fremont, CA",CA,West,4648486,1
+San Francisco Oakland Fremont,SAN FRANCISCO OAKLAND FREMONT,"San Francisco-Oakland-Fremont, CA",CA,West,4648486,1
+San Francisco-Oakland-Fremont,SAN FRANCISCO-OAKLAND-FREMONT,"San Francisco-Oakland-Fremont, CA",CA,West,4648486,1
+San Jose,SAN JOSE,"San Jose-Sunnyvale-Santa Clara, CA",CA,West,1995484,1
+San Jose Sunnyvale Santa Clara,SAN JOSE SUNNYVALE SANTA CLARA,"San Jose-Sunnyvale-Santa Clara, CA",CA,West,1995484,1
+San Jose-Sunnyvale-Santa Clara,SAN JOSE-SUNNYVALE-SANTA CLARA,"San Jose-Sunnyvale-Santa Clara, CA",CA,West,1995484,1
+San Luis Obispo,SAN LUIS OBISPO,"San Luis Obispo-Paso Robles, CA",CA,West,281843,1
+San Luis Obispo Paso Robles,SAN LUIS OBISPO PASO ROBLES,"San Luis Obispo-Paso Robles, CA",CA,West,281843,1
+San Luis Obispo-Paso Robles,SAN LUIS OBISPO-PASO ROBLES,"San Luis Obispo-Paso Robles, CA",CA,West,281843,1
+San Marcos,SAN MARCOS,"Austin-Round Rock-San Marcos, TX",TX,South,2550637,1
+Sandusky,SANDUSKY,"Sandusky, OH",OH,Midwest,113533,1
+Sandy Springs,SANDY SPRINGS,"Atlanta-Sandy Springs-Roswell, GA",GA,South,6409047,1
+Sanford,SANFORD,"Orlando-Kissimmee-Sanford, FL",FL,South,2940513,1
+Santa Barbara,SANTA BARBARA,"Santa Maria-Santa Barbara, CA",CA,West,444500,1
+Santa Clara,SANTA CLARA,"San Jose-Sunnyvale-Santa Clara, CA",CA,West,1995484,1
+Santa Cruz,SANTA CRUZ,"Santa Cruz-Watsonville, CA",CA,West,262406,1
+Santa Cruz Watsonville,SANTA CRUZ WATSONVILLE,"Santa Cruz-Watsonville, CA",CA,West,262406,1
+Santa Cruz-Watsonville,SANTA CRUZ-WATSONVILLE,"Santa Cruz-Watsonville, CA",CA,West,262406,1
+Santa Fe,SANTA FE,"Santa Fe, NM",NM,West,157765,1
+Santa Maria,SANTA MARIA,"Santa Maria-Santa Barbara, CA",CA,West,444500,1
+Santa Maria Santa Barbara,SANTA MARIA SANTA BARBARA,"Santa Maria-Santa Barbara, CA",CA,West,444500,1
+Santa Maria-Santa Barbara,SANTA MARIA-SANTA BARBARA,"Santa Maria-Santa Barbara, CA",CA,West,444500,1
+Santa Rosa,SANTA ROSA,"Santa Rosa-Petaluma, CA",CA,West,485375,1
+Santa Rosa Petaluma,SANTA ROSA PETALUMA,"Santa Rosa-Petaluma, CA",CA,West,485375,1
+Santa Rosa-Petaluma,SANTA ROSA-PETALUMA,"Santa Rosa-Petaluma, CA",CA,West,485375,1
+Sarasota,SARASOTA,"North Port-Bradenton-Sarasota, FL",FL,South,934956,1
+Savannah,SAVANNAH,"Savannah, GA",GA,South,431589,1
+Schenectady,SCHENECTADY,"Albany-Schenectady-Troy, NY",NY,Northeast,913485,1
+Scranton,SCRANTON,"Scranton--Wilkes-Barre, PA",PA,Northeast,574009,1
+Scranton Wilkes Barre,SCRANTON WILKES BARRE,"Scranton--Wilkes-Barre, PA",PA,Northeast,574009,1
+Scranton--Wilkes-Barre,SCRANTON--WILKES-BARRE,"Scranton--Wilkes-Barre, PA",PA,Northeast,574009,1
+Seattle,SEATTLE,"Seattle-Tacoma-Bellevue, WA",WA,West,4145494,1
+Seattle Tacoma Bellevue,SEATTLE TACOMA BELLEVUE,"Seattle-Tacoma-Bellevue, WA",WA,West,4145494,1
+Seattle-Tacoma-Bellevue,SEATTLE-TACOMA-BELLEVUE,"Seattle-Tacoma-Bellevue, WA",WA,West,4145494,1
+Sebastian,SEBASTIAN,"Sebastian-Vero Beach-West Vero Corridor, FL",FL,South,172139,1
+Sebastian Vero Beach West Vero Corridor,SEBASTIAN VERO BEACH WEST VERO CORRIDOR,"Sebastian-Vero Beach-West Vero Corridor, FL",FL,South,172139,1
+Sebastian-Vero Beach-West Vero Corridor,SEBASTIAN-VERO BEACH-WEST VERO CORRIDOR,"Sebastian-Vero Beach-West Vero Corridor, FL",FL,South,172139,1
+Sebring,SEBRING,"Sebring, FL",FL,South,109778,1
+Sheboygan,SHEBOYGAN,"Sheboygan, WI",WI,Midwest,118331,1
+Shelton,SHELTON,"Waterbury-Shelton, CT",CT,Northeast,462220,1
+Sherman,SHERMAN,"Sherman-Denison, TX",TX,South,150532,1
+Sherman Denison,SHERMAN DENISON,"Sherman-Denison, TX",TX,South,150532,1
+Sherman-Denison,SHERMAN-DENISON,"Sherman-Denison, TX",TX,South,150532,1
+Shreveport,SHREVEPORT,"Shreveport-Bossier City, LA",LA,South,383269,1
+Shreveport Bossier City,SHREVEPORT BOSSIER CITY,"Shreveport-Bossier City, LA",LA,South,383269,1
+Shreveport-Bossier City,SHREVEPORT-BOSSIER CITY,"Shreveport-Bossier City, LA",LA,South,383269,1
+Sierra Vista,SIERRA VISTA,"Sierra Vista-Douglas, AZ",AZ,West,125773,1
+Sierra Vista Douglas,SIERRA VISTA DOUGLAS,"Sierra Vista-Douglas, AZ",AZ,West,125773,1
+Sierra Vista-Douglas,SIERRA VISTA-DOUGLAS,"Sierra Vista-Douglas, AZ",AZ,West,125773,1
+Silverdale,SILVERDALE,"Bremerton-Silverdale-Port Orchard, WA",WA,West,281420,1
+Sioux City,SIOUX CITY,"Sioux City, IA-NE-SD",IA,Midwest,145567,1
+Sioux Falls,SIOUX FALLS,"Sioux Falls, SD-MN",SD,Midwest,308711,1
+Slidell,SLIDELL,"Slidell-Mandeville-Covington, LA",LA,South,277615,1
+Slidell Mandeville Covington,SLIDELL MANDEVILLE COVINGTON,"Slidell-Mandeville-Covington, LA",LA,South,277615,1
+Slidell-Mandeville-Covington,SLIDELL-MANDEVILLE-COVINGTON,"Slidell-Mandeville-Covington, LA",LA,South,277615,1
+South Bend,SOUTH BEND,"South Bend-Mishawaka, IN-MI",IN,Midwest,325294,1
+South Bend Mishawaka,SOUTH BEND MISHAWAKA,"South Bend-Mishawaka, IN-MI",IN,Midwest,325294,1
+South Bend-Mishawaka,SOUTH BEND-MISHAWAKA,"South Bend-Mishawaka, IN-MI",IN,Midwest,325294,1
+South Burlington,SOUTH BURLINGTON,"Burlington-South Burlington, VT",VT,Northeast,229550,1
+South Portland,SOUTH PORTLAND,"Portland-South Portland, ME",ME,Northeast,571534,1
+Southern Pines,SOUTHERN PINES,"Pinehurst-Southern Pines, NC",NC,South,108417,1
+Spartanburg,SPARTANBURG,"Spartanburg, SC",SC,South,395934,1
+Spokane,SPOKANE,"Spokane-Spokane Valley, WA",WA,West,604962,1
+Spokane Spokane Valley,SPOKANE SPOKANE VALLEY,"Spokane-Spokane Valley, WA",WA,West,604962,1
+Spokane Valley,SPOKANE VALLEY,"Spokane-Spokane Valley, WA",WA,West,604962,1
+Spokane-Spokane Valley,SPOKANE-SPOKANE VALLEY,"Spokane-Spokane Valley, WA",WA,West,604962,1
+Springdale,SPRINGDALE,"Fayetteville-Springdale-Rogers, AR",AR,South,605547,1
+Springfield,SPRINGFIELD,"Springfield, MO",MO,Midwest,500004,1
+Springfield,SPRINGFIELD,"Springfield, MA",MA,Northeast,464151,2
+Springfield,SPRINGFIELD,"Eugene-Springfield, OR",OR,West,382396,3
+Springfield,SPRINGFIELD,"Springfield, IL",IL,Midwest,206371,4
+Springfield,SPRINGFIELD,"Springfield, OH",OH,Midwest,134985,5
+St Cloud,ST CLOUD,"St. Cloud, MN",MN,Midwest,205878,1
+St George,ST GEORGE,"St. George, UT",UT,West,207943,1
+St Joseph,ST JOSEPH,"St. Joseph, MO-KS",MO,Midwest,119186,1
+St Paul,ST PAUL,"Minneapolis-St. Paul-Bloomington, MN-WI",MN,Midwest,3757952,1
+St Petersburg,ST PETERSBURG,"Tampa-St. Petersburg-Clearwater, FL",FL,South,3424560,1
+St Simons,ST SIMONS,"Brunswick-St. Simons, GA",GA,South,116080,1
+Stamford,STAMFORD,"Bridgeport-Stamford-Danbury, CT",CT,Northeast,972679,1
+State College,STATE COLLEGE,"State College, PA",PA,Northeast,159805,1
+Staunton,STAUNTON,"Staunton-Stuarts Draft, VA",VA,South,128481,1
+Staunton Stuarts Draft,STAUNTON STUARTS DRAFT,"Staunton-Stuarts Draft, VA",VA,South,128481,1
+Staunton-Stuarts Draft,STAUNTON-STUARTS DRAFT,"Staunton-Stuarts Draft, VA",VA,South,128481,1
+Steubenville,STEUBENVILLE,"Weirton-Steubenville, WV-OH",WV,South,112738,1
+Stockton,STOCKTON,"Stockton-Lodi, CA",CA,West,816108,1
+Stockton Lodi,STOCKTON LODI,"Stockton-Lodi, CA",CA,West,816108,1
+Stockton-Lodi,STOCKTON-LODI,"Stockton-Lodi, CA",CA,West,816108,1
+Stuarts Draft,STUARTS DRAFT,"Staunton-Stuarts Draft, VA",VA,South,128481,1
+Sumter,SUMTER,"Sumter, SC",SC,South,104776,1
+Sunnyvale,SUNNYVALE,"San Jose-Sunnyvale-Santa Clara, CA",CA,West,1995484,1
+Syracuse,SYRACUSE,"Syracuse, NY",NY,Northeast,655189,1
+Tacoma,TACOMA,"Seattle-Tacoma-Bellevue, WA",WA,West,4145494,1
+Tallahassee,TALLAHASSEE,"Tallahassee, FL",FL,South,399098,1
+Tampa,TAMPA,"Tampa-St. Petersburg-Clearwater, FL",FL,South,3424560,1
+Tampa St Petersburg Clearwater,TAMPA SAINT PETERSBURG CLEARWATER,"Tampa-St. Petersburg-Clearwater, FL",FL,South,3424560,1
+Tampa-St Petersburg-Clearwater,TAMPA-ST PETERSBURG-CLEARWATER,"Tampa-St. Petersburg-Clearwater, FL",FL,South,3424560,1
+Temple,TEMPLE,"Killeen-Temple, TX",TX,South,509487,1
+Terre Haute,TERRE HAUTE,"Terre Haute, IN",IN,Midwest,166552,1
+Texarkana,TEXARKANA,"Texarkana, TX-AR",TX,South,146210,1
+The Villages,THE VILLAGES,"Wildwood-The Villages, FL",FL,South,154693,1
+The Woodlands,THE WOODLANDS,"Houston-Pasadena-The Woodlands, TX",TX,South,7796182,1
+Thibodaux,THIBODAUX,"Houma-Bayou Cane-Thibodaux, LA",LA,South,199206,1
+Thousand Oaks,THOUSAND OAKS,"Oxnard-Thousand Oaks-Ventura, CA",CA,West,835427,1
+Titusville,TITUSVILLE,"Palm Bay-Melbourne-Titusville, FL",FL,South,658447,1
+Toledo,TOLEDO,"Toledo, OH",OH,Midwest,601396,1
+Topeka,TOPEKA,"Topeka, KS",KS,Midwest,232648,1
+Towson,TOWSON,"Baltimore-Columbia-Towson, MD",MD,South,2859024,1
+Traverse City,TRAVERSE CITY,"Traverse City, MI",MI,Midwest,156634,1
+Trenton,TRENTON,"Trenton-Princeton, NJ",NJ,Northeast,392138,1
+Trenton Princeton,TRENTON PRINCETON,"Trenton-Princeton, NJ",NJ,Northeast,392138,1
+Trenton-Princeton,TRENTON-PRINCETON,"Trenton-Princeton, NJ",NJ,Northeast,392138,1
+Troy,TROY,"Albany-Schenectady-Troy, NY",NY,Northeast,913485,1
+Tucson,TUCSON,"Tucson, AZ",AZ,West,1080149,1
+Tulsa,TULSA,"Tulsa, OK",OK,South,1060423,1
+Tumwater,TUMWATER,"Olympia-Lacey-Tumwater, WA",WA,West,302912,1
+Tuscaloosa,TUSCALOOSA,"Tuscaloosa, AL",AL,South,281081,1
+Twin Falls,TWIN FALLS,"Twin Falls, ID",ID,West,121319,1
+Tyler,TYLER,"Tyler, TX",TX,South,249091,1
+Urban Honolulu,URBAN HONOLULU,"Urban Honolulu, HI",HI,West,998747,1
+Urbana,URBANA,"Champaign-Urbana, IL",IL,Midwest,243252,1
+Utica,UTICA,"Utica-Rome, NY",NY,Northeast,287932,1
+Utica Rome,UTICA ROME,"Utica-Rome, NY",NY,Northeast,287932,1
+Utica-Rome,UTICA-ROME,"Utica-Rome, NY",NY,Northeast,287932,1
+Valdosta,VALDOSTA,"Valdosta, GA",GA,South,153179,1
+Vallejo,VALLEJO,"Vallejo, CA",CA,West,455101,1
+Vancouver,VANCOUVER,"Portland-Vancouver-Hillsboro, OR-WA",OR,West,2537070,1
+Ventura,VENTURA,"Oxnard-Thousand Oaks-Ventura, CA",CA,West,835427,1
+Vero Beach,VERO BEACH,"Sebastian-Vero Beach-West Vero Corridor, FL",FL,South,172139,1
+Victoria,VICTORIA,"Victoria, TX",TX,South,98446,1
+Vienna,VIENNA,"Parkersburg-Vienna, WV",WV,South,87120,1
+Vineland,VINELAND,"Vineland, NJ",NJ,Northeast,155678,1
+Virginia Beach,VIRGINIA BEACH,"Virginia Beach-Chesapeake-Norfolk, VA-NC",VA,South,1796689,1
+Virginia Beach Chesapeake Norfolk,VIRGINIA BEACH CHESAPEAKE NORFOLK,"Virginia Beach-Chesapeake-Norfolk, VA-NC",VA,South,1796689,1
+Virginia Beach-Chesapeake-Norfolk,VIRGINIA BEACH-CHESAPEAKE-NORFOLK,"Virginia Beach-Chesapeake-Norfolk, VA-NC",VA,South,1796689,1
+Visalia,VISALIA,"Visalia, CA",CA,West,483546,1
+Waco,WACO,"Waco, TX",TX,South,305814,1
+Wailuku,WAILUKU,"Kahului-Wailuku, HI",HI,West,163769,1
+Walla Walla,WALLA WALLA,"Walla Walla, WA",WA,West,62068,1
+Warner Robins,WARNER ROBINS,"Warner Robins, GA",GA,South,204110,1
+Warren,WARREN,"Detroit-Warren-Dearborn, MI",MI,Midwest,4400578,1
+Warren,WARREN,"Youngstown-Warren, OH",OH,Midwest,426086,2
+Warwick,WARWICK,"Providence-Warwick, RI-MA",RI,Northeast,1700901,1
+Washington,WASHINGTON,"Washington-Arlington-Alexandria, DC-VA-MD-WV",DC,South,6437907,1
+Washington Arlington Alexandria,WASHINGTON ARLINGTON ALEXANDRIA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",DC,South,6437907,1
+Washington-Arlington-Alexandria,WASHINGTON-ARLINGTON-ALEXANDRIA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",DC,South,6437907,1
+Waterbury,WATERBURY,"Waterbury-Shelton, CT",CT,Northeast,462220,1
+Waterbury Shelton,WATERBURY SHELTON,"Waterbury-Shelton, CT",CT,Northeast,462220,1
+Waterbury-Shelton,WATERBURY-SHELTON,"Waterbury-Shelton, CT",CT,Northeast,462220,1
+Waterloo,WATERLOO,"Waterloo-Cedar Falls, IA",IA,Midwest,170081,1
+Waterloo Cedar Falls,WATERLOO CEDAR FALLS,"Waterloo-Cedar Falls, IA",IA,Midwest,170081,1
+Waterloo-Cedar Falls,WATERLOO-CEDAR FALLS,"Waterloo-Cedar Falls, IA",IA,Midwest,170081,1
+Watertown,WATERTOWN,"Watertown-Fort Drum, NY",NY,Northeast,113140,1
+Watertown Fort Drum,WATERTOWN FORT DRUM,"Watertown-Fort Drum, NY",NY,Northeast,113140,1
+Watertown-Fort Drum,WATERTOWN-FORT DRUM,"Watertown-Fort Drum, NY",NY,Northeast,113140,1
+Watsonville,WATSONVILLE,"Santa Cruz-Watsonville, CA",CA,West,262406,1
+Waukesha,WAUKESHA,"Milwaukee-Waukesha, WI",WI,Midwest,1574452,1
+Wausau,WAUSAU,"Wausau, WI",WI,Midwest,139091,1
+Weirton,WEIRTON,"Weirton-Steubenville, WV-OH",WV,South,112738,1
+Weirton Steubenville,WEIRTON STEUBENVILLE,"Weirton-Steubenville, WV-OH",WV,South,112738,1
+Weirton-Steubenville,WEIRTON-STEUBENVILLE,"Weirton-Steubenville, WV-OH",WV,South,112738,1
+Wenatchee,WENATCHEE,"Wenatchee-East Wenatchee, WA",WA,West,127023,1
+Wenatchee East Wenatchee,WENATCHEE EAST WENATCHEE,"Wenatchee-East Wenatchee, WA",WA,West,127023,1
+Wenatchee-East Wenatchee,WENATCHEE-EAST WENATCHEE,"Wenatchee-East Wenatchee, WA",WA,West,127023,1
+West Des Moines,WEST DES MOINES,"Des Moines-West Des Moines, IA",IA,Midwest,753913,1
+West Hartford,WEST HARTFORD,"Hartford-West Hartford-East Hartford, CT",CT,Northeast,1169048,1
+West Lafayette,WEST LAFAYETTE,"Lafayette-West Lafayette, IN",IN,Midwest,231353,1
+West Palm Beach,WEST PALM BEACH,"Miami-Fort Lauderdale-West Palm Beach, FL",FL,South,6457988,1
+West Vero Corridor,WEST VERO CORRIDOR,"Sebastian-Vero Beach-West Vero Corridor, FL",FL,South,172139,1
+Wheeling,WHEELING,"Wheeling, WV-OH",WV,South,135136,1
+Wichita,WICHITA,"Wichita, KS",KS,Midwest,661217,1
+Wichita Falls,WICHITA FALLS,"Wichita Falls, TX",TX,South,149869,1
+Wildwood,WILDWOOD,"Wildwood-The Villages, FL",FL,South,154693,1
+Wildwood The Villages,WILDWOOD THE VILLAGES,"Wildwood-The Villages, FL",FL,South,154693,1
+Wildwood-The Villages,WILDWOOD-THE VILLAGES,"Wildwood-The Villages, FL",FL,South,154693,1
+Wilkes,WILKES,"Scranton--Wilkes-Barre, PA",PA,Northeast,574009,1
+Williamsport,WILLIAMSPORT,"Williamsport, PA",PA,Northeast,113236,1
+Willimantic,WILLIMANTIC,"Norwich-New London-Willimantic, CT",CT,Northeast,282602,1
+Wilmington,WILMINGTON,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",PA,Northeast,6330422,1
+Wilmington,WILMINGTON,"Wilmington, NC",NC,South,480522,2
+Winchester,WINCHESTER,"Winchester, VA-WV",VA,South,148005,1
+Winston,WINSTON,"Winston-Salem, NC",NC,South,705187,1
+Winston Salem,WINSTON SALEM,"Winston-Salem, NC",NC,South,705187,1
+Winston-Salem,WINSTON-SALEM,"Winston-Salem, NC",NC,South,705187,1
+Winter Haven,WINTER HAVEN,"Lakeland-Winter Haven, FL",FL,South,852878,1
+Worcester,WORCESTER,"Worcester, MA",MA,Northeast,881248,1
+Wyoming,WYOMING,"Grand Rapids-Wyoming-Kentwood, MI",MI,Midwest,1178826,1
+Yakima,YAKIMA,"Yakima, WA",WA,West,258523,1
+York,YORK,"York-Hanover, PA",PA,Northeast,471240,1
+York Hanover,YORK HANOVER,"York-Hanover, PA",PA,Northeast,471240,1
+York-Hanover,YORK-HANOVER,"York-Hanover, PA",PA,Northeast,471240,1
+Youngstown,YOUNGSTOWN,"Youngstown-Warren, OH",OH,Midwest,426086,1
+Youngstown Warren,YOUNGSTOWN WARREN,"Youngstown-Warren, OH",OH,Midwest,426086,1
+Youngstown-Warren,YOUNGSTOWN-WARREN,"Youngstown-Warren, OH",OH,Midwest,426086,1
+Yuba City,YUBA CITY,"Yuba City, CA",CA,West,186014,1
+Yuma,YUMA,"Yuma, AZ",AZ,West,220310,1

@@ -1,0 +1,6 @@
+Best regressor: RandomForestRegressor
+Target: 2024 metropolitan unemployment rate
+Test RMSE: 1.4007
+Test MAE: 0.7643
+Test R2: 0.5128
+5-fold CV R2: 0.3556 +/- 0.0738

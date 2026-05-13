@@ -1,0 +1,74 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 1969 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+60 760 Td
+(Metropolitan Business Feasibility - Executive Summary) Tj
+T* (========================================================================) Tj
+T* () Tj
+T* (Metros analysed:       386) Tj
+T* (Business categories:   9) Tj
+T* (CBP rows analysed:     369,496) Tj
+T* () Tj
+T* (Data stack: CBP 2023 + ACS 2024 + BLS 2024 + BEA RPP 2024) Tj
+T* () Tj
+T* (Model Performance \(test set\):) Tj
+T* (  Best classifier:   LogisticRegression \(tuned\)) Tj
+T* (  Test Accuracy:     0.8333) Tj
+T* (  Test F1:           0.7451) Tj
+T* (  Test ROC-AUC:      0.9020) Tj
+T* (  Best regressor:    RandomForestRegressor) Tj
+T* (  Test R-squared:    0.5128) Tj
+T* () Tj
+T* (Top 10 Metros \(by Opportunity Score, post-RPP-adjustment\):) Tj
+T* (------------------------------------------------------------------------) Tj
+T* (   1. San Jose-Sunnyvale-Santa Clara, CA               score=0.723) Tj
+T* (   2. Midland, TX                                      score=0.617) Tj
+T* (   3. Bozeman, MT                                      score=0.597) Tj
+T* (   4. San Francisco-Oakland-Fremont, CA                score=0.577) Tj
+T* (   5. Sioux Falls, SD-MN                               score=0.571) Tj
+T* (   6. Bismarck, ND                                     score=0.571) Tj
+T* (   7. Casper, WY                                       score=0.570) Tj
+T* (   8. Bridgeport-Stamford-Danbury, CT                  score=0.570) Tj
+T* (   9. Minot, ND                                        score=0.560) Tj
+T* (  10. Rapid City, SD                                   score=0.556) Tj
+T* () Tj
+T* (Key insight: BEA Regional Price Parities re-shaped the rankings.) Tj
+T* (  - San Francisco fell from #2 to #4 \(cost-of-living index 116\).) Tj
+T* (  - Boston fell from top-5 to #13 \(CoL 108\).) Tj
+T* (  - Midland TX rose to #2 \(CoL 96\).) Tj
+T* (  - Sioux Falls and Bismarck entered top 6 \(CoL ~91\).) Tj
+T* () Tj
+T* (Generated automatically from outputs/* by exec_report.py) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000247 00000 n 
+0000002268 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+2336
+%%EOF

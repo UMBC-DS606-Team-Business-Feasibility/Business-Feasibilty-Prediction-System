@@ -1,0 +1,45 @@
+fold,metro_title,primary_state,region,opportunity_score,actual_label,predicted_label,predicted_probability_high,error_type
+1,"Orlando-Kissimmee-Sanford, FL",FL,South,0.4538,Low/Medium,High,0.7631,False Positive
+1,"Twin Falls, ID",ID,West,0.4956,High,Low/Medium,0.1387,False Negative
+1,"Wichita, KS",KS,Midwest,0.4838,High,Low/Medium,0.3574,False Negative
+1,"Crestview-Fort Walton Beach-Destin, FL",FL,South,0.4449,Low/Medium,High,0.5548,False Positive
+1,"Little Rock-North Little Rock-Conway, AR",AR,South,0.4679,Low/Medium,High,0.6371,False Positive
+1,"Napa, CA",CA,West,0.5398,High,Low/Medium,0.0907,False Negative
+2,"Cape Girardeau, MO-IL",MO,Midwest,0.4694,Low/Medium,High,0.6356,False Positive
+2,"Jacksonville, FL",FL,South,0.4543,Low/Medium,High,0.8246,False Positive
+2,"Grand Rapids-Wyoming-Kentwood, MI",MI,Midwest,0.4817,High,Low/Medium,0.2331,False Negative
+2,"Elkhart-Goshen, IN",IN,Midwest,0.4256,Low/Medium,High,0.976,False Positive
+2,"Houston-Pasadena-The Woodlands, TX",TX,South,0.4702,Low/Medium,High,0.5705,False Positive
+2,"Bellingham, WA",WA,West,0.481,High,Low/Medium,0.2037,False Negative
+2,"Charleston, WV",WV,South,0.4477,Low/Medium,High,0.6564,False Positive
+2,"Albany-Schenectady-Troy, NY",NY,Northeast,0.4673,Low/Medium,High,0.7457,False Positive
+2,"Amarillo, TX",TX,South,0.4717,Low/Medium,High,0.8204,False Positive
+3,"Winston-Salem, NC",NC,South,0.4277,Low/Medium,High,0.507,False Positive
+3,"Tampa-St. Petersburg-Clearwater, FL",FL,South,0.4391,Low/Medium,High,0.8417,False Positive
+3,"Santa Maria-Santa Barbara, CA",CA,West,0.4648,Low/Medium,High,0.8975,False Positive
+3,"Duluth, MN-WI",MN,Midwest,0.4713,Low/Medium,High,0.783,False Positive
+3,"Lewiston-Auburn, ME",ME,Northeast,0.4314,Low/Medium,High,0.5524,False Positive
+4,"Decatur, AL",AL,South,0.4561,Low/Medium,High,0.8094,False Positive
+4,"Kalamazoo-Portage, MI",MI,Midwest,0.4284,Low/Medium,High,0.6589,False Positive
+4,"Fairbanks-College, AK",AK,West,0.4965,High,Low/Medium,0.483,False Negative
+4,"Ames, IA",IA,Midwest,0.4957,High,Low/Medium,0.2835,False Negative
+4,"Sheboygan, WI",WI,Midwest,0.4558,Low/Medium,High,0.7652,False Positive
+4,"Lexington-Fayette, KY",KY,South,0.4657,Low/Medium,High,0.9356,False Positive
+4,"Mankato, MN",MN,Midwest,0.4811,High,Low/Medium,0.3871,False Negative
+4,"Oshkosh-Neenah, WI",WI,Midwest,0.4673,Low/Medium,High,0.9823,False Positive
+4,"Baton Rouge, LA",LA,South,0.4563,Low/Medium,High,0.9891,False Positive
+4,"Topeka, KS",KS,Midwest,0.4664,Low/Medium,High,0.7215,False Positive
+4,"Coeur d'Alene, ID",ID,West,0.4726,Low/Medium,High,0.9025,False Positive
+4,"Wilmington, NC",NC,South,0.451,Low/Medium,High,0.5926,False Positive
+4,"Barnstable Town, MA",MA,Northeast,0.4675,Low/Medium,High,0.8009,False Positive
+4,"San Angelo, TX",TX,South,0.4829,High,Low/Medium,0.1653,False Negative
+4,"Ann Arbor, MI",MI,Midwest,0.4645,Low/Medium,High,0.9728,False Positive
+4,"Baltimore-Columbia-Towson, MD",MD,South,0.4718,Low/Medium,High,0.8785,False Positive
+4,"Pocatello, ID",ID,West,0.4075,Low/Medium,High,0.6416,False Positive
+5,"Hilton Head Island-Bluffton-Port Royal, SC",SC,South,0.4556,Low/Medium,High,0.6034,False Positive
+5,"Paducah, KY-IL",KY,South,0.4338,Low/Medium,High,0.9674,False Positive
+5,"Santa Fe, NM",NM,West,0.4757,High,Low/Medium,0.362,False Negative
+5,"Lexington Park, MD",MD,South,0.5056,High,Low/Medium,0.0288,False Negative
+5,"Iowa City, IA",IA,Midwest,0.4746,High,Low/Medium,0.0304,False Negative
+5,"Medford, OR",OR,West,0.4479,Low/Medium,High,0.5531,False Positive
+5,"Cleveland, OH",OH,Midwest,0.4773,High,Low/Medium,0.3397,False Negative

@@ -1,0 +1,14 @@
+metro_title,primary_state,region,population,median_income,unemployment_rate,opportunity_score,actual_class,predicted_class,predicted_probability_high,actual_label,predicted_label,error_type
+"Carson City, NV",NV,West,58148,62948,4.7,0.44030472309878954,0,1,0.9949799880825541,Low/Medium,High,False Positive
+"Longview, TX",TX,South,295490,65711,4.7,0.47875069133285436,1,0,0.3870355577452,High,Low/Medium,False Negative
+"St. George, UT",UT,West,207943,86983,3.3,0.471917113523329,0,1,0.9058986722379853,Low/Medium,High,False Positive
+"Midland, MI",MI,Midwest,84022,78046,4.5,0.4241228547141868,0,1,0.9870632186508557,Low/Medium,High,False Positive
+"Hot Springs, AR",AR,South,99902,60453,3.6,0.4404055492305034,0,1,0.639664333518218,Low/Medium,High,False Positive
+"Tyler, TX",TX,South,249091,76087,3.8,0.48618346262295853,1,0,0.2772319779951516,High,Low/Medium,False Negative
+"Springfield, IL",IL,Midwest,206371,80190,4.3,0.4730135001327034,1,0,0.22752047927091945,High,Low/Medium,False Negative
+"Evansville, IN",IN,Midwest,271793,67459,3.9,0.45854045059675413,0,1,0.8723702769966925,Low/Medium,High,False Positive
+"Pinehurst-Southern Pines, NC",NC,South,108417,85002,3.4,0.5010284267662672,1,0,0.025565717086569746,High,Low/Medium,False Negative
+"San Diego-Chula Vista-Carlsbad, CA",CA,West,3298799,109132,4.3,0.4691159529379322,0,1,0.9807811388429621,Low/Medium,High,False Positive
+"Louisville/Jefferson County, KY-IN",KY,South,1396762,74305,4.5,0.46293856312468923,0,1,0.9497561163602815,Low/Medium,High,False Positive
+"Peoria, IL",IL,Midwest,365668,74352,4.9,0.46602767080130075,0,1,0.6790019805449159,Low/Medium,High,False Positive
+"Decatur, IL",IL,Midwest,100737,61411,5.8,0.44164810938548954,0,1,0.868289159072505,Low/Medium,High,False Positive

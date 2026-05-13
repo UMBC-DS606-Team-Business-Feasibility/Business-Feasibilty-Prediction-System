@@ -1,0 +1,1927 @@
+metro_title,primary_state,region,lat,lon,opportunity_score,scenario,split,actual_label,predicted_label,predicted_probability_high,error_type,is_misclassified
+"Asheville, NC",NC,South,35.61634,-82.570683,0.4541,Fold 1,Training,,,,,False
+"Ocala, FL",FL,South,29.202805,-82.0431,0.385,Fold 1,Training,,,,,False
+"Roanoke, VA",VA,South,37.286226,-79.946935,0.478,Fold 1,Training,,,,,False
+"Huntsville, AL",AL,South,34.783262,-86.734871,0.4804,Fold 1,Training,,,,,False
+"Dover, DE",DE,South,39.097088,-75.502982,0.4792,Fold 1,Training,,,,,False
+"Lafayette-West Lafayette, IN",IN,Midwest,40.482153,-87.017112,0.4131,Fold 1,Training,,,,,False
+"Akron, OH",OH,Midwest,41.146639,-81.35011,0.4669,Fold 1,Training,,,,,False
+"Bangor, ME",ME,Northeast,45.409284,-68.666616,0.4332,Fold 1,Training,,,,,False
+"San Antonio-New Braunfels, TX",TX,South,29.43306,-98.606973,0.4496,Fold 1,Training,,,,,False
+"Mansfield, OH",OH,Midwest,40.774159,-82.542781,0.4124,Fold 1,Training,,,,,False
+"Hilton Head Island-Bluffton-Port Royal, SC",SC,South,32.386792,-80.830877,0.4556,Fold 1,Training,,,,,False
+"Savannah, GA",GA,South,32.109256,-81.273287,0.4725,Fold 1,Training,,,,,False
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",DC,South,38.829787,-77.495684,0.5001,Fold 1,Training,,,,,False
+"Albany, GA",GA,South,31.644686,-84.110718,0.4046,Fold 1,Training,,,,,False
+"Traverse City, MI",MI,Midwest,44.952324,-85.90832,0.5112,Fold 1,Training,,,,,False
+"Paducah, KY-IL",KY,South,37.094234,-88.71705,0.4338,Fold 1,Training,,,,,False
+"San Francisco-Oakland-Fremont, CA",CA,West,37.773718,-122.274432,0.5773,Fold 1,Training,,,,,False
+"Cape Girardeau, MO-IL",MO,Midwest,37.325936,-89.762639,0.4694,Fold 1,Training,,,,,False
+"Bowling Green, KY",KY,South,37.046804,-86.397398,0.4077,Fold 1,Training,,,,,False
+"Lebanon, PA",PA,Northeast,40.371448,-76.464819,0.4356,Fold 1,Training,,,,,False
+"Blacksburg-Christiansburg-Radford, VA",VA,South,37.121364,-80.531517,0.4032,Fold 1,Training,,,,,False
+"Rochester, NY",NY,Northeast,43.184718,-77.556558,0.4581,Fold 1,Training,,,,,False
+"Norwich-New London-Willimantic, CT",CT,Northeast,41.484769,-72.101666,0.4231,Fold 1,Training,,,,,False
+"Harrisburg-Carlisle, PA",PA,Northeast,40.335915,-77.05049,0.4603,Fold 1,Training,,,,,False
+"Detroit-Warren-Dearborn, MI",MI,Midwest,42.721848,-83.200846,0.4302,Fold 1,Training,,,,,False
+"Winston-Salem, NC",NC,South,36.078852,-80.345064,0.4277,Fold 1,Training,,,,,False
+"Decatur, AL",AL,South,34.489361,-87.097147,0.4561,Fold 1,Training,,,,,False
+"Kennewick-Richland, WA",WA,West,46.364155,-119.254927,0.4437,Fold 1,Training,,,,,False
+"Greenville-Anderson-Greer, SC",SC,South,34.683709,-82.413423,0.4584,Fold 1,Training,,,,,False
+"Erie, PA",PA,Northeast,42.117952,-80.096386,0.4241,Fold 1,Training,,,,,False
+"Athens-Clarke County, GA",GA,South,33.943984,-83.213897,0.4267,Fold 1,Training,,,,,False
+"Hartford-West Hartford-East Hartford, CT",CT,Northeast,41.688038,-72.545112,0.4863,Fold 1,Training,,,,,False
+"Santa Fe, NM",NM,West,35.514531,-105.963972,0.4757,Fold 1,Training,,,,,False
+"Burlington, NC",NC,South,36.043954,-79.400573,0.4092,Fold 1,Training,,,,,False
+"Tampa-St. Petersburg-Clearwater, FL",FL,South,28.120541,-82.525188,0.4391,Fold 1,Training,,,,,False
+"Des Moines-West Des Moines, IA",IA,Midwest,41.57705,-93.759712,0.5438,Fold 1,Training,,,,,False
+"Monroe, LA",LA,South,32.67396,-92.058318,0.4368,Fold 1,Training,,,,,False
+"Auburn-Opelika, AL",AL,South,32.492206,-85.527127,0.4399,Fold 1,Training,,,,,False
+"Lafayette, LA",LA,South,30.012961,-92.136552,0.4837,Fold 1,Training,,,,,False
+"Kansas City, MO-KS",MO,Midwest,38.931857,-94.443841,0.5177,Fold 1,Training,,,,,False
+"Appleton, WI",WI,Midwest,44.290603,-88.372326,0.5302,Fold 1,Training,,,,,False
+"Homosassa Springs, FL",FL,South,28.850292,-82.595552,0.3316,Fold 1,Training,,,,,False
+"Jacksonville, FL",FL,South,30.234184,-81.756033,0.4543,Fold 1,Training,,,,,False
+"Kalamazoo-Portage, MI",MI,Midwest,42.246266,-85.532854,0.4284,Fold 1,Training,,,,,False
+"Cedar Rapids, IA",IA,Midwest,42.086289,-91.631095,0.5179,Fold 1,Training,,,,,False
+"Olympia-Lacey-Tumwater, WA",WA,West,46.935822,-122.830152,0.4358,Fold 1,Training,,,,,False
+"Omaha, NE-IA",NE,Midwest,41.290459,-95.99997,0.5283,Fold 1,Training,,,,,False
+"Flint, MI",MI,Midwest,43.021077,-83.706372,0.346,Fold 1,Training,,,,,False
+"New Orleans-Metairie, LA",LA,South,29.282447,-89.576068,0.4433,Fold 1,Training,,,,,False
+"Chambersburg, PA",PA,Northeast,39.926772,-77.724521,0.4261,Fold 1,Training,,,,,False
+"Winchester, VA-WV",VA,South,39.272974,-78.471828,0.4523,Fold 1,Training,,,,,False
+"Santa Maria-Santa Barbara, CA",CA,West,34.536677,-120.038364,0.4648,Fold 1,Training,,,,,False
+"Florence, SC",SC,South,34.153574,-79.806164,0.3913,Fold 1,Training,,,,,False
+"Columbia, SC",SC,South,34.077585,-81.037845,0.4366,Fold 1,Training,,,,,False
+"Greensboro-High Point, NC",NC,South,36.025204,-79.792633,0.4482,Fold 1,Training,,,,,False
+"Watertown-Fort Drum, NY",NY,Northeast,43.996389,-76.052968,0.4312,Fold 1,Training,,,,,False
+"Fairbanks-College, AK",AK,West,64.670454,-146.496061,0.4965,Fold 1,Training,,,,,False
+"Ames, IA",IA,Midwest,42.036128,-93.698008,0.4957,Fold 1,Training,,,,,False
+"Morgantown, WV",WV,South,39.525155,-79.801912,0.4465,Fold 1,Training,,,,,False
+"Lexington Park, MD",MD,South,38.312696,-76.527935,0.5056,Fold 1,Training,,,,,False
+"Sheboygan, WI",WI,Midwest,43.738713,-87.731531,0.4558,Fold 1,Training,,,,,False
+"Rochester, MN",MN,Midwest,43.94981,-92.33066,0.5503,Fold 1,Training,,,,,False
+"Lexington-Fayette, KY",KY,South,38.102876,-84.438545,0.4657,Fold 1,Training,,,,,False
+"Mobile, AL",AL,South,30.684572,-88.196568,0.4451,Fold 1,Training,,,,,False
+"Boulder, CO",CO,West,40.094971,-105.39771,0.5173,Fold 1,Training,,,,,False
+"Duluth, MN-WI",MN,Midwest,47.329703,-92.37627,0.4713,Fold 1,Training,,,,,False
+"Portland-Vancouver-Hillsboro, OR-WA",OR,West,45.600622,-122.484378,0.5056,Fold 1,Training,,,,,False
+"Bloomington, IL",IL,Midwest,40.494559,-88.844539,0.4754,Fold 1,Training,,,,,False
+"Grand Rapids-Wyoming-Kentwood, MI",MI,Midwest,42.979841,-85.715614,0.4817,Fold 1,Training,,,,,False
+"Mankato, MN",MN,Midwest,44.15479,-94.147798,0.4811,Fold 1,Training,,,,,False
+"Columbus, OH",OH,Midwest,39.968562,-82.835911,0.4753,Fold 1,Training,,,,,False
+"Elkhart-Goshen, IN",IN,Midwest,41.600693,-85.863986,0.4256,Fold 1,Training,,,,,False
+"Salinas, CA",CA,West,36.240104,-121.315578,0.3881,Fold 1,Training,,,,,False
+"Lakeland-Winter Haven, FL",FL,South,27.953686,-81.693493,0.3874,Fold 1,Training,,,,,False
+"Memphis, TN-MS-AR",TN,South,35.010307,-89.820503,0.445,Fold 1,Training,,,,,False
+"Oshkosh-Neenah, WI",WI,Midwest,44.085707,-88.668149,0.4673,Fold 1,Training,,,,,False
+"Pittsburgh, PA",PA,Northeast,40.471332,-79.863986,0.4824,Fold 1,Training,,,,,False
+"Davenport-Moline-Rock Island, IA-IL",IA,Midwest,41.39168,-90.460076,0.4779,Fold 1,Training,,,,,False
+"Pueblo, CO",CO,West,38.162765,-104.484668,0.354,Fold 1,Training,,,,,False
+"Chico, CA",CA,West,39.665336,-121.603209,0.3473,Fold 1,Training,,,,,False
+"Texarkana, TX-AR",TX,South,33.478373,-94.207162,0.4368,Fold 1,Training,,,,,False
+"Brunswick-St. Simons, GA",GA,South,31.301739,-81.588909,0.4704,Fold 1,Training,,,,,False
+"Houston-Pasadena-The Woodlands, TX",TX,South,29.801005,-95.34262,0.4702,Fold 1,Training,,,,,False
+"Lynchburg, VA",VA,South,37.364926,-79.216689,0.4492,Fold 1,Training,,,,,False
+"Santa Cruz-Watsonville, CA",CA,West,37.012347,-122.007789,0.4416,Fold 1,Training,,,,,False
+"Portland-South Portland, ME",ME,Northeast,43.651417,-70.418375,0.521,Fold 1,Training,,,,,False
+"Reno, NV",NV,West,40.251057,-119.555507,0.494,Fold 1,Training,,,,,False
+"San Jose-Sunnyvale-Santa Clara, CA",CA,West,36.908472,-121.371372,0.7229,Fold 1,Training,,,,,False
+"Colorado Springs, CO",CO,West,38.845507,-104.638728,0.4499,Fold 1,Training,,,,,False
+"Charlottesville, VA",VA,South,37.949084,-78.593206,0.5329,Fold 1,Training,,,,,False
+"Sumter, SC",SC,South,33.91614,-80.382376,0.3382,Fold 1,Training,,,,,False
+"Lincoln, NE",NE,Midwest,40.817429,-96.868801,0.4911,Fold 1,Training,,,,,False
+"Baton Rouge, LA",LA,South,30.515242,-91.126926,0.4563,Fold 1,Training,,,,,False
+"Naples-Marco Island, FL",FL,South,26.118786,-81.400955,0.4759,Fold 1,Training,,,,,False
+"Jackson, TN",TN,South,35.753215,-88.882692,0.4265,Fold 1,Training,,,,,False
+"Terre Haute, IN",IN,Midwest,39.392389,-87.347096,0.391,Fold 1,Training,,,,,False
+"Reading, PA",PA,Northeast,40.413957,-75.92686,0.4459,Fold 1,Training,,,,,False
+"Kiryas Joel-Poughkeepsie-Newburgh, NY",NY,Northeast,41.575274,-74.033873,0.4274,Fold 1,Training,,,,,False
+"Columbia, MO",MO,Midwest,38.986523,-92.585236,0.4949,Fold 1,Training,,,,,False
+"Montgomery, AL",AL,South,32.365631,-86.404585,0.4468,Fold 1,Training,,,,,False
+"Casper, WY",WY,West,42.977645,-106.768219,0.5699,Fold 1,Training,,,,,False
+"Rome, GA",GA,South,34.26369,-85.213685,0.3998,Fold 1,Training,,,,,False
+"Albany, OR",OR,West,44.488898,-122.537208,0.4349,Fold 1,Training,,,,,False
+"Bellingham, WA",WA,West,48.842653,-121.836432,0.481,Fold 1,Training,,,,,False
+"Topeka, KS",KS,Midwest,39.041389,-95.802639,0.4664,Fold 1,Training,,,,,False
+"Dothan, AL",AL,South,31.245528,-85.46919,0.451,Fold 1,Training,,,,,False
+"Austin-Round Rock-San Marcos, TX",TX,South,30.249744,-97.649842,0.5338,Fold 1,Training,,,,,False
+"Altoona, PA",PA,Northeast,40.498683,-78.309597,0.4408,Fold 1,Training,,,,,False
+"Lansing-East Lansing, MI",MI,Midwest,42.713659,-84.605372,0.4193,Fold 1,Training,,,,,False
+"Santa Rosa-Petaluma, CA",CA,West,38.525182,-122.92611,0.495,Fold 1,Training,,,,,False
+"Springfield, OH",OH,Midwest,39.917032,-83.783676,0.383,Fold 1,Training,,,,,False
+"McAllen-Edinburg-Mission, TX",TX,South,26.396384,-98.18099,0.3293,Fold 1,Training,,,,,False
+"Cincinnati, OH-KY-IN",OH,Midwest,39.078595,-84.463535,0.4837,Fold 1,Training,,,,,False
+"Pittsfield, MA",MA,Northeast,42.371493,-73.217928,0.453,Fold 1,Training,,,,,False
+"Springfield, MA",MA,Northeast,42.136198,-72.635648,0.4,Fold 1,Training,,,,,False
+"Raleigh-Cary, NC",NC,South,35.756746,-78.460441,0.5306,Fold 1,Training,,,,,False
+"State College, PA",PA,Northeast,40.909322,-77.847667,0.4572,Fold 1,Training,,,,,False
+"Eagle Pass, TX",TX,South,28.729787,-100.316678,0.288,Fold 1,Training,,,,,False
+"Columbus, IN",IN,Midwest,39.205843,-85.897999,0.4825,Fold 1,Training,,,,,False
+"Fayetteville-Springdale-Rogers, AR",AR,South,36.116394,-94.079545,0.5447,Fold 1,Training,,,,,False
+"Salem, OR",OR,West,44.903385,-122.901757,0.409,Fold 1,Training,,,,,False
+"Phoenix-Mesa-Chandler, AZ",AZ,West,33.185765,-112.067862,0.4566,Fold 1,Training,,,,,False
+"Coeur d'Alene, ID",ID,West,47.675957,-116.695919,0.4726,Fold 1,Training,,,,,False
+"Los Angeles-Long Beach-Anaheim, CA",CA,West,34.108703,-118.182753,0.4648,Fold 1,Training,,,,,False
+"Jacksonville, NC",NC,South,34.763109,-77.499469,0.3606,Fold 1,Training,,,,,False
+"Lawrence, KS",KS,Midwest,38.896417,-95.290947,0.4466,Fold 1,Training,,,,,False
+"Saginaw, MI",MI,Midwest,43.328267,-84.05541,0.3559,Fold 1,Training,,,,,False
+"Lima, OH",OH,Midwest,40.771627,-84.106103,0.4408,Fold 1,Training,,,,,False
+"Bakersfield-Delano, CA",CA,West,35.346629,-118.729506,0.3408,Fold 1,Training,,,,,False
+"Cape Coral-Fort Myers, FL",FL,South,26.563273,-81.984182,0.4149,Fold 1,Training,,,,,False
+"Manhattan, KS",KS,Midwest,39.268424,-96.562242,0.4437,Fold 1,Training,,,,,False
+"Sacramento-Roseville-Folsom, CA",CA,West,38.790272,-121.005643,0.4506,Fold 1,Training,,,,,False
+"Odessa, TX",TX,South,31.865301,-102.542507,0.5278,Fold 1,Training,,,,,False
+"Allentown-Bethlehem-Easton, PA-NJ",PA,Northeast,40.789339,-75.398158,0.4477,Fold 1,Training,,,,,False
+"Great Falls, MT",MT,West,47.316575,-111.350262,0.4222,Fold 1,Training,,,,,False
+"Billings, MT",MT,West,45.63714,-108.832361,0.5462,Fold 1,Training,,,,,False
+"Charleston, WV",WV,South,38.283213,-81.492557,0.4477,Fold 1,Training,,,,,False
+"Bremerton-Silverdale-Port Orchard, WA",WA,West,47.639687,-122.649636,0.4454,Fold 1,Training,,,,,False
+"New York-Newark-Jersey City, NY-NJ",NY,Northeast,40.735425,-73.80773,0.4692,Fold 1,Training,,,,,False
+"Fayetteville, NC",NC,South,35.037956,-78.982209,0.3341,Fold 1,Training,,,,,False
+"Ogden, UT",UT,West,41.124342,-111.866933,0.4827,Fold 1,Training,,,,,False
+"Brownsville-Harlingen, TX",TX,South,26.102923,-97.478958,0.3435,Fold 1,Training,,,,,False
+"Riverside-San Bernardino-Ontario, CA",CA,West,34.538476,-116.134541,0.4008,Fold 1,Training,,,,,False
+"Milwaukee-Waukesha, WI",WI,Midwest,42.912643,-87.862312,0.4874,Fold 1,Training,,,,,False
+"Florence-Muscle Shoals, AL",AL,South,34.799254,-87.719388,0.4399,Fold 1,Training,,,,,False
+"Denver-Aurora-Centennial, CO",CO,West,39.434789,-104.901073,0.5249,Fold 1,Training,,,,,False
+"Las Cruces, NM",NM,West,32.349919,-106.834968,0.3621,Fold 1,Training,,,,,False
+"Youngstown-Warren, OH",OH,Midwest,41.195092,-80.76508,0.3982,Fold 1,Training,,,,,False
+"Longview-Kelso, WA",WA,West,46.196785,-122.67846,0.4342,Fold 1,Training,,,,,False
+"Wilmington, NC",NC,South,34.253691,-78.041674,0.451,Fold 1,Training,,,,,False
+"Sebastian-Vero Beach-West Vero Corridor, FL",FL,South,27.700528,-80.574789,0.4372,Fold 1,Training,,,,,False
+"Barnstable Town, MA",MA,Northeast,41.706123,-70.164823,0.4675,Fold 1,Training,,,,,False
+"San Angelo, TX",TX,South,31.36531,-100.659418,0.4829,Fold 1,Training,,,,,False
+"Lake Havasu City-Kingman, AZ",AZ,West,35.717705,-113.749689,0.3494,Fold 1,Training,,,,,False
+"St. Cloud, MN",MN,Midwest,45.593031,-94.488363,0.5169,Fold 1,Training,,,,,False
+"Nashville-Davidson--Murfreesboro--Franklin, TN",TN,South,36.091577,-86.72298,0.5325,Fold 1,Training,,,,,False
+"Bloomington, IN",IN,Midwest,39.241736,-86.671754,0.4148,Fold 1,Training,,,,,False
+"Boise City, ID",ID,West,43.006648,-116.141909,0.4919,Fold 1,Training,,,,,False
+"Manchester-Nashua, NH",NH,Northeast,42.911532,-71.723055,0.5153,Fold 1,Training,,,,,False
+"Clarksville, TN-KY",TN,South,36.69571,-87.624307,0.38,Fold 1,Training,,,,,False
+"Visalia, CA",CA,West,36.228834,-118.781055,0.2933,Fold 1,Training,,,,,False
+"Punta Gorda, FL",FL,South,26.906396,-82.003657,0.3518,Fold 1,Training,,,,,False
+"Spokane-Spokane Valley, WA",WA,West,48.091618,-117.663472,0.4586,Fold 1,Training,,,,,False
+"Morristown, TN",TN,South,36.115484,-83.376546,0.3836,Fold 1,Training,,,,,False
+"Yuma, AZ",AZ,West,32.773942,-113.910905,0.3033,Fold 1,Training,,,,,False
+"Johnson City, TN",TN,South,36.265822,-82.332693,0.3816,Fold 1,Training,,,,,False
+"Iowa City, IA",IA,Midwest,41.517806,-91.64793,0.4746,Fold 1,Training,,,,,False
+"Hinesville, GA",GA,South,31.778788,-81.57648,0.3309,Fold 1,Training,,,,,False
+"Hattiesburg, MS",MS,South,31.188441,-89.232741,0.4449,Fold 1,Training,,,,,False
+"Albuquerque, NM",NM,West,35.123496,-106.458392,0.435,Fold 1,Training,,,,,False
+"Ann Arbor, MI",MI,Midwest,42.252217,-83.843423,0.4645,Fold 1,Training,,,,,False
+"Medford, OR",OR,West,42.411621,-122.675611,0.4479,Fold 1,Training,,,,,False
+"Dayton-Kettering-Beavercreek, OH",OH,Midwest,39.829746,-84.140992,0.4324,Fold 1,Training,,,,,False
+"Gainesville, FL",FL,South,29.453355,-82.666257,0.3789,Fold 1,Training,,,,,False
+"Burlington-South Burlington, VT",VT,Northeast,44.689115,-73.041175,0.521,Fold 1,Training,,,,,False
+"Lewiston, ID-WA",ID,West,46.251696,-116.925017,0.4938,Fold 1,Training,,,,,False
+"Redding, CA",CA,West,40.760514,-122.043556,0.389,Fold 1,Training,,,,,False
+"Yakima, WA",WA,West,46.456558,-120.740145,0.4018,Fold 1,Training,,,,,False
+"Albany-Schenectady-Troy, NY",NY,Northeast,42.78792,-73.942348,0.4673,Fold 1,Training,,,,,False
+"Green Bay, WI",WI,Midwest,44.474024,-87.99613,0.5187,Fold 1,Training,,,,,False
+"Waterloo-Cedar Falls, IA",IA,Midwest,42.536796,-92.471608,0.511,Fold 1,Training,,,,,False
+"Michigan City-La Porte, IN",IN,Midwest,41.549013,-86.744739,0.4069,Fold 1,Training,,,,,False
+"Mount Vernon-Anacortes, WA",WA,West,48.493292,-121.81577,0.4688,Fold 1,Training,,,,,False
+"York-Hanover, PA",PA,Northeast,39.921751,-76.728889,0.4532,Fold 1,Training,,,,,False
+"La Crosse-Onalaska, WI-MN",WI,Midwest,43.698264,-91.11014,0.5085,Fold 1,Training,,,,,False
+"Battle Creek, MI",MI,Midwest,42.24299,-85.012385,0.4001,Fold 1,Training,,,,,False
+"Prescott Valley-Prescott, AZ",AZ,West,34.631071,-112.577225,0.4229,Fold 1,Training,,,,,False
+"Lubbock, TX",TX,South,33.469794,-101.880412,0.4604,Fold 1,Training,,,,,False
+"Baltimore-Columbia-Towson, MD",MD,South,39.304361,-76.549501,0.4718,Fold 1,Training,,,,,False
+"Merced, CA",CA,West,37.194806,-120.722802,0.2688,Fold 1,Training,,,,,False
+"Bay City, MI",MI,Midwest,43.699711,-83.978701,0.3578,Fold 1,Training,,,,,False
+"Charlotte-Concord-Gastonia, NC-SC",NC,South,35.166342,-80.797285,0.5132,Fold 1,Training,,,,,False
+"Bridgeport-Stamford-Danbury, CT",CT,Northeast,41.252442,-73.393266,0.5698,Fold 1,Training,,,,,False
+"Salisbury, MD",MD,South,38.197279,-75.769252,0.4258,Fold 1,Training,,,,,False
+"Syracuse, NY",NY,Northeast,43.006516,-76.196134,0.4555,Fold 1,Training,,,,,False
+"Hickory-Lenoir-Morganton, NC",NC,South,35.814295,-81.456584,0.4331,Fold 1,Training,,,,,False
+"San Luis Obispo-Paso Robles, CA",CA,West,35.388189,-120.448897,0.4599,Fold 1,Training,,,,,False
+"Grand Forks, ND-MN",ND,Midwest,47.835929,-96.842681,0.5213,Fold 1,Training,,,,,False
+"Janesville-Beloit, WI",WI,Midwest,42.66988,-89.075284,0.4464,Fold 1,Training,,,,,False
+"Fargo, ND-MN",ND,Midwest,46.914859,-96.960183,0.5315,Fold 1,Training,,,,,False
+"El Paso, TX",TX,South,31.527394,-105.521333,0.4009,Fold 1,Training,,,,,False
+"Wausau, WI",WI,Midwest,44.898036,-89.757823,0.5038,Fold 1,Training,,,,,False
+"Kahului-Wailuku, HI",HI,West,20.855931,-156.60155,0.4534,Fold 1,Training,,,,,False
+"Sebring, FL",FL,South,27.34108,-81.342353,0.3461,Fold 1,Training,,,,,False
+"Springfield, MO",MO,Midwest,37.36087,-93.180262,0.4793,Fold 1,Training,,,,,False
+"Corvallis, OR",OR,West,44.493882,-123.424664,0.426,Fold 1,Training,,,,,False
+"Jackson, MI",MI,Midwest,42.248474,-84.420868,0.404,Fold 1,Training,,,,,False
+"Providence-Warwick, RI-MA",RI,Northeast,41.70684,-71.286687,0.4407,Fold 1,Training,,,,,False
+"Amarillo, TX",TX,South,35.247999,-101.90867,0.4717,Fold 1,Training,,,,,False
+"Wenatchee-East Wenatchee, WA",WA,West,47.76611,-120.270197,0.4155,Fold 1,Training,,,,,False
+"Huntington-Ashland, WV-KY-OH",WV,South,38.357487,-82.579994,0.3931,Fold 1,Training,,,,,False
+"Laredo, TX",TX,South,27.760799,-99.340752,0.3319,Fold 1,Training,,,,,False
+"Anniston-Oxford, AL",AL,South,33.770516,-85.827909,0.3651,Fold 1,Training,,,,,False
+"Hammond, LA",LA,South,30.621348,-90.40649,0.3974,Fold 1,Training,,,,,False
+"Pocatello, ID",ID,West,42.692921,-112.228982,0.4075,Fold 1,Training,,,,,False
+"Farmington, NM",NM,West,36.511624,-108.324578,0.4563,Fold 1,Training,,,,,False
+"Seattle-Tacoma-Bellevue, WA",WA,West,47.490552,-121.833977,0.518,Fold 1,Training,,,,,False
+"Cleveland, OH",OH,Midwest,41.667548,-81.43052,0.4773,Fold 1,Training,,,,,False
+"Dubuque, IA",IA,Midwest,42.463481,-90.878771,0.5555,Fold 1,Training,,,,,False
+"Canton-Massillon, OH",OH,Midwest,40.711051,-81.261468,0.4534,Fold 1,Training,,,,,False
+"Utica-Rome, NY",NY,Northeast,43.33228,-75.173189,0.4229,Fold 1,Training,,,,,False
+"Lawton, OK",OK,South,34.529113,-98.430902,0.3861,Fold 1,Training,,,,,False
+"Rocky Mount, NC",NC,South,35.941045,-77.798549,0.3762,Fold 1,Training,,,,,False
+"Chattanooga, TN-GA",TN,South,35.049361,-85.361158,0.4656,Fold 1,Training,,,,,False
+"Anchorage, AK",AK,West,62.212784,-149.678222,0.5084,Fold 1,Training,,,,,False
+"Eugene-Springfield, OR",OR,West,43.928334,-122.897581,0.4247,Fold 1,Training,,,,,False
+"Alexandria, LA",LA,South,31.325348,-92.546803,0.398,Fold 1,Training,,,,,False
+"Kankakee, IL",IL,Midwest,41.13951,-87.861117,0.4032,Fold 1,Training,,,,,False
+"College Station-Bryan, TX",TX,South,30.754392,-96.488537,0.4311,Fold 1,Training,,,,,False
+"Daphne-Fairhope-Foley, AL",AL,South,30.659218,-87.746067,0.4632,Fold 1,Training,,,,,False
+"Sioux City, IA-NE-SD",IA,Midwest,42.508037,-96.311314,0.5419,Fold 1,Training,,,,,False
+"Grand Junction, CO",CO,West,39.019524,-108.460571,0.4799,Fold 1,Training,,,,,False
+"Panama City-Panama City Beach, FL",FL,South,30.273241,-85.642089,0.4227,Fold 1,Training,,,,,False
+"Rapid City, SD",SD,Midwest,44.195108,-102.916612,0.5557,Fold 1,Training,,,,,False
+"Ithaca, NY",NY,Northeast,42.453006,-76.473483,0.3756,Fold 1,Training,,,,,False
+"Williamsport, PA",PA,Northeast,41.343882,-77.055262,0.4124,Fold 1,Training,,,,,False
+"Bend, OR",OR,West,44.153837,-120.887072,0.5021,Fold 1,Training,,,,,False
+"Minneapolis-St. Paul-Bloomington, MN-WI",MN,Midwest,45.096664,-93.275361,0.5123,Fold 1,Training,,,,,False
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",PA,Northeast,39.894958,-75.311982,0.4816,Fold 1,Training,,,,,False
+"Fresno, CA",CA,West,36.879404,-119.668488,0.3497,Fold 1,Training,,,,,False
+"Wheeling, WV-OH",WV,South,39.977687,-80.854826,0.3969,Fold 1,Training,,,,,False
+"Lewiston-Auburn, ME",ME,Northeast,44.167681,-70.207435,0.4314,Fold 1,Training,,,,,False
+"Minot, ND",ND,Midwest,48.320242,-101.19801,0.5598,Fold 1,Training,,,,,False
+"Wichita Falls, TX",TX,South,33.776144,-98.501907,0.4652,Fold 1,Training,,,,,False
+"Beckley, WV",WV,South,37.905659,-81.163748,0.3822,Fold 1,Training,,,,,False
+"Sherman-Denison, TX",TX,South,33.624548,-96.675777,0.423,Fold 1,Training,,,,,False
+"Shreveport-Bossier City, LA",LA,South,32.437682,-93.744884,0.4669,Fold 1,Validation,Low/Medium,Low/Medium,0.1937,Correct,False
+"Slidell-Mandeville-Covington, LA",LA,South,30.410022,-89.951962,0.4755,Fold 1,Validation,High,High,0.553,Correct,False
+"Orlando-Kissimmee-Sanford, FL",FL,South,28.434398,-81.35606,0.4538,Fold 1,Validation,Low/Medium,High,0.7631,False Positive,True
+"Tuscaloosa, AL",AL,South,33.097877,-87.799147,0.4401,Fold 1,Validation,Low/Medium,Low/Medium,0.0167,Correct,False
+"Elmira, NY",NY,Northeast,42.148697,-76.752471,0.3837,Fold 1,Validation,Low/Medium,Low/Medium,0.0412,Correct,False
+"Twin Falls, ID",ID,West,42.440397,-114.568729,0.4956,Fold 1,Validation,High,Low/Medium,0.1387,False Negative,True
+"Greeley, CO",CO,West,40.555961,-104.383666,0.5211,Fold 1,Validation,High,High,0.517,Correct,False
+"Atlanta-Sandy Springs-Roswell, GA",GA,South,33.732402,-84.392848,0.5058,Fold 1,Validation,High,High,0.9536,Correct,False
+"Valdosta, GA",GA,South,30.827158,-83.243555,0.3944,Fold 1,Validation,Low/Medium,Low/Medium,0.0175,Correct,False
+"Dalton, GA",GA,South,34.796956,-84.856279,0.4113,Fold 1,Validation,Low/Medium,Low/Medium,0.1751,Correct,False
+"Salt Lake City-Murray, UT",UT,West,40.572887,-112.953253,0.5421,Fold 1,Validation,High,High,0.9993,Correct,False
+"Wichita, KS",KS,Midwest,37.637896,-97.246287,0.4838,Fold 1,Validation,High,Low/Medium,0.3574,False Negative,True
+"Columbus, GA-AL",GA,South,32.419377,-84.843709,0.3868,Fold 1,Validation,Low/Medium,Low/Medium,0.0476,Correct,False
+"Parkersburg-Vienna, WV",WV,South,39.141531,-81.460402,0.3862,Fold 1,Validation,Low/Medium,Low/Medium,0.0464,Correct,False
+"Port St. Lucie, FL",FL,South,27.228046,-80.425388,0.4199,Fold 1,Validation,Low/Medium,Low/Medium,0.0182,Correct,False
+"Deltona-Daytona Beach-Ormond Beach, FL",FL,South,29.1789,-81.189023,0.3914,Fold 1,Validation,Low/Medium,Low/Medium,0.0428,Correct,False
+"St. Joseph, MO-KS",MO,Midwest,39.834843,-94.783754,0.4755,Fold 1,Validation,High,High,0.5799,Correct,False
+"Amherst Town-Northampton, MA",MA,Northeast,42.339459,-72.663694,0.4183,Fold 1,Validation,Low/Medium,Low/Medium,0.0035,Correct,False
+"Birmingham, AL",AL,South,33.462372,-86.814338,0.4921,Fold 1,Validation,High,High,0.8225,Correct,False
+"Greenville, NC",NC,South,35.59249,-77.372739,0.3968,Fold 1,Validation,Low/Medium,Low/Medium,0.0265,Correct,False
+"Racine-Mount Pleasant, WI",WI,Midwest,42.780392,-87.771599,0.4346,Fold 1,Validation,Low/Medium,Low/Medium,0.0144,Correct,False
+"Johnstown, PA",PA,Northeast,40.510209,-78.710488,0.4062,Fold 1,Validation,Low/Medium,Low/Medium,0.0045,Correct,False
+"Niles, MI",MI,Midwest,41.791382,-86.742543,0.4357,Fold 1,Validation,Low/Medium,Low/Medium,0.1659,Correct,False
+"Crestview-Fort Walton Beach-Destin, FL",FL,South,30.594941,-86.358164,0.4449,Fold 1,Validation,Low/Medium,High,0.5548,False Positive,True
+"Sioux Falls, SD-MN",SD,Midwest,43.525658,-96.875416,0.5709,Fold 1,Validation,High,High,0.9979,Correct,False
+"Grants Pass, OR",OR,West,42.386983,-123.57162,0.3324,Fold 1,Validation,Low/Medium,Low/Medium,0.0042,Correct,False
+"Knoxville, TN",TN,South,36.044462,-84.136114,0.4568,Fold 1,Validation,Low/Medium,Low/Medium,0.1404,Correct,False
+"Waterbury-Shelton, CT",CT,Northeast,41.518931,-73.087906,0.4246,Fold 1,Validation,Low/Medium,Low/Medium,0.1601,Correct,False
+"Glens Falls, NY",NY,Northeast,43.44045,-73.636757,0.4193,Fold 1,Validation,Low/Medium,Low/Medium,0.4392,Correct,False
+"Urban Honolulu, HI",HI,West,21.461365,-158.201974,0.4443,Fold 1,Validation,Low/Medium,Low/Medium,0.0032,Correct,False
+"Sierra Vista-Douglas, AZ",AZ,West,31.840129,-109.775163,0.3807,Fold 1,Validation,Low/Medium,Low/Medium,0.0269,Correct,False
+"Waco, TX",TX,South,31.5921,-97.286018,0.4297,Fold 1,Validation,Low/Medium,Low/Medium,0.081,Correct,False
+"Warner Robins, GA",GA,South,32.492806,-83.711084,0.3582,Fold 1,Validation,Low/Medium,Low/Medium,0.014,Correct,False
+"Kokomo, IN",IN,Midwest,40.483537,-86.114118,0.3351,Fold 1,Validation,Low/Medium,Low/Medium,0.0288,Correct,False
+"New Haven, CT",CT,Northeast,41.290167,-72.837024,0.4486,Fold 1,Validation,Low/Medium,Low/Medium,0.1218,Correct,False
+"Stockton-Lodi, CA",CA,West,37.934982,-121.272244,0.3853,Fold 1,Validation,Low/Medium,Low/Medium,0.0021,Correct,False
+"Chicago-Naperville-Elgin, IL-IN",IL,Midwest,41.75878,-87.841887,0.4792,Fold 1,Validation,High,High,0.6821,Correct,False
+"Miami-Fort Lauderdale-West Palm Beach, FL",FL,South,26.101828,-80.478755,0.4168,Fold 1,Validation,Low/Medium,Low/Medium,0.1149,Correct,False
+"Houma-Bayou Cane-Thibodaux, LA",LA,South,29.33413,-90.843674,0.4955,Fold 1,Validation,High,High,0.8792,Correct,False
+"Dallas-Fort Worth-Arlington, TX",TX,South,32.849171,-96.970489,0.4803,Fold 1,Validation,High,High,0.8104,Correct,False
+"Little Rock-North Little Rock-Conway, AR",AR,South,34.755773,-92.400589,0.4679,Fold 1,Validation,Low/Medium,High,0.6371,False Positive,True
+"Helena, MT",MT,West,46.715671,-112.1352,0.5411,Fold 1,Validation,High,High,0.7368,Correct,False
+"Gulfport-Biloxi, MS",MS,South,30.480153,-88.999297,0.4014,Fold 1,Validation,Low/Medium,Low/Medium,0.0019,Correct,False
+"North Port-Bradenton-Sarasota, FL",FL,South,27.329055,-82.414533,0.4328,Fold 1,Validation,Low/Medium,Low/Medium,0.19,Correct,False
+"Fort Wayne, IN",IN,Midwest,41.006999,-85.216424,0.4642,Fold 1,Validation,Low/Medium,Low/Medium,0.2104,Correct,False
+"South Bend-Mishawaka, IN-MI",IN,Midwest,41.774981,-86.123014,0.4054,Fold 1,Validation,Low/Medium,Low/Medium,0.0275,Correct,False
+"Trenton-Princeton, NJ",NJ,Northeast,40.282503,-74.703724,0.4962,Fold 1,Validation,High,High,0.9996,Correct,False
+"Atlantic City-Hammonton, NJ",NJ,Northeast,39.286186,-74.738311,0.3597,Fold 1,Validation,Low/Medium,Low/Medium,0.0011,Correct,False
+"Weirton-Steubenville, WV-OH",WV,South,40.388914,-80.701966,0.3611,Fold 1,Validation,Low/Medium,Low/Medium,0.002,Correct,False
+"Harrisonburg, VA",VA,South,38.507612,-78.885329,0.4465,Fold 1,Validation,Low/Medium,Low/Medium,0.1546,Correct,False
+"Macon-Bibb County, GA",GA,South,32.856216,-83.714305,0.4005,Fold 1,Validation,Low/Medium,Low/Medium,0.2097,Correct,False
+"Worcester, MA",MA,Northeast,42.311693,-71.940282,0.4596,Fold 1,Validation,Low/Medium,Low/Medium,0.1477,Correct,False
+"Boston-Cambridge-Newton, MA-NH",MA,Northeast,42.517606,-71.021993,0.5464,Fold 1,Validation,High,High,0.9998,Correct,False
+"Kingston, NY",NY,Northeast,41.947212,-74.265458,0.4613,Fold 1,Validation,Low/Medium,Low/Medium,0.0522,Correct,False
+"Walla Walla, WA",WA,West,46.254606,-118.48037,0.4294,Fold 1,Validation,Low/Medium,Low/Medium,0.0577,Correct,False
+"Abilene, TX",TX,South,32.452022,-99.718743,0.4612,Fold 1,Validation,Low/Medium,Low/Medium,0.1888,Correct,False
+"Bismarck, ND",ND,Midwest,46.887031,-100.979592,0.5705,Fold 1,Validation,High,High,0.9916,Correct,False
+"Tulsa, OK",OK,South,36.254442,-96.177298,0.5025,Fold 1,Validation,High,High,0.5232,Correct,False
+"Pensacola-Ferry Pass-Brent, FL",FL,South,30.608557,-87.158547,0.4061,Fold 1,Validation,Low/Medium,Low/Medium,0.0877,Correct,False
+"Napa, CA",CA,West,38.5071,-122.325904,0.5398,Fold 1,Validation,High,Low/Medium,0.0907,False Negative,True
+"Missoula, MT",MT,West,47.069545,-114.262668,0.5149,Fold 1,Validation,High,High,0.9739,Correct,False
+"Gettysburg, PA",PA,Northeast,39.869437,-77.21775,0.4397,Fold 1,Validation,Low/Medium,Low/Medium,0.0007,Correct,False
+"Asheville, NC",NC,South,35.61634,-82.570683,0.4541,Fold 2,Training,,,,,False
+"Ocala, FL",FL,South,29.202805,-82.0431,0.385,Fold 2,Training,,,,,False
+"Roanoke, VA",VA,South,37.286226,-79.946935,0.478,Fold 2,Training,,,,,False
+"Dover, DE",DE,South,39.097088,-75.502982,0.4792,Fold 2,Training,,,,,False
+"Lafayette-West Lafayette, IN",IN,Midwest,40.482153,-87.017112,0.4131,Fold 2,Training,,,,,False
+"Akron, OH",OH,Midwest,41.146639,-81.35011,0.4669,Fold 2,Training,,,,,False
+"Shreveport-Bossier City, LA",LA,South,32.437682,-93.744884,0.4669,Fold 2,Training,,,,,False
+"Bangor, ME",ME,Northeast,45.409284,-68.666616,0.4332,Fold 2,Training,,,,,False
+"San Antonio-New Braunfels, TX",TX,South,29.43306,-98.606973,0.4496,Fold 2,Training,,,,,False
+"Slidell-Mandeville-Covington, LA",LA,South,30.410022,-89.951962,0.4755,Fold 2,Training,,,,,False
+"Hilton Head Island-Bluffton-Port Royal, SC",SC,South,32.386792,-80.830877,0.4556,Fold 2,Training,,,,,False
+"Savannah, GA",GA,South,32.109256,-81.273287,0.4725,Fold 2,Training,,,,,False
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",DC,South,38.829787,-77.495684,0.5001,Fold 2,Training,,,,,False
+"Albany, GA",GA,South,31.644686,-84.110718,0.4046,Fold 2,Training,,,,,False
+"Orlando-Kissimmee-Sanford, FL",FL,South,28.434398,-81.35606,0.4538,Fold 2,Training,,,,,False
+"Paducah, KY-IL",KY,South,37.094234,-88.71705,0.4338,Fold 2,Training,,,,,False
+"Tuscaloosa, AL",AL,South,33.097877,-87.799147,0.4401,Fold 2,Training,,,,,False
+"Bowling Green, KY",KY,South,37.046804,-86.397398,0.4077,Fold 2,Training,,,,,False
+"Lebanon, PA",PA,Northeast,40.371448,-76.464819,0.4356,Fold 2,Training,,,,,False
+"Elmira, NY",NY,Northeast,42.148697,-76.752471,0.3837,Fold 2,Training,,,,,False
+"Blacksburg-Christiansburg-Radford, VA",VA,South,37.121364,-80.531517,0.4032,Fold 2,Training,,,,,False
+"Twin Falls, ID",ID,West,42.440397,-114.568729,0.4956,Fold 2,Training,,,,,False
+"Greeley, CO",CO,West,40.555961,-104.383666,0.5211,Fold 2,Training,,,,,False
+"Atlanta-Sandy Springs-Roswell, GA",GA,South,33.732402,-84.392848,0.5058,Fold 2,Training,,,,,False
+"Norwich-New London-Willimantic, CT",CT,Northeast,41.484769,-72.101666,0.4231,Fold 2,Training,,,,,False
+"Harrisburg-Carlisle, PA",PA,Northeast,40.335915,-77.05049,0.4603,Fold 2,Training,,,,,False
+"Valdosta, GA",GA,South,30.827158,-83.243555,0.3944,Fold 2,Training,,,,,False
+"Winston-Salem, NC",NC,South,36.078852,-80.345064,0.4277,Fold 2,Training,,,,,False
+"Decatur, AL",AL,South,34.489361,-87.097147,0.4561,Fold 2,Training,,,,,False
+"Kennewick-Richland, WA",WA,West,46.364155,-119.254927,0.4437,Fold 2,Training,,,,,False
+"Dalton, GA",GA,South,34.796956,-84.856279,0.4113,Fold 2,Training,,,,,False
+"Erie, PA",PA,Northeast,42.117952,-80.096386,0.4241,Fold 2,Training,,,,,False
+"Athens-Clarke County, GA",GA,South,33.943984,-83.213897,0.4267,Fold 2,Training,,,,,False
+"Hartford-West Hartford-East Hartford, CT",CT,Northeast,41.688038,-72.545112,0.4863,Fold 2,Training,,,,,False
+"Santa Fe, NM",NM,West,35.514531,-105.963972,0.4757,Fold 2,Training,,,,,False
+"Tampa-St. Petersburg-Clearwater, FL",FL,South,28.120541,-82.525188,0.4391,Fold 2,Training,,,,,False
+"Des Moines-West Des Moines, IA",IA,Midwest,41.57705,-93.759712,0.5438,Fold 2,Training,,,,,False
+"Monroe, LA",LA,South,32.67396,-92.058318,0.4368,Fold 2,Training,,,,,False
+"Salt Lake City-Murray, UT",UT,West,40.572887,-112.953253,0.5421,Fold 2,Training,,,,,False
+"Auburn-Opelika, AL",AL,South,32.492206,-85.527127,0.4399,Fold 2,Training,,,,,False
+"Appleton, WI",WI,Midwest,44.290603,-88.372326,0.5302,Fold 2,Training,,,,,False
+"Homosassa Springs, FL",FL,South,28.850292,-82.595552,0.3316,Fold 2,Training,,,,,False
+"Kalamazoo-Portage, MI",MI,Midwest,42.246266,-85.532854,0.4284,Fold 2,Training,,,,,False
+"Cedar Rapids, IA",IA,Midwest,42.086289,-91.631095,0.5179,Fold 2,Training,,,,,False
+"Olympia-Lacey-Tumwater, WA",WA,West,46.935822,-122.830152,0.4358,Fold 2,Training,,,,,False
+"Omaha, NE-IA",NE,Midwest,41.290459,-95.99997,0.5283,Fold 2,Training,,,,,False
+"Flint, MI",MI,Midwest,43.021077,-83.706372,0.346,Fold 2,Training,,,,,False
+"New Orleans-Metairie, LA",LA,South,29.282447,-89.576068,0.4433,Fold 2,Training,,,,,False
+"Chambersburg, PA",PA,Northeast,39.926772,-77.724521,0.4261,Fold 2,Training,,,,,False
+"Winchester, VA-WV",VA,South,39.272974,-78.471828,0.4523,Fold 2,Training,,,,,False
+"Santa Maria-Santa Barbara, CA",CA,West,34.536677,-120.038364,0.4648,Fold 2,Training,,,,,False
+"Columbia, SC",SC,South,34.077585,-81.037845,0.4366,Fold 2,Training,,,,,False
+"Greensboro-High Point, NC",NC,South,36.025204,-79.792633,0.4482,Fold 2,Training,,,,,False
+"Watertown-Fort Drum, NY",NY,Northeast,43.996389,-76.052968,0.4312,Fold 2,Training,,,,,False
+"Fairbanks-College, AK",AK,West,64.670454,-146.496061,0.4965,Fold 2,Training,,,,,False
+"Ames, IA",IA,Midwest,42.036128,-93.698008,0.4957,Fold 2,Training,,,,,False
+"Morgantown, WV",WV,South,39.525155,-79.801912,0.4465,Fold 2,Training,,,,,False
+"Lexington Park, MD",MD,South,38.312696,-76.527935,0.5056,Fold 2,Training,,,,,False
+"Sheboygan, WI",WI,Midwest,43.738713,-87.731531,0.4558,Fold 2,Training,,,,,False
+"Rochester, MN",MN,Midwest,43.94981,-92.33066,0.5503,Fold 2,Training,,,,,False
+"Wichita, KS",KS,Midwest,37.637896,-97.246287,0.4838,Fold 2,Training,,,,,False
+"Lexington-Fayette, KY",KY,South,38.102876,-84.438545,0.4657,Fold 2,Training,,,,,False
+"Columbus, GA-AL",GA,South,32.419377,-84.843709,0.3868,Fold 2,Training,,,,,False
+"Parkersburg-Vienna, WV",WV,South,39.141531,-81.460402,0.3862,Fold 2,Training,,,,,False
+"Mobile, AL",AL,South,30.684572,-88.196568,0.4451,Fold 2,Training,,,,,False
+"Boulder, CO",CO,West,40.094971,-105.39771,0.5173,Fold 2,Training,,,,,False
+"Duluth, MN-WI",MN,Midwest,47.329703,-92.37627,0.4713,Fold 2,Training,,,,,False
+"Port St. Lucie, FL",FL,South,27.228046,-80.425388,0.4199,Fold 2,Training,,,,,False
+"Portland-Vancouver-Hillsboro, OR-WA",OR,West,45.600622,-122.484378,0.5056,Fold 2,Training,,,,,False
+"Bloomington, IL",IL,Midwest,40.494559,-88.844539,0.4754,Fold 2,Training,,,,,False
+"Mankato, MN",MN,Midwest,44.15479,-94.147798,0.4811,Fold 2,Training,,,,,False
+"Deltona-Daytona Beach-Ormond Beach, FL",FL,South,29.1789,-81.189023,0.3914,Fold 2,Training,,,,,False
+"Columbus, OH",OH,Midwest,39.968562,-82.835911,0.4753,Fold 2,Training,,,,,False
+"Salinas, CA",CA,West,36.240104,-121.315578,0.3881,Fold 2,Training,,,,,False
+"St. Joseph, MO-KS",MO,Midwest,39.834843,-94.783754,0.4755,Fold 2,Training,,,,,False
+"Amherst Town-Northampton, MA",MA,Northeast,42.339459,-72.663694,0.4183,Fold 2,Training,,,,,False
+"Birmingham, AL",AL,South,33.462372,-86.814338,0.4921,Fold 2,Training,,,,,False
+"Oshkosh-Neenah, WI",WI,Midwest,44.085707,-88.668149,0.4673,Fold 2,Training,,,,,False
+"Davenport-Moline-Rock Island, IA-IL",IA,Midwest,41.39168,-90.460076,0.4779,Fold 2,Training,,,,,False
+"Chico, CA",CA,West,39.665336,-121.603209,0.3473,Fold 2,Training,,,,,False
+"Texarkana, TX-AR",TX,South,33.478373,-94.207162,0.4368,Fold 2,Training,,,,,False
+"Lynchburg, VA",VA,South,37.364926,-79.216689,0.4492,Fold 2,Training,,,,,False
+"Santa Cruz-Watsonville, CA",CA,West,37.012347,-122.007789,0.4416,Fold 2,Training,,,,,False
+"Greenville, NC",NC,South,35.59249,-77.372739,0.3968,Fold 2,Training,,,,,False
+"Racine-Mount Pleasant, WI",WI,Midwest,42.780392,-87.771599,0.4346,Fold 2,Training,,,,,False
+"Johnstown, PA",PA,Northeast,40.510209,-78.710488,0.4062,Fold 2,Training,,,,,False
+"Niles, MI",MI,Midwest,41.791382,-86.742543,0.4357,Fold 2,Training,,,,,False
+"Reno, NV",NV,West,40.251057,-119.555507,0.494,Fold 2,Training,,,,,False
+"San Jose-Sunnyvale-Santa Clara, CA",CA,West,36.908472,-121.371372,0.7229,Fold 2,Training,,,,,False
+"Crestview-Fort Walton Beach-Destin, FL",FL,South,30.594941,-86.358164,0.4449,Fold 2,Training,,,,,False
+"Colorado Springs, CO",CO,West,38.845507,-104.638728,0.4499,Fold 2,Training,,,,,False
+"Sumter, SC",SC,South,33.91614,-80.382376,0.3382,Fold 2,Training,,,,,False
+"Lincoln, NE",NE,Midwest,40.817429,-96.868801,0.4911,Fold 2,Training,,,,,False
+"Baton Rouge, LA",LA,South,30.515242,-91.126926,0.4563,Fold 2,Training,,,,,False
+"Sioux Falls, SD-MN",SD,Midwest,43.525658,-96.875416,0.5709,Fold 2,Training,,,,,False
+"Naples-Marco Island, FL",FL,South,26.118786,-81.400955,0.4759,Fold 2,Training,,,,,False
+"Terre Haute, IN",IN,Midwest,39.392389,-87.347096,0.391,Fold 2,Training,,,,,False
+"Reading, PA",PA,Northeast,40.413957,-75.92686,0.4459,Fold 2,Training,,,,,False
+"Columbia, MO",MO,Midwest,38.986523,-92.585236,0.4949,Fold 2,Training,,,,,False
+"Grants Pass, OR",OR,West,42.386983,-123.57162,0.3324,Fold 2,Training,,,,,False
+"Montgomery, AL",AL,South,32.365631,-86.404585,0.4468,Fold 2,Training,,,,,False
+"Casper, WY",WY,West,42.977645,-106.768219,0.5699,Fold 2,Training,,,,,False
+"Albany, OR",OR,West,44.488898,-122.537208,0.4349,Fold 2,Training,,,,,False
+"Knoxville, TN",TN,South,36.044462,-84.136114,0.4568,Fold 2,Training,,,,,False
+"Topeka, KS",KS,Midwest,39.041389,-95.802639,0.4664,Fold 2,Training,,,,,False
+"Dothan, AL",AL,South,31.245528,-85.46919,0.451,Fold 2,Training,,,,,False
+"Austin-Round Rock-San Marcos, TX",TX,South,30.249744,-97.649842,0.5338,Fold 2,Training,,,,,False
+"Altoona, PA",PA,Northeast,40.498683,-78.309597,0.4408,Fold 2,Training,,,,,False
+"Waterbury-Shelton, CT",CT,Northeast,41.518931,-73.087906,0.4246,Fold 2,Training,,,,,False
+"Santa Rosa-Petaluma, CA",CA,West,38.525182,-122.92611,0.495,Fold 2,Training,,,,,False
+"McAllen-Edinburg-Mission, TX",TX,South,26.396384,-98.18099,0.3293,Fold 2,Training,,,,,False
+"Cincinnati, OH-KY-IN",OH,Midwest,39.078595,-84.463535,0.4837,Fold 2,Training,,,,,False
+"Pittsfield, MA",MA,Northeast,42.371493,-73.217928,0.453,Fold 2,Training,,,,,False
+"Springfield, MA",MA,Northeast,42.136198,-72.635648,0.4,Fold 2,Training,,,,,False
+"Raleigh-Cary, NC",NC,South,35.756746,-78.460441,0.5306,Fold 2,Training,,,,,False
+"Eagle Pass, TX",TX,South,28.729787,-100.316678,0.288,Fold 2,Training,,,,,False
+"Glens Falls, NY",NY,Northeast,43.44045,-73.636757,0.4193,Fold 2,Training,,,,,False
+"Fayetteville-Springdale-Rogers, AR",AR,South,36.116394,-94.079545,0.5447,Fold 2,Training,,,,,False
+"Salem, OR",OR,West,44.903385,-122.901757,0.409,Fold 2,Training,,,,,False
+"Urban Honolulu, HI",HI,West,21.461365,-158.201974,0.4443,Fold 2,Training,,,,,False
+"Coeur d'Alene, ID",ID,West,47.675957,-116.695919,0.4726,Fold 2,Training,,,,,False
+"Los Angeles-Long Beach-Anaheim, CA",CA,West,34.108703,-118.182753,0.4648,Fold 2,Training,,,,,False
+"Sierra Vista-Douglas, AZ",AZ,West,31.840129,-109.775163,0.3807,Fold 2,Training,,,,,False
+"Waco, TX",TX,South,31.5921,-97.286018,0.4297,Fold 2,Training,,,,,False
+"Jacksonville, NC",NC,South,34.763109,-77.499469,0.3606,Fold 2,Training,,,,,False
+"Lawrence, KS",KS,Midwest,38.896417,-95.290947,0.4466,Fold 2,Training,,,,,False
+"Warner Robins, GA",GA,South,32.492806,-83.711084,0.3582,Fold 2,Training,,,,,False
+"Kokomo, IN",IN,Midwest,40.483537,-86.114118,0.3351,Fold 2,Training,,,,,False
+"Saginaw, MI",MI,Midwest,43.328267,-84.05541,0.3559,Fold 2,Training,,,,,False
+"Lima, OH",OH,Midwest,40.771627,-84.106103,0.4408,Fold 2,Training,,,,,False
+"Bakersfield-Delano, CA",CA,West,35.346629,-118.729506,0.3408,Fold 2,Training,,,,,False
+"New Haven, CT",CT,Northeast,41.290167,-72.837024,0.4486,Fold 2,Training,,,,,False
+"Stockton-Lodi, CA",CA,West,37.934982,-121.272244,0.3853,Fold 2,Training,,,,,False
+"Cape Coral-Fort Myers, FL",FL,South,26.563273,-81.984182,0.4149,Fold 2,Training,,,,,False
+"Manhattan, KS",KS,Midwest,39.268424,-96.562242,0.4437,Fold 2,Training,,,,,False
+"Chicago-Naperville-Elgin, IL-IN",IL,Midwest,41.75878,-87.841887,0.4792,Fold 2,Training,,,,,False
+"Sacramento-Roseville-Folsom, CA",CA,West,38.790272,-121.005643,0.4506,Fold 2,Training,,,,,False
+"Allentown-Bethlehem-Easton, PA-NJ",PA,Northeast,40.789339,-75.398158,0.4477,Fold 2,Training,,,,,False
+"Great Falls, MT",MT,West,47.316575,-111.350262,0.4222,Fold 2,Training,,,,,False
+"Miami-Fort Lauderdale-West Palm Beach, FL",FL,South,26.101828,-80.478755,0.4168,Fold 2,Training,,,,,False
+"Houma-Bayou Cane-Thibodaux, LA",LA,South,29.33413,-90.843674,0.4955,Fold 2,Training,,,,,False
+"Dallas-Fort Worth-Arlington, TX",TX,South,32.849171,-96.970489,0.4803,Fold 2,Training,,,,,False
+"Bremerton-Silverdale-Port Orchard, WA",WA,West,47.639687,-122.649636,0.4454,Fold 2,Training,,,,,False
+"New York-Newark-Jersey City, NY-NJ",NY,Northeast,40.735425,-73.80773,0.4692,Fold 2,Training,,,,,False
+"Fayetteville, NC",NC,South,35.037956,-78.982209,0.3341,Fold 2,Training,,,,,False
+"Little Rock-North Little Rock-Conway, AR",AR,South,34.755773,-92.400589,0.4679,Fold 2,Training,,,,,False
+"Ogden, UT",UT,West,41.124342,-111.866933,0.4827,Fold 2,Training,,,,,False
+"Brownsville-Harlingen, TX",TX,South,26.102923,-97.478958,0.3435,Fold 2,Training,,,,,False
+"Riverside-San Bernardino-Ontario, CA",CA,West,34.538476,-116.134541,0.4008,Fold 2,Training,,,,,False
+"Milwaukee-Waukesha, WI",WI,Midwest,42.912643,-87.862312,0.4874,Fold 2,Training,,,,,False
+"Helena, MT",MT,West,46.715671,-112.1352,0.5411,Fold 2,Training,,,,,False
+"Denver-Aurora-Centennial, CO",CO,West,39.434789,-104.901073,0.5249,Fold 2,Training,,,,,False
+"Las Cruces, NM",NM,West,32.349919,-106.834968,0.3621,Fold 2,Training,,,,,False
+"Wilmington, NC",NC,South,34.253691,-78.041674,0.451,Fold 2,Training,,,,,False
+"Gulfport-Biloxi, MS",MS,South,30.480153,-88.999297,0.4014,Fold 2,Training,,,,,False
+"Sebastian-Vero Beach-West Vero Corridor, FL",FL,South,27.700528,-80.574789,0.4372,Fold 2,Training,,,,,False
+"North Port-Bradenton-Sarasota, FL",FL,South,27.329055,-82.414533,0.4328,Fold 2,Training,,,,,False
+"Barnstable Town, MA",MA,Northeast,41.706123,-70.164823,0.4675,Fold 2,Training,,,,,False
+"San Angelo, TX",TX,South,31.36531,-100.659418,0.4829,Fold 2,Training,,,,,False
+"Lake Havasu City-Kingman, AZ",AZ,West,35.717705,-113.749689,0.3494,Fold 2,Training,,,,,False
+"St. Cloud, MN",MN,Midwest,45.593031,-94.488363,0.5169,Fold 2,Training,,,,,False
+"Nashville-Davidson--Murfreesboro--Franklin, TN",TN,South,36.091577,-86.72298,0.5325,Fold 2,Training,,,,,False
+"Boise City, ID",ID,West,43.006648,-116.141909,0.4919,Fold 2,Training,,,,,False
+"Fort Wayne, IN",IN,Midwest,41.006999,-85.216424,0.4642,Fold 2,Training,,,,,False
+"Clarksville, TN-KY",TN,South,36.69571,-87.624307,0.38,Fold 2,Training,,,,,False
+"Punta Gorda, FL",FL,South,26.906396,-82.003657,0.3518,Fold 2,Training,,,,,False
+"Spokane-Spokane Valley, WA",WA,West,48.091618,-117.663472,0.4586,Fold 2,Training,,,,,False
+"Yuma, AZ",AZ,West,32.773942,-113.910905,0.3033,Fold 2,Training,,,,,False
+"South Bend-Mishawaka, IN-MI",IN,Midwest,41.774981,-86.123014,0.4054,Fold 2,Training,,,,,False
+"Johnson City, TN",TN,South,36.265822,-82.332693,0.3816,Fold 2,Training,,,,,False
+"Iowa City, IA",IA,Midwest,41.517806,-91.64793,0.4746,Fold 2,Training,,,,,False
+"Hattiesburg, MS",MS,South,31.188441,-89.232741,0.4449,Fold 2,Training,,,,,False
+"Trenton-Princeton, NJ",NJ,Northeast,40.282503,-74.703724,0.4962,Fold 2,Training,,,,,False
+"Albuquerque, NM",NM,West,35.123496,-106.458392,0.435,Fold 2,Training,,,,,False
+"Ann Arbor, MI",MI,Midwest,42.252217,-83.843423,0.4645,Fold 2,Training,,,,,False
+"Medford, OR",OR,West,42.411621,-122.675611,0.4479,Fold 2,Training,,,,,False
+"Burlington-South Burlington, VT",VT,Northeast,44.689115,-73.041175,0.521,Fold 2,Training,,,,,False
+"Atlantic City-Hammonton, NJ",NJ,Northeast,39.286186,-74.738311,0.3597,Fold 2,Training,,,,,False
+"Weirton-Steubenville, WV-OH",WV,South,40.388914,-80.701966,0.3611,Fold 2,Training,,,,,False
+"Redding, CA",CA,West,40.760514,-122.043556,0.389,Fold 2,Training,,,,,False
+"Yakima, WA",WA,West,46.456558,-120.740145,0.4018,Fold 2,Training,,,,,False
+"Waterloo-Cedar Falls, IA",IA,Midwest,42.536796,-92.471608,0.511,Fold 2,Training,,,,,False
+"Michigan City-La Porte, IN",IN,Midwest,41.549013,-86.744739,0.4069,Fold 2,Training,,,,,False
+"Mount Vernon-Anacortes, WA",WA,West,48.493292,-121.81577,0.4688,Fold 2,Training,,,,,False
+"York-Hanover, PA",PA,Northeast,39.921751,-76.728889,0.4532,Fold 2,Training,,,,,False
+"La Crosse-Onalaska, WI-MN",WI,Midwest,43.698264,-91.11014,0.5085,Fold 2,Training,,,,,False
+"Harrisonburg, VA",VA,South,38.507612,-78.885329,0.4465,Fold 2,Training,,,,,False
+"Macon-Bibb County, GA",GA,South,32.856216,-83.714305,0.4005,Fold 2,Training,,,,,False
+"Prescott Valley-Prescott, AZ",AZ,West,34.631071,-112.577225,0.4229,Fold 2,Training,,,,,False
+"Lubbock, TX",TX,South,33.469794,-101.880412,0.4604,Fold 2,Training,,,,,False
+"Worcester, MA",MA,Northeast,42.311693,-71.940282,0.4596,Fold 2,Training,,,,,False
+"Baltimore-Columbia-Towson, MD",MD,South,39.304361,-76.549501,0.4718,Fold 2,Training,,,,,False
+"Bay City, MI",MI,Midwest,43.699711,-83.978701,0.3578,Fold 2,Training,,,,,False
+"Charlotte-Concord-Gastonia, NC-SC",NC,South,35.166342,-80.797285,0.5132,Fold 2,Training,,,,,False
+"Boston-Cambridge-Newton, MA-NH",MA,Northeast,42.517606,-71.021993,0.5464,Fold 2,Training,,,,,False
+"Bridgeport-Stamford-Danbury, CT",CT,Northeast,41.252442,-73.393266,0.5698,Fold 2,Training,,,,,False
+"Salisbury, MD",MD,South,38.197279,-75.769252,0.4258,Fold 2,Training,,,,,False
+"Syracuse, NY",NY,Northeast,43.006516,-76.196134,0.4555,Fold 2,Training,,,,,False
+"Hickory-Lenoir-Morganton, NC",NC,South,35.814295,-81.456584,0.4331,Fold 2,Training,,,,,False
+"Grand Forks, ND-MN",ND,Midwest,47.835929,-96.842681,0.5213,Fold 2,Training,,,,,False
+"El Paso, TX",TX,South,31.527394,-105.521333,0.4009,Fold 2,Training,,,,,False
+"Wausau, WI",WI,Midwest,44.898036,-89.757823,0.5038,Fold 2,Training,,,,,False
+"Sebring, FL",FL,South,27.34108,-81.342353,0.3461,Fold 2,Training,,,,,False
+"Springfield, MO",MO,Midwest,37.36087,-93.180262,0.4793,Fold 2,Training,,,,,False
+"Corvallis, OR",OR,West,44.493882,-123.424664,0.426,Fold 2,Training,,,,,False
+"Jackson, MI",MI,Midwest,42.248474,-84.420868,0.404,Fold 2,Training,,,,,False
+"Wenatchee-East Wenatchee, WA",WA,West,47.76611,-120.270197,0.4155,Fold 2,Training,,,,,False
+"Kingston, NY",NY,Northeast,41.947212,-74.265458,0.4613,Fold 2,Training,,,,,False
+"Laredo, TX",TX,South,27.760799,-99.340752,0.3319,Fold 2,Training,,,,,False
+"Anniston-Oxford, AL",AL,South,33.770516,-85.827909,0.3651,Fold 2,Training,,,,,False
+"Hammond, LA",LA,South,30.621348,-90.40649,0.3974,Fold 2,Training,,,,,False
+"Pocatello, ID",ID,West,42.692921,-112.228982,0.4075,Fold 2,Training,,,,,False
+"Walla Walla, WA",WA,West,46.254606,-118.48037,0.4294,Fold 2,Training,,,,,False
+"Farmington, NM",NM,West,36.511624,-108.324578,0.4563,Fold 2,Training,,,,,False
+"Seattle-Tacoma-Bellevue, WA",WA,West,47.490552,-121.833977,0.518,Fold 2,Training,,,,,False
+"Cleveland, OH",OH,Midwest,41.667548,-81.43052,0.4773,Fold 2,Training,,,,,False
+"Dubuque, IA",IA,Midwest,42.463481,-90.878771,0.5555,Fold 2,Training,,,,,False
+"Canton-Massillon, OH",OH,Midwest,40.711051,-81.261468,0.4534,Fold 2,Training,,,,,False
+"Abilene, TX",TX,South,32.452022,-99.718743,0.4612,Fold 2,Training,,,,,False
+"Bismarck, ND",ND,Midwest,46.887031,-100.979592,0.5705,Fold 2,Training,,,,,False
+"Lawton, OK",OK,South,34.529113,-98.430902,0.3861,Fold 2,Training,,,,,False
+"Rocky Mount, NC",NC,South,35.941045,-77.798549,0.3762,Fold 2,Training,,,,,False
+"Chattanooga, TN-GA",TN,South,35.049361,-85.361158,0.4656,Fold 2,Training,,,,,False
+"Eugene-Springfield, OR",OR,West,43.928334,-122.897581,0.4247,Fold 2,Training,,,,,False
+"Alexandria, LA",LA,South,31.325348,-92.546803,0.398,Fold 2,Training,,,,,False
+"Kankakee, IL",IL,Midwest,41.13951,-87.861117,0.4032,Fold 2,Training,,,,,False
+"College Station-Bryan, TX",TX,South,30.754392,-96.488537,0.4311,Fold 2,Training,,,,,False
+"Daphne-Fairhope-Foley, AL",AL,South,30.659218,-87.746067,0.4632,Fold 2,Training,,,,,False
+"Sioux City, IA-NE-SD",IA,Midwest,42.508037,-96.311314,0.5419,Fold 2,Training,,,,,False
+"Tulsa, OK",OK,South,36.254442,-96.177298,0.5025,Fold 2,Training,,,,,False
+"Rapid City, SD",SD,Midwest,44.195108,-102.916612,0.5557,Fold 2,Training,,,,,False
+"Ithaca, NY",NY,Northeast,42.453006,-76.473483,0.3756,Fold 2,Training,,,,,False
+"Williamsport, PA",PA,Northeast,41.343882,-77.055262,0.4124,Fold 2,Training,,,,,False
+"Bend, OR",OR,West,44.153837,-120.887072,0.5021,Fold 2,Training,,,,,False
+"Minneapolis-St. Paul-Bloomington, MN-WI",MN,Midwest,45.096664,-93.275361,0.5123,Fold 2,Training,,,,,False
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",PA,Northeast,39.894958,-75.311982,0.4816,Fold 2,Training,,,,,False
+"Pensacola-Ferry Pass-Brent, FL",FL,South,30.608557,-87.158547,0.4061,Fold 2,Training,,,,,False
+"Fresno, CA",CA,West,36.879404,-119.668488,0.3497,Fold 2,Training,,,,,False
+"Napa, CA",CA,West,38.5071,-122.325904,0.5398,Fold 2,Training,,,,,False
+"Missoula, MT",MT,West,47.069545,-114.262668,0.5149,Fold 2,Training,,,,,False
+"Lewiston-Auburn, ME",ME,Northeast,44.167681,-70.207435,0.4314,Fold 2,Training,,,,,False
+"Gettysburg, PA",PA,Northeast,39.869437,-77.21775,0.4397,Fold 2,Training,,,,,False
+"Minot, ND",ND,Midwest,48.320242,-101.19801,0.5598,Fold 2,Training,,,,,False
+"Wichita Falls, TX",TX,South,33.776144,-98.501907,0.4652,Fold 2,Training,,,,,False
+"Beckley, WV",WV,South,37.905659,-81.163748,0.3822,Fold 2,Training,,,,,False
+"Sherman-Denison, TX",TX,South,33.624548,-96.675777,0.423,Fold 2,Training,,,,,False
+"Huntsville, AL",AL,South,34.783262,-86.734871,0.4804,Fold 2,Validation,High,High,0.97,Correct,False
+"Mansfield, OH",OH,Midwest,40.774159,-82.542781,0.4124,Fold 2,Validation,Low/Medium,Low/Medium,0.0099,Correct,False
+"Traverse City, MI",MI,Midwest,44.952324,-85.90832,0.5112,Fold 2,Validation,High,High,0.8014,Correct,False
+"San Francisco-Oakland-Fremont, CA",CA,West,37.773718,-122.274432,0.5773,Fold 2,Validation,High,High,1.0,Correct,False
+"Cape Girardeau, MO-IL",MO,Midwest,37.325936,-89.762639,0.4694,Fold 2,Validation,Low/Medium,High,0.6356,False Positive,True
+"Rochester, NY",NY,Northeast,43.184718,-77.556558,0.4581,Fold 2,Validation,Low/Medium,Low/Medium,0.0538,Correct,False
+"Detroit-Warren-Dearborn, MI",MI,Midwest,42.721848,-83.200846,0.4302,Fold 2,Validation,Low/Medium,Low/Medium,0.1024,Correct,False
+"Greenville-Anderson-Greer, SC",SC,South,34.683709,-82.413423,0.4584,Fold 2,Validation,Low/Medium,Low/Medium,0.4969,Correct,False
+"Burlington, NC",NC,South,36.043954,-79.400573,0.4092,Fold 2,Validation,Low/Medium,Low/Medium,0.0102,Correct,False
+"Lafayette, LA",LA,South,30.012961,-92.136552,0.4837,Fold 2,Validation,High,High,0.9296,Correct,False
+"Kansas City, MO-KS",MO,Midwest,38.931857,-94.443841,0.5177,Fold 2,Validation,High,High,0.9829,Correct,False
+"Jacksonville, FL",FL,South,30.234184,-81.756033,0.4543,Fold 2,Validation,Low/Medium,High,0.8246,False Positive,True
+"Florence, SC",SC,South,34.153574,-79.806164,0.3913,Fold 2,Validation,Low/Medium,Low/Medium,0.2764,Correct,False
+"Grand Rapids-Wyoming-Kentwood, MI",MI,Midwest,42.979841,-85.715614,0.4817,Fold 2,Validation,High,Low/Medium,0.2331,False Negative,True
+"Elkhart-Goshen, IN",IN,Midwest,41.600693,-85.863986,0.4256,Fold 2,Validation,Low/Medium,High,0.976,False Positive,True
+"Lakeland-Winter Haven, FL",FL,South,27.953686,-81.693493,0.3874,Fold 2,Validation,Low/Medium,Low/Medium,0.002,Correct,False
+"Memphis, TN-MS-AR",TN,South,35.010307,-89.820503,0.445,Fold 2,Validation,Low/Medium,Low/Medium,0.0635,Correct,False
+"Pittsburgh, PA",PA,Northeast,40.471332,-79.863986,0.4824,Fold 2,Validation,High,High,0.6084,Correct,False
+"Pueblo, CO",CO,West,38.162765,-104.484668,0.354,Fold 2,Validation,Low/Medium,Low/Medium,0.0299,Correct,False
+"Brunswick-St. Simons, GA",GA,South,31.301739,-81.588909,0.4704,Fold 2,Validation,Low/Medium,Low/Medium,0.0781,Correct,False
+"Houston-Pasadena-The Woodlands, TX",TX,South,29.801005,-95.34262,0.4702,Fold 2,Validation,Low/Medium,High,0.5705,False Positive,True
+"Portland-South Portland, ME",ME,Northeast,43.651417,-70.418375,0.521,Fold 2,Validation,High,High,0.9931,Correct,False
+"Charlottesville, VA",VA,South,37.949084,-78.593206,0.5329,Fold 2,Validation,High,High,0.8154,Correct,False
+"Jackson, TN",TN,South,35.753215,-88.882692,0.4265,Fold 2,Validation,Low/Medium,Low/Medium,0.0182,Correct,False
+"Kiryas Joel-Poughkeepsie-Newburgh, NY",NY,Northeast,41.575274,-74.033873,0.4274,Fold 2,Validation,Low/Medium,Low/Medium,0.0059,Correct,False
+"Rome, GA",GA,South,34.26369,-85.213685,0.3998,Fold 2,Validation,Low/Medium,Low/Medium,0.0315,Correct,False
+"Bellingham, WA",WA,West,48.842653,-121.836432,0.481,Fold 2,Validation,High,Low/Medium,0.2037,False Negative,True
+"Lansing-East Lansing, MI",MI,Midwest,42.713659,-84.605372,0.4193,Fold 2,Validation,Low/Medium,Low/Medium,0.0501,Correct,False
+"Springfield, OH",OH,Midwest,39.917032,-83.783676,0.383,Fold 2,Validation,Low/Medium,Low/Medium,0.0013,Correct,False
+"State College, PA",PA,Northeast,40.909322,-77.847667,0.4572,Fold 2,Validation,Low/Medium,Low/Medium,0.0431,Correct,False
+"Columbus, IN",IN,Midwest,39.205843,-85.897999,0.4825,Fold 2,Validation,High,High,0.9771,Correct,False
+"Phoenix-Mesa-Chandler, AZ",AZ,West,33.185765,-112.067862,0.4566,Fold 2,Validation,Low/Medium,Low/Medium,0.4462,Correct,False
+"Odessa, TX",TX,South,31.865301,-102.542507,0.5278,Fold 2,Validation,High,High,0.9882,Correct,False
+"Billings, MT",MT,West,45.63714,-108.832361,0.5462,Fold 2,Validation,High,High,0.9932,Correct,False
+"Charleston, WV",WV,South,38.283213,-81.492557,0.4477,Fold 2,Validation,Low/Medium,High,0.6564,False Positive,True
+"Florence-Muscle Shoals, AL",AL,South,34.799254,-87.719388,0.4399,Fold 2,Validation,Low/Medium,Low/Medium,0.0283,Correct,False
+"Youngstown-Warren, OH",OH,Midwest,41.195092,-80.76508,0.3982,Fold 2,Validation,Low/Medium,Low/Medium,0.006,Correct,False
+"Longview-Kelso, WA",WA,West,46.196785,-122.67846,0.4342,Fold 2,Validation,Low/Medium,Low/Medium,0.0023,Correct,False
+"Bloomington, IN",IN,Midwest,39.241736,-86.671754,0.4148,Fold 2,Validation,Low/Medium,Low/Medium,0.2843,Correct,False
+"Manchester-Nashua, NH",NH,Northeast,42.911532,-71.723055,0.5153,Fold 2,Validation,High,High,0.983,Correct,False
+"Visalia, CA",CA,West,36.228834,-118.781055,0.2933,Fold 2,Validation,Low/Medium,Low/Medium,0.001,Correct,False
+"Morristown, TN",TN,South,36.115484,-83.376546,0.3836,Fold 2,Validation,Low/Medium,Low/Medium,0.0012,Correct,False
+"Hinesville, GA",GA,South,31.778788,-81.57648,0.3309,Fold 2,Validation,Low/Medium,Low/Medium,0.0042,Correct,False
+"Dayton-Kettering-Beavercreek, OH",OH,Midwest,39.829746,-84.140992,0.4324,Fold 2,Validation,Low/Medium,Low/Medium,0.1277,Correct,False
+"Gainesville, FL",FL,South,29.453355,-82.666257,0.3789,Fold 2,Validation,Low/Medium,Low/Medium,0.0633,Correct,False
+"Lewiston, ID-WA",ID,West,46.251696,-116.925017,0.4938,Fold 2,Validation,High,High,0.8415,Correct,False
+"Albany-Schenectady-Troy, NY",NY,Northeast,42.78792,-73.942348,0.4673,Fold 2,Validation,Low/Medium,High,0.7457,False Positive,True
+"Green Bay, WI",WI,Midwest,44.474024,-87.99613,0.5187,Fold 2,Validation,High,High,0.9479,Correct,False
+"Battle Creek, MI",MI,Midwest,42.24299,-85.012385,0.4001,Fold 2,Validation,Low/Medium,Low/Medium,0.0098,Correct,False
+"Merced, CA",CA,West,37.194806,-120.722802,0.2688,Fold 2,Validation,Low/Medium,Low/Medium,0.0,Correct,False
+"San Luis Obispo-Paso Robles, CA",CA,West,35.388189,-120.448897,0.4599,Fold 2,Validation,Low/Medium,Low/Medium,0.2965,Correct,False
+"Janesville-Beloit, WI",WI,Midwest,42.66988,-89.075284,0.4464,Fold 2,Validation,Low/Medium,Low/Medium,0.2421,Correct,False
+"Fargo, ND-MN",ND,Midwest,46.914859,-96.960183,0.5315,Fold 2,Validation,High,High,0.9954,Correct,False
+"Kahului-Wailuku, HI",HI,West,20.855931,-156.60155,0.4534,Fold 2,Validation,Low/Medium,Low/Medium,0.0,Correct,False
+"Providence-Warwick, RI-MA",RI,Northeast,41.70684,-71.286687,0.4407,Fold 2,Validation,Low/Medium,Low/Medium,0.0644,Correct,False
+"Amarillo, TX",TX,South,35.247999,-101.90867,0.4717,Fold 2,Validation,Low/Medium,High,0.8204,False Positive,True
+"Huntington-Ashland, WV-KY-OH",WV,South,38.357487,-82.579994,0.3931,Fold 2,Validation,Low/Medium,Low/Medium,0.0391,Correct,False
+"Utica-Rome, NY",NY,Northeast,43.33228,-75.173189,0.4229,Fold 2,Validation,Low/Medium,Low/Medium,0.0089,Correct,False
+"Anchorage, AK",AK,West,62.212784,-149.678222,0.5084,Fold 2,Validation,High,High,0.9793,Correct,False
+"Grand Junction, CO",CO,West,39.019524,-108.460571,0.4799,Fold 2,Validation,High,High,0.7866,Correct,False
+"Panama City-Panama City Beach, FL",FL,South,30.273241,-85.642089,0.4227,Fold 2,Validation,Low/Medium,Low/Medium,0.0961,Correct,False
+"Wheeling, WV-OH",WV,South,39.977687,-80.854826,0.3969,Fold 2,Validation,Low/Medium,Low/Medium,0.419,Correct,False
+"Asheville, NC",NC,South,35.61634,-82.570683,0.4541,Fold 3,Training,,,,,False
+"Ocala, FL",FL,South,29.202805,-82.0431,0.385,Fold 3,Training,,,,,False
+"Huntsville, AL",AL,South,34.783262,-86.734871,0.4804,Fold 3,Training,,,,,False
+"Lafayette-West Lafayette, IN",IN,Midwest,40.482153,-87.017112,0.4131,Fold 3,Training,,,,,False
+"Akron, OH",OH,Midwest,41.146639,-81.35011,0.4669,Fold 3,Training,,,,,False
+"Shreveport-Bossier City, LA",LA,South,32.437682,-93.744884,0.4669,Fold 3,Training,,,,,False
+"San Antonio-New Braunfels, TX",TX,South,29.43306,-98.606973,0.4496,Fold 3,Training,,,,,False
+"Mansfield, OH",OH,Midwest,40.774159,-82.542781,0.4124,Fold 3,Training,,,,,False
+"Slidell-Mandeville-Covington, LA",LA,South,30.410022,-89.951962,0.4755,Fold 3,Training,,,,,False
+"Hilton Head Island-Bluffton-Port Royal, SC",SC,South,32.386792,-80.830877,0.4556,Fold 3,Training,,,,,False
+"Savannah, GA",GA,South,32.109256,-81.273287,0.4725,Fold 3,Training,,,,,False
+"Albany, GA",GA,South,31.644686,-84.110718,0.4046,Fold 3,Training,,,,,False
+"Traverse City, MI",MI,Midwest,44.952324,-85.90832,0.5112,Fold 3,Training,,,,,False
+"Orlando-Kissimmee-Sanford, FL",FL,South,28.434398,-81.35606,0.4538,Fold 3,Training,,,,,False
+"Paducah, KY-IL",KY,South,37.094234,-88.71705,0.4338,Fold 3,Training,,,,,False
+"Tuscaloosa, AL",AL,South,33.097877,-87.799147,0.4401,Fold 3,Training,,,,,False
+"San Francisco-Oakland-Fremont, CA",CA,West,37.773718,-122.274432,0.5773,Fold 3,Training,,,,,False
+"Cape Girardeau, MO-IL",MO,Midwest,37.325936,-89.762639,0.4694,Fold 3,Training,,,,,False
+"Bowling Green, KY",KY,South,37.046804,-86.397398,0.4077,Fold 3,Training,,,,,False
+"Lebanon, PA",PA,Northeast,40.371448,-76.464819,0.4356,Fold 3,Training,,,,,False
+"Elmira, NY",NY,Northeast,42.148697,-76.752471,0.3837,Fold 3,Training,,,,,False
+"Blacksburg-Christiansburg-Radford, VA",VA,South,37.121364,-80.531517,0.4032,Fold 3,Training,,,,,False
+"Rochester, NY",NY,Northeast,43.184718,-77.556558,0.4581,Fold 3,Training,,,,,False
+"Twin Falls, ID",ID,West,42.440397,-114.568729,0.4956,Fold 3,Training,,,,,False
+"Greeley, CO",CO,West,40.555961,-104.383666,0.5211,Fold 3,Training,,,,,False
+"Atlanta-Sandy Springs-Roswell, GA",GA,South,33.732402,-84.392848,0.5058,Fold 3,Training,,,,,False
+"Norwich-New London-Willimantic, CT",CT,Northeast,41.484769,-72.101666,0.4231,Fold 3,Training,,,,,False
+"Harrisburg-Carlisle, PA",PA,Northeast,40.335915,-77.05049,0.4603,Fold 3,Training,,,,,False
+"Detroit-Warren-Dearborn, MI",MI,Midwest,42.721848,-83.200846,0.4302,Fold 3,Training,,,,,False
+"Valdosta, GA",GA,South,30.827158,-83.243555,0.3944,Fold 3,Training,,,,,False
+"Decatur, AL",AL,South,34.489361,-87.097147,0.4561,Fold 3,Training,,,,,False
+"Kennewick-Richland, WA",WA,West,46.364155,-119.254927,0.4437,Fold 3,Training,,,,,False
+"Dalton, GA",GA,South,34.796956,-84.856279,0.4113,Fold 3,Training,,,,,False
+"Greenville-Anderson-Greer, SC",SC,South,34.683709,-82.413423,0.4584,Fold 3,Training,,,,,False
+"Erie, PA",PA,Northeast,42.117952,-80.096386,0.4241,Fold 3,Training,,,,,False
+"Santa Fe, NM",NM,West,35.514531,-105.963972,0.4757,Fold 3,Training,,,,,False
+"Burlington, NC",NC,South,36.043954,-79.400573,0.4092,Fold 3,Training,,,,,False
+"Monroe, LA",LA,South,32.67396,-92.058318,0.4368,Fold 3,Training,,,,,False
+"Salt Lake City-Murray, UT",UT,West,40.572887,-112.953253,0.5421,Fold 3,Training,,,,,False
+"Lafayette, LA",LA,South,30.012961,-92.136552,0.4837,Fold 3,Training,,,,,False
+"Kansas City, MO-KS",MO,Midwest,38.931857,-94.443841,0.5177,Fold 3,Training,,,,,False
+"Appleton, WI",WI,Midwest,44.290603,-88.372326,0.5302,Fold 3,Training,,,,,False
+"Jacksonville, FL",FL,South,30.234184,-81.756033,0.4543,Fold 3,Training,,,,,False
+"Kalamazoo-Portage, MI",MI,Midwest,42.246266,-85.532854,0.4284,Fold 3,Training,,,,,False
+"Cedar Rapids, IA",IA,Midwest,42.086289,-91.631095,0.5179,Fold 3,Training,,,,,False
+"Omaha, NE-IA",NE,Midwest,41.290459,-95.99997,0.5283,Fold 3,Training,,,,,False
+"Chambersburg, PA",PA,Northeast,39.926772,-77.724521,0.4261,Fold 3,Training,,,,,False
+"Florence, SC",SC,South,34.153574,-79.806164,0.3913,Fold 3,Training,,,,,False
+"Greensboro-High Point, NC",NC,South,36.025204,-79.792633,0.4482,Fold 3,Training,,,,,False
+"Watertown-Fort Drum, NY",NY,Northeast,43.996389,-76.052968,0.4312,Fold 3,Training,,,,,False
+"Fairbanks-College, AK",AK,West,64.670454,-146.496061,0.4965,Fold 3,Training,,,,,False
+"Ames, IA",IA,Midwest,42.036128,-93.698008,0.4957,Fold 3,Training,,,,,False
+"Lexington Park, MD",MD,South,38.312696,-76.527935,0.5056,Fold 3,Training,,,,,False
+"Sheboygan, WI",WI,Midwest,43.738713,-87.731531,0.4558,Fold 3,Training,,,,,False
+"Rochester, MN",MN,Midwest,43.94981,-92.33066,0.5503,Fold 3,Training,,,,,False
+"Wichita, KS",KS,Midwest,37.637896,-97.246287,0.4838,Fold 3,Training,,,,,False
+"Lexington-Fayette, KY",KY,South,38.102876,-84.438545,0.4657,Fold 3,Training,,,,,False
+"Columbus, GA-AL",GA,South,32.419377,-84.843709,0.3868,Fold 3,Training,,,,,False
+"Parkersburg-Vienna, WV",WV,South,39.141531,-81.460402,0.3862,Fold 3,Training,,,,,False
+"Mobile, AL",AL,South,30.684572,-88.196568,0.4451,Fold 3,Training,,,,,False
+"Port St. Lucie, FL",FL,South,27.228046,-80.425388,0.4199,Fold 3,Training,,,,,False
+"Grand Rapids-Wyoming-Kentwood, MI",MI,Midwest,42.979841,-85.715614,0.4817,Fold 3,Training,,,,,False
+"Mankato, MN",MN,Midwest,44.15479,-94.147798,0.4811,Fold 3,Training,,,,,False
+"Deltona-Daytona Beach-Ormond Beach, FL",FL,South,29.1789,-81.189023,0.3914,Fold 3,Training,,,,,False
+"Columbus, OH",OH,Midwest,39.968562,-82.835911,0.4753,Fold 3,Training,,,,,False
+"Elkhart-Goshen, IN",IN,Midwest,41.600693,-85.863986,0.4256,Fold 3,Training,,,,,False
+"Lakeland-Winter Haven, FL",FL,South,27.953686,-81.693493,0.3874,Fold 3,Training,,,,,False
+"Memphis, TN-MS-AR",TN,South,35.010307,-89.820503,0.445,Fold 3,Training,,,,,False
+"St. Joseph, MO-KS",MO,Midwest,39.834843,-94.783754,0.4755,Fold 3,Training,,,,,False
+"Amherst Town-Northampton, MA",MA,Northeast,42.339459,-72.663694,0.4183,Fold 3,Training,,,,,False
+"Birmingham, AL",AL,South,33.462372,-86.814338,0.4921,Fold 3,Training,,,,,False
+"Oshkosh-Neenah, WI",WI,Midwest,44.085707,-88.668149,0.4673,Fold 3,Training,,,,,False
+"Pittsburgh, PA",PA,Northeast,40.471332,-79.863986,0.4824,Fold 3,Training,,,,,False
+"Davenport-Moline-Rock Island, IA-IL",IA,Midwest,41.39168,-90.460076,0.4779,Fold 3,Training,,,,,False
+"Pueblo, CO",CO,West,38.162765,-104.484668,0.354,Fold 3,Training,,,,,False
+"Texarkana, TX-AR",TX,South,33.478373,-94.207162,0.4368,Fold 3,Training,,,,,False
+"Brunswick-St. Simons, GA",GA,South,31.301739,-81.588909,0.4704,Fold 3,Training,,,,,False
+"Houston-Pasadena-The Woodlands, TX",TX,South,29.801005,-95.34262,0.4702,Fold 3,Training,,,,,False
+"Santa Cruz-Watsonville, CA",CA,West,37.012347,-122.007789,0.4416,Fold 3,Training,,,,,False
+"Greenville, NC",NC,South,35.59249,-77.372739,0.3968,Fold 3,Training,,,,,False
+"Racine-Mount Pleasant, WI",WI,Midwest,42.780392,-87.771599,0.4346,Fold 3,Training,,,,,False
+"Portland-South Portland, ME",ME,Northeast,43.651417,-70.418375,0.521,Fold 3,Training,,,,,False
+"Johnstown, PA",PA,Northeast,40.510209,-78.710488,0.4062,Fold 3,Training,,,,,False
+"Niles, MI",MI,Midwest,41.791382,-86.742543,0.4357,Fold 3,Training,,,,,False
+"Reno, NV",NV,West,40.251057,-119.555507,0.494,Fold 3,Training,,,,,False
+"Crestview-Fort Walton Beach-Destin, FL",FL,South,30.594941,-86.358164,0.4449,Fold 3,Training,,,,,False
+"Colorado Springs, CO",CO,West,38.845507,-104.638728,0.4499,Fold 3,Training,,,,,False
+"Charlottesville, VA",VA,South,37.949084,-78.593206,0.5329,Fold 3,Training,,,,,False
+"Lincoln, NE",NE,Midwest,40.817429,-96.868801,0.4911,Fold 3,Training,,,,,False
+"Baton Rouge, LA",LA,South,30.515242,-91.126926,0.4563,Fold 3,Training,,,,,False
+"Sioux Falls, SD-MN",SD,Midwest,43.525658,-96.875416,0.5709,Fold 3,Training,,,,,False
+"Naples-Marco Island, FL",FL,South,26.118786,-81.400955,0.4759,Fold 3,Training,,,,,False
+"Jackson, TN",TN,South,35.753215,-88.882692,0.4265,Fold 3,Training,,,,,False
+"Terre Haute, IN",IN,Midwest,39.392389,-87.347096,0.391,Fold 3,Training,,,,,False
+"Reading, PA",PA,Northeast,40.413957,-75.92686,0.4459,Fold 3,Training,,,,,False
+"Kiryas Joel-Poughkeepsie-Newburgh, NY",NY,Northeast,41.575274,-74.033873,0.4274,Fold 3,Training,,,,,False
+"Grants Pass, OR",OR,West,42.386983,-123.57162,0.3324,Fold 3,Training,,,,,False
+"Montgomery, AL",AL,South,32.365631,-86.404585,0.4468,Fold 3,Training,,,,,False
+"Casper, WY",WY,West,42.977645,-106.768219,0.5699,Fold 3,Training,,,,,False
+"Rome, GA",GA,South,34.26369,-85.213685,0.3998,Fold 3,Training,,,,,False
+"Bellingham, WA",WA,West,48.842653,-121.836432,0.481,Fold 3,Training,,,,,False
+"Knoxville, TN",TN,South,36.044462,-84.136114,0.4568,Fold 3,Training,,,,,False
+"Topeka, KS",KS,Midwest,39.041389,-95.802639,0.4664,Fold 3,Training,,,,,False
+"Austin-Round Rock-San Marcos, TX",TX,South,30.249744,-97.649842,0.5338,Fold 3,Training,,,,,False
+"Waterbury-Shelton, CT",CT,Northeast,41.518931,-73.087906,0.4246,Fold 3,Training,,,,,False
+"Lansing-East Lansing, MI",MI,Midwest,42.713659,-84.605372,0.4193,Fold 3,Training,,,,,False
+"Santa Rosa-Petaluma, CA",CA,West,38.525182,-122.92611,0.495,Fold 3,Training,,,,,False
+"Springfield, OH",OH,Midwest,39.917032,-83.783676,0.383,Fold 3,Training,,,,,False
+"McAllen-Edinburg-Mission, TX",TX,South,26.396384,-98.18099,0.3293,Fold 3,Training,,,,,False
+"Cincinnati, OH-KY-IN",OH,Midwest,39.078595,-84.463535,0.4837,Fold 3,Training,,,,,False
+"Raleigh-Cary, NC",NC,South,35.756746,-78.460441,0.5306,Fold 3,Training,,,,,False
+"State College, PA",PA,Northeast,40.909322,-77.847667,0.4572,Fold 3,Training,,,,,False
+"Eagle Pass, TX",TX,South,28.729787,-100.316678,0.288,Fold 3,Training,,,,,False
+"Glens Falls, NY",NY,Northeast,43.44045,-73.636757,0.4193,Fold 3,Training,,,,,False
+"Columbus, IN",IN,Midwest,39.205843,-85.897999,0.4825,Fold 3,Training,,,,,False
+"Phoenix-Mesa-Chandler, AZ",AZ,West,33.185765,-112.067862,0.4566,Fold 3,Training,,,,,False
+"Urban Honolulu, HI",HI,West,21.461365,-158.201974,0.4443,Fold 3,Training,,,,,False
+"Coeur d'Alene, ID",ID,West,47.675957,-116.695919,0.4726,Fold 3,Training,,,,,False
+"Sierra Vista-Douglas, AZ",AZ,West,31.840129,-109.775163,0.3807,Fold 3,Training,,,,,False
+"Waco, TX",TX,South,31.5921,-97.286018,0.4297,Fold 3,Training,,,,,False
+"Jacksonville, NC",NC,South,34.763109,-77.499469,0.3606,Fold 3,Training,,,,,False
+"Lawrence, KS",KS,Midwest,38.896417,-95.290947,0.4466,Fold 3,Training,,,,,False
+"Warner Robins, GA",GA,South,32.492806,-83.711084,0.3582,Fold 3,Training,,,,,False
+"Kokomo, IN",IN,Midwest,40.483537,-86.114118,0.3351,Fold 3,Training,,,,,False
+"Saginaw, MI",MI,Midwest,43.328267,-84.05541,0.3559,Fold 3,Training,,,,,False
+"Lima, OH",OH,Midwest,40.771627,-84.106103,0.4408,Fold 3,Training,,,,,False
+"Bakersfield-Delano, CA",CA,West,35.346629,-118.729506,0.3408,Fold 3,Training,,,,,False
+"New Haven, CT",CT,Northeast,41.290167,-72.837024,0.4486,Fold 3,Training,,,,,False
+"Stockton-Lodi, CA",CA,West,37.934982,-121.272244,0.3853,Fold 3,Training,,,,,False
+"Cape Coral-Fort Myers, FL",FL,South,26.563273,-81.984182,0.4149,Fold 3,Training,,,,,False
+"Manhattan, KS",KS,Midwest,39.268424,-96.562242,0.4437,Fold 3,Training,,,,,False
+"Chicago-Naperville-Elgin, IL-IN",IL,Midwest,41.75878,-87.841887,0.4792,Fold 3,Training,,,,,False
+"Sacramento-Roseville-Folsom, CA",CA,West,38.790272,-121.005643,0.4506,Fold 3,Training,,,,,False
+"Odessa, TX",TX,South,31.865301,-102.542507,0.5278,Fold 3,Training,,,,,False
+"Allentown-Bethlehem-Easton, PA-NJ",PA,Northeast,40.789339,-75.398158,0.4477,Fold 3,Training,,,,,False
+"Miami-Fort Lauderdale-West Palm Beach, FL",FL,South,26.101828,-80.478755,0.4168,Fold 3,Training,,,,,False
+"Billings, MT",MT,West,45.63714,-108.832361,0.5462,Fold 3,Training,,,,,False
+"Houma-Bayou Cane-Thibodaux, LA",LA,South,29.33413,-90.843674,0.4955,Fold 3,Training,,,,,False
+"Dallas-Fort Worth-Arlington, TX",TX,South,32.849171,-96.970489,0.4803,Fold 3,Training,,,,,False
+"Charleston, WV",WV,South,38.283213,-81.492557,0.4477,Fold 3,Training,,,,,False
+"New York-Newark-Jersey City, NY-NJ",NY,Northeast,40.735425,-73.80773,0.4692,Fold 3,Training,,,,,False
+"Fayetteville, NC",NC,South,35.037956,-78.982209,0.3341,Fold 3,Training,,,,,False
+"Little Rock-North Little Rock-Conway, AR",AR,South,34.755773,-92.400589,0.4679,Fold 3,Training,,,,,False
+"Ogden, UT",UT,West,41.124342,-111.866933,0.4827,Fold 3,Training,,,,,False
+"Brownsville-Harlingen, TX",TX,South,26.102923,-97.478958,0.3435,Fold 3,Training,,,,,False
+"Riverside-San Bernardino-Ontario, CA",CA,West,34.538476,-116.134541,0.4008,Fold 3,Training,,,,,False
+"Milwaukee-Waukesha, WI",WI,Midwest,42.912643,-87.862312,0.4874,Fold 3,Training,,,,,False
+"Helena, MT",MT,West,46.715671,-112.1352,0.5411,Fold 3,Training,,,,,False
+"Florence-Muscle Shoals, AL",AL,South,34.799254,-87.719388,0.4399,Fold 3,Training,,,,,False
+"Las Cruces, NM",NM,West,32.349919,-106.834968,0.3621,Fold 3,Training,,,,,False
+"Youngstown-Warren, OH",OH,Midwest,41.195092,-80.76508,0.3982,Fold 3,Training,,,,,False
+"Longview-Kelso, WA",WA,West,46.196785,-122.67846,0.4342,Fold 3,Training,,,,,False
+"Wilmington, NC",NC,South,34.253691,-78.041674,0.451,Fold 3,Training,,,,,False
+"Gulfport-Biloxi, MS",MS,South,30.480153,-88.999297,0.4014,Fold 3,Training,,,,,False
+"North Port-Bradenton-Sarasota, FL",FL,South,27.329055,-82.414533,0.4328,Fold 3,Training,,,,,False
+"Barnstable Town, MA",MA,Northeast,41.706123,-70.164823,0.4675,Fold 3,Training,,,,,False
+"San Angelo, TX",TX,South,31.36531,-100.659418,0.4829,Fold 3,Training,,,,,False
+"Lake Havasu City-Kingman, AZ",AZ,West,35.717705,-113.749689,0.3494,Fold 3,Training,,,,,False
+"St. Cloud, MN",MN,Midwest,45.593031,-94.488363,0.5169,Fold 3,Training,,,,,False
+"Nashville-Davidson--Murfreesboro--Franklin, TN",TN,South,36.091577,-86.72298,0.5325,Fold 3,Training,,,,,False
+"Bloomington, IN",IN,Midwest,39.241736,-86.671754,0.4148,Fold 3,Training,,,,,False
+"Manchester-Nashua, NH",NH,Northeast,42.911532,-71.723055,0.5153,Fold 3,Training,,,,,False
+"Fort Wayne, IN",IN,Midwest,41.006999,-85.216424,0.4642,Fold 3,Training,,,,,False
+"Clarksville, TN-KY",TN,South,36.69571,-87.624307,0.38,Fold 3,Training,,,,,False
+"Visalia, CA",CA,West,36.228834,-118.781055,0.2933,Fold 3,Training,,,,,False
+"Spokane-Spokane Valley, WA",WA,West,48.091618,-117.663472,0.4586,Fold 3,Training,,,,,False
+"Morristown, TN",TN,South,36.115484,-83.376546,0.3836,Fold 3,Training,,,,,False
+"Yuma, AZ",AZ,West,32.773942,-113.910905,0.3033,Fold 3,Training,,,,,False
+"South Bend-Mishawaka, IN-MI",IN,Midwest,41.774981,-86.123014,0.4054,Fold 3,Training,,,,,False
+"Iowa City, IA",IA,Midwest,41.517806,-91.64793,0.4746,Fold 3,Training,,,,,False
+"Hinesville, GA",GA,South,31.778788,-81.57648,0.3309,Fold 3,Training,,,,,False
+"Hattiesburg, MS",MS,South,31.188441,-89.232741,0.4449,Fold 3,Training,,,,,False
+"Trenton-Princeton, NJ",NJ,Northeast,40.282503,-74.703724,0.4962,Fold 3,Training,,,,,False
+"Albuquerque, NM",NM,West,35.123496,-106.458392,0.435,Fold 3,Training,,,,,False
+"Ann Arbor, MI",MI,Midwest,42.252217,-83.843423,0.4645,Fold 3,Training,,,,,False
+"Medford, OR",OR,West,42.411621,-122.675611,0.4479,Fold 3,Training,,,,,False
+"Dayton-Kettering-Beavercreek, OH",OH,Midwest,39.829746,-84.140992,0.4324,Fold 3,Training,,,,,False
+"Gainesville, FL",FL,South,29.453355,-82.666257,0.3789,Fold 3,Training,,,,,False
+"Lewiston, ID-WA",ID,West,46.251696,-116.925017,0.4938,Fold 3,Training,,,,,False
+"Atlantic City-Hammonton, NJ",NJ,Northeast,39.286186,-74.738311,0.3597,Fold 3,Training,,,,,False
+"Weirton-Steubenville, WV-OH",WV,South,40.388914,-80.701966,0.3611,Fold 3,Training,,,,,False
+"Albany-Schenectady-Troy, NY",NY,Northeast,42.78792,-73.942348,0.4673,Fold 3,Training,,,,,False
+"Green Bay, WI",WI,Midwest,44.474024,-87.99613,0.5187,Fold 3,Training,,,,,False
+"Michigan City-La Porte, IN",IN,Midwest,41.549013,-86.744739,0.4069,Fold 3,Training,,,,,False
+"Mount Vernon-Anacortes, WA",WA,West,48.493292,-121.81577,0.4688,Fold 3,Training,,,,,False
+"Harrisonburg, VA",VA,South,38.507612,-78.885329,0.4465,Fold 3,Training,,,,,False
+"Macon-Bibb County, GA",GA,South,32.856216,-83.714305,0.4005,Fold 3,Training,,,,,False
+"Battle Creek, MI",MI,Midwest,42.24299,-85.012385,0.4001,Fold 3,Training,,,,,False
+"Prescott Valley-Prescott, AZ",AZ,West,34.631071,-112.577225,0.4229,Fold 3,Training,,,,,False
+"Lubbock, TX",TX,South,33.469794,-101.880412,0.4604,Fold 3,Training,,,,,False
+"Worcester, MA",MA,Northeast,42.311693,-71.940282,0.4596,Fold 3,Training,,,,,False
+"Baltimore-Columbia-Towson, MD",MD,South,39.304361,-76.549501,0.4718,Fold 3,Training,,,,,False
+"Merced, CA",CA,West,37.194806,-120.722802,0.2688,Fold 3,Training,,,,,False
+"Bay City, MI",MI,Midwest,43.699711,-83.978701,0.3578,Fold 3,Training,,,,,False
+"Charlotte-Concord-Gastonia, NC-SC",NC,South,35.166342,-80.797285,0.5132,Fold 3,Training,,,,,False
+"Boston-Cambridge-Newton, MA-NH",MA,Northeast,42.517606,-71.021993,0.5464,Fold 3,Training,,,,,False
+"Salisbury, MD",MD,South,38.197279,-75.769252,0.4258,Fold 3,Training,,,,,False
+"Syracuse, NY",NY,Northeast,43.006516,-76.196134,0.4555,Fold 3,Training,,,,,False
+"Hickory-Lenoir-Morganton, NC",NC,South,35.814295,-81.456584,0.4331,Fold 3,Training,,,,,False
+"San Luis Obispo-Paso Robles, CA",CA,West,35.388189,-120.448897,0.4599,Fold 3,Training,,,,,False
+"Janesville-Beloit, WI",WI,Midwest,42.66988,-89.075284,0.4464,Fold 3,Training,,,,,False
+"Fargo, ND-MN",ND,Midwest,46.914859,-96.960183,0.5315,Fold 3,Training,,,,,False
+"Kahului-Wailuku, HI",HI,West,20.855931,-156.60155,0.4534,Fold 3,Training,,,,,False
+"Sebring, FL",FL,South,27.34108,-81.342353,0.3461,Fold 3,Training,,,,,False
+"Springfield, MO",MO,Midwest,37.36087,-93.180262,0.4793,Fold 3,Training,,,,,False
+"Corvallis, OR",OR,West,44.493882,-123.424664,0.426,Fold 3,Training,,,,,False
+"Jackson, MI",MI,Midwest,42.248474,-84.420868,0.404,Fold 3,Training,,,,,False
+"Providence-Warwick, RI-MA",RI,Northeast,41.70684,-71.286687,0.4407,Fold 3,Training,,,,,False
+"Amarillo, TX",TX,South,35.247999,-101.90867,0.4717,Fold 3,Training,,,,,False
+"Kingston, NY",NY,Northeast,41.947212,-74.265458,0.4613,Fold 3,Training,,,,,False
+"Huntington-Ashland, WV-KY-OH",WV,South,38.357487,-82.579994,0.3931,Fold 3,Training,,,,,False
+"Laredo, TX",TX,South,27.760799,-99.340752,0.3319,Fold 3,Training,,,,,False
+"Anniston-Oxford, AL",AL,South,33.770516,-85.827909,0.3651,Fold 3,Training,,,,,False
+"Hammond, LA",LA,South,30.621348,-90.40649,0.3974,Fold 3,Training,,,,,False
+"Pocatello, ID",ID,West,42.692921,-112.228982,0.4075,Fold 3,Training,,,,,False
+"Walla Walla, WA",WA,West,46.254606,-118.48037,0.4294,Fold 3,Training,,,,,False
+"Farmington, NM",NM,West,36.511624,-108.324578,0.4563,Fold 3,Training,,,,,False
+"Seattle-Tacoma-Bellevue, WA",WA,West,47.490552,-121.833977,0.518,Fold 3,Training,,,,,False
+"Cleveland, OH",OH,Midwest,41.667548,-81.43052,0.4773,Fold 3,Training,,,,,False
+"Dubuque, IA",IA,Midwest,42.463481,-90.878771,0.5555,Fold 3,Training,,,,,False
+"Canton-Massillon, OH",OH,Midwest,40.711051,-81.261468,0.4534,Fold 3,Training,,,,,False
+"Abilene, TX",TX,South,32.452022,-99.718743,0.4612,Fold 3,Training,,,,,False
+"Bismarck, ND",ND,Midwest,46.887031,-100.979592,0.5705,Fold 3,Training,,,,,False
+"Utica-Rome, NY",NY,Northeast,43.33228,-75.173189,0.4229,Fold 3,Training,,,,,False
+"Lawton, OK",OK,South,34.529113,-98.430902,0.3861,Fold 3,Training,,,,,False
+"Rocky Mount, NC",NC,South,35.941045,-77.798549,0.3762,Fold 3,Training,,,,,False
+"Chattanooga, TN-GA",TN,South,35.049361,-85.361158,0.4656,Fold 3,Training,,,,,False
+"Anchorage, AK",AK,West,62.212784,-149.678222,0.5084,Fold 3,Training,,,,,False
+"Daphne-Fairhope-Foley, AL",AL,South,30.659218,-87.746067,0.4632,Fold 3,Training,,,,,False
+"Sioux City, IA-NE-SD",IA,Midwest,42.508037,-96.311314,0.5419,Fold 3,Training,,,,,False
+"Grand Junction, CO",CO,West,39.019524,-108.460571,0.4799,Fold 3,Training,,,,,False
+"Panama City-Panama City Beach, FL",FL,South,30.273241,-85.642089,0.4227,Fold 3,Training,,,,,False
+"Tulsa, OK",OK,South,36.254442,-96.177298,0.5025,Fold 3,Training,,,,,False
+"Rapid City, SD",SD,Midwest,44.195108,-102.916612,0.5557,Fold 3,Training,,,,,False
+"Williamsport, PA",PA,Northeast,41.343882,-77.055262,0.4124,Fold 3,Training,,,,,False
+"Bend, OR",OR,West,44.153837,-120.887072,0.5021,Fold 3,Training,,,,,False
+"Minneapolis-St. Paul-Bloomington, MN-WI",MN,Midwest,45.096664,-93.275361,0.5123,Fold 3,Training,,,,,False
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",PA,Northeast,39.894958,-75.311982,0.4816,Fold 3,Training,,,,,False
+"Pensacola-Ferry Pass-Brent, FL",FL,South,30.608557,-87.158547,0.4061,Fold 3,Training,,,,,False
+"Fresno, CA",CA,West,36.879404,-119.668488,0.3497,Fold 3,Training,,,,,False
+"Napa, CA",CA,West,38.5071,-122.325904,0.5398,Fold 3,Training,,,,,False
+"Wheeling, WV-OH",WV,South,39.977687,-80.854826,0.3969,Fold 3,Training,,,,,False
+"Missoula, MT",MT,West,47.069545,-114.262668,0.5149,Fold 3,Training,,,,,False
+"Gettysburg, PA",PA,Northeast,39.869437,-77.21775,0.4397,Fold 3,Training,,,,,False
+"Minot, ND",ND,Midwest,48.320242,-101.19801,0.5598,Fold 3,Training,,,,,False
+"Beckley, WV",WV,South,37.905659,-81.163748,0.3822,Fold 3,Training,,,,,False
+"Roanoke, VA",VA,South,37.286226,-79.946935,0.478,Fold 3,Validation,High,High,0.5488,Correct,False
+"Dover, DE",DE,South,39.097088,-75.502982,0.4792,Fold 3,Validation,High,High,0.5711,Correct,False
+"Bangor, ME",ME,Northeast,45.409284,-68.666616,0.4332,Fold 3,Validation,Low/Medium,Low/Medium,0.4916,Correct,False
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",DC,South,38.829787,-77.495684,0.5001,Fold 3,Validation,High,High,0.9796,Correct,False
+"Winston-Salem, NC",NC,South,36.078852,-80.345064,0.4277,Fold 3,Validation,Low/Medium,High,0.507,False Positive,True
+"Athens-Clarke County, GA",GA,South,33.943984,-83.213897,0.4267,Fold 3,Validation,Low/Medium,Low/Medium,0.2382,Correct,False
+"Hartford-West Hartford-East Hartford, CT",CT,Northeast,41.688038,-72.545112,0.4863,Fold 3,Validation,High,High,0.7769,Correct,False
+"Tampa-St. Petersburg-Clearwater, FL",FL,South,28.120541,-82.525188,0.4391,Fold 3,Validation,Low/Medium,High,0.8417,False Positive,True
+"Des Moines-West Des Moines, IA",IA,Midwest,41.57705,-93.759712,0.5438,Fold 3,Validation,High,High,0.9984,Correct,False
+"Auburn-Opelika, AL",AL,South,32.492206,-85.527127,0.4399,Fold 3,Validation,Low/Medium,Low/Medium,0.0078,Correct,False
+"Homosassa Springs, FL",FL,South,28.850292,-82.595552,0.3316,Fold 3,Validation,Low/Medium,Low/Medium,0.0023,Correct,False
+"Olympia-Lacey-Tumwater, WA",WA,West,46.935822,-122.830152,0.4358,Fold 3,Validation,Low/Medium,Low/Medium,0.0119,Correct,False
+"Flint, MI",MI,Midwest,43.021077,-83.706372,0.346,Fold 3,Validation,Low/Medium,Low/Medium,0.0005,Correct,False
+"New Orleans-Metairie, LA",LA,South,29.282447,-89.576068,0.4433,Fold 3,Validation,Low/Medium,Low/Medium,0.3818,Correct,False
+"Winchester, VA-WV",VA,South,39.272974,-78.471828,0.4523,Fold 3,Validation,Low/Medium,Low/Medium,0.4764,Correct,False
+"Santa Maria-Santa Barbara, CA",CA,West,34.536677,-120.038364,0.4648,Fold 3,Validation,Low/Medium,High,0.8975,False Positive,True
+"Columbia, SC",SC,South,34.077585,-81.037845,0.4366,Fold 3,Validation,Low/Medium,Low/Medium,0.1207,Correct,False
+"Morgantown, WV",WV,South,39.525155,-79.801912,0.4465,Fold 3,Validation,Low/Medium,Low/Medium,0.1992,Correct,False
+"Boulder, CO",CO,West,40.094971,-105.39771,0.5173,Fold 3,Validation,High,High,1.0,Correct,False
+"Duluth, MN-WI",MN,Midwest,47.329703,-92.37627,0.4713,Fold 3,Validation,Low/Medium,High,0.783,False Positive,True
+"Portland-Vancouver-Hillsboro, OR-WA",OR,West,45.600622,-122.484378,0.5056,Fold 3,Validation,High,High,0.9856,Correct,False
+"Bloomington, IL",IL,Midwest,40.494559,-88.844539,0.4754,Fold 3,Validation,High,High,0.9869,Correct,False
+"Salinas, CA",CA,West,36.240104,-121.315578,0.3881,Fold 3,Validation,Low/Medium,Low/Medium,0.0124,Correct,False
+"Chico, CA",CA,West,39.665336,-121.603209,0.3473,Fold 3,Validation,Low/Medium,Low/Medium,0.0046,Correct,False
+"Lynchburg, VA",VA,South,37.364926,-79.216689,0.4492,Fold 3,Validation,Low/Medium,Low/Medium,0.2096,Correct,False
+"San Jose-Sunnyvale-Santa Clara, CA",CA,West,36.908472,-121.371372,0.7229,Fold 3,Validation,High,High,1.0,Correct,False
+"Sumter, SC",SC,South,33.91614,-80.382376,0.3382,Fold 3,Validation,Low/Medium,Low/Medium,0.008,Correct,False
+"Columbia, MO",MO,Midwest,38.986523,-92.585236,0.4949,Fold 3,Validation,High,High,0.7821,Correct,False
+"Albany, OR",OR,West,44.488898,-122.537208,0.4349,Fold 3,Validation,Low/Medium,Low/Medium,0.0057,Correct,False
+"Dothan, AL",AL,South,31.245528,-85.46919,0.451,Fold 3,Validation,Low/Medium,Low/Medium,0.1615,Correct,False
+"Altoona, PA",PA,Northeast,40.498683,-78.309597,0.4408,Fold 3,Validation,Low/Medium,Low/Medium,0.1368,Correct,False
+"Pittsfield, MA",MA,Northeast,42.371493,-73.217928,0.453,Fold 3,Validation,Low/Medium,Low/Medium,0.4671,Correct,False
+"Springfield, MA",MA,Northeast,42.136198,-72.635648,0.4,Fold 3,Validation,Low/Medium,Low/Medium,0.0058,Correct,False
+"Fayetteville-Springdale-Rogers, AR",AR,South,36.116394,-94.079545,0.5447,Fold 3,Validation,High,High,0.9983,Correct,False
+"Salem, OR",OR,West,44.903385,-122.901757,0.409,Fold 3,Validation,Low/Medium,Low/Medium,0.0048,Correct,False
+"Los Angeles-Long Beach-Anaheim, CA",CA,West,34.108703,-118.182753,0.4648,Fold 3,Validation,Low/Medium,Low/Medium,0.434,Correct,False
+"Great Falls, MT",MT,West,47.316575,-111.350262,0.4222,Fold 3,Validation,Low/Medium,Low/Medium,0.3946,Correct,False
+"Bremerton-Silverdale-Port Orchard, WA",WA,West,47.639687,-122.649636,0.4454,Fold 3,Validation,Low/Medium,Low/Medium,0.0444,Correct,False
+"Denver-Aurora-Centennial, CO",CO,West,39.434789,-104.901073,0.5249,Fold 3,Validation,High,High,0.9994,Correct,False
+"Sebastian-Vero Beach-West Vero Corridor, FL",FL,South,27.700528,-80.574789,0.4372,Fold 3,Validation,Low/Medium,Low/Medium,0.1991,Correct,False
+"Boise City, ID",ID,West,43.006648,-116.141909,0.4919,Fold 3,Validation,High,High,0.99,Correct,False
+"Punta Gorda, FL",FL,South,26.906396,-82.003657,0.3518,Fold 3,Validation,Low/Medium,Low/Medium,0.0124,Correct,False
+"Johnson City, TN",TN,South,36.265822,-82.332693,0.3816,Fold 3,Validation,Low/Medium,Low/Medium,0.0331,Correct,False
+"Burlington-South Burlington, VT",VT,Northeast,44.689115,-73.041175,0.521,Fold 3,Validation,High,High,0.9895,Correct,False
+"Redding, CA",CA,West,40.760514,-122.043556,0.389,Fold 3,Validation,Low/Medium,Low/Medium,0.0169,Correct,False
+"Yakima, WA",WA,West,46.456558,-120.740145,0.4018,Fold 3,Validation,Low/Medium,Low/Medium,0.0001,Correct,False
+"Waterloo-Cedar Falls, IA",IA,Midwest,42.536796,-92.471608,0.511,Fold 3,Validation,High,High,0.6001,Correct,False
+"York-Hanover, PA",PA,Northeast,39.921751,-76.728889,0.4532,Fold 3,Validation,Low/Medium,Low/Medium,0.0051,Correct,False
+"La Crosse-Onalaska, WI-MN",WI,Midwest,43.698264,-91.11014,0.5085,Fold 3,Validation,High,High,0.6019,Correct,False
+"Bridgeport-Stamford-Danbury, CT",CT,Northeast,41.252442,-73.393266,0.5698,Fold 3,Validation,High,High,0.9999,Correct,False
+"Grand Forks, ND-MN",ND,Midwest,47.835929,-96.842681,0.5213,Fold 3,Validation,High,High,0.7931,Correct,False
+"El Paso, TX",TX,South,31.527394,-105.521333,0.4009,Fold 3,Validation,Low/Medium,Low/Medium,0.0025,Correct,False
+"Wausau, WI",WI,Midwest,44.898036,-89.757823,0.5038,Fold 3,Validation,High,High,0.8857,Correct,False
+"Wenatchee-East Wenatchee, WA",WA,West,47.76611,-120.270197,0.4155,Fold 3,Validation,Low/Medium,Low/Medium,0.0008,Correct,False
+"Eugene-Springfield, OR",OR,West,43.928334,-122.897581,0.4247,Fold 3,Validation,Low/Medium,Low/Medium,0.0438,Correct,False
+"Alexandria, LA",LA,South,31.325348,-92.546803,0.398,Fold 3,Validation,Low/Medium,Low/Medium,0.1224,Correct,False
+"Kankakee, IL",IL,Midwest,41.13951,-87.861117,0.4032,Fold 3,Validation,Low/Medium,Low/Medium,0.0799,Correct,False
+"College Station-Bryan, TX",TX,South,30.754392,-96.488537,0.4311,Fold 3,Validation,Low/Medium,Low/Medium,0.0753,Correct,False
+"Ithaca, NY",NY,Northeast,42.453006,-76.473483,0.3756,Fold 3,Validation,Low/Medium,Low/Medium,0.1609,Correct,False
+"Lewiston-Auburn, ME",ME,Northeast,44.167681,-70.207435,0.4314,Fold 3,Validation,Low/Medium,High,0.5524,False Positive,True
+"Wichita Falls, TX",TX,South,33.776144,-98.501907,0.4652,Fold 3,Validation,Low/Medium,Low/Medium,0.0654,Correct,False
+"Sherman-Denison, TX",TX,South,33.624548,-96.675777,0.423,Fold 3,Validation,Low/Medium,Low/Medium,0.05,Correct,False
+"Asheville, NC",NC,South,35.61634,-82.570683,0.4541,Fold 4,Training,,,,,False
+"Ocala, FL",FL,South,29.202805,-82.0431,0.385,Fold 4,Training,,,,,False
+"Roanoke, VA",VA,South,37.286226,-79.946935,0.478,Fold 4,Training,,,,,False
+"Huntsville, AL",AL,South,34.783262,-86.734871,0.4804,Fold 4,Training,,,,,False
+"Dover, DE",DE,South,39.097088,-75.502982,0.4792,Fold 4,Training,,,,,False
+"Akron, OH",OH,Midwest,41.146639,-81.35011,0.4669,Fold 4,Training,,,,,False
+"Shreveport-Bossier City, LA",LA,South,32.437682,-93.744884,0.4669,Fold 4,Training,,,,,False
+"Bangor, ME",ME,Northeast,45.409284,-68.666616,0.4332,Fold 4,Training,,,,,False
+"Mansfield, OH",OH,Midwest,40.774159,-82.542781,0.4124,Fold 4,Training,,,,,False
+"Slidell-Mandeville-Covington, LA",LA,South,30.410022,-89.951962,0.4755,Fold 4,Training,,,,,False
+"Hilton Head Island-Bluffton-Port Royal, SC",SC,South,32.386792,-80.830877,0.4556,Fold 4,Training,,,,,False
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",DC,South,38.829787,-77.495684,0.5001,Fold 4,Training,,,,,False
+"Traverse City, MI",MI,Midwest,44.952324,-85.90832,0.5112,Fold 4,Training,,,,,False
+"Orlando-Kissimmee-Sanford, FL",FL,South,28.434398,-81.35606,0.4538,Fold 4,Training,,,,,False
+"Paducah, KY-IL",KY,South,37.094234,-88.71705,0.4338,Fold 4,Training,,,,,False
+"Tuscaloosa, AL",AL,South,33.097877,-87.799147,0.4401,Fold 4,Training,,,,,False
+"San Francisco-Oakland-Fremont, CA",CA,West,37.773718,-122.274432,0.5773,Fold 4,Training,,,,,False
+"Cape Girardeau, MO-IL",MO,Midwest,37.325936,-89.762639,0.4694,Fold 4,Training,,,,,False
+"Bowling Green, KY",KY,South,37.046804,-86.397398,0.4077,Fold 4,Training,,,,,False
+"Elmira, NY",NY,Northeast,42.148697,-76.752471,0.3837,Fold 4,Training,,,,,False
+"Rochester, NY",NY,Northeast,43.184718,-77.556558,0.4581,Fold 4,Training,,,,,False
+"Twin Falls, ID",ID,West,42.440397,-114.568729,0.4956,Fold 4,Training,,,,,False
+"Greeley, CO",CO,West,40.555961,-104.383666,0.5211,Fold 4,Training,,,,,False
+"Atlanta-Sandy Springs-Roswell, GA",GA,South,33.732402,-84.392848,0.5058,Fold 4,Training,,,,,False
+"Norwich-New London-Willimantic, CT",CT,Northeast,41.484769,-72.101666,0.4231,Fold 4,Training,,,,,False
+"Detroit-Warren-Dearborn, MI",MI,Midwest,42.721848,-83.200846,0.4302,Fold 4,Training,,,,,False
+"Valdosta, GA",GA,South,30.827158,-83.243555,0.3944,Fold 4,Training,,,,,False
+"Winston-Salem, NC",NC,South,36.078852,-80.345064,0.4277,Fold 4,Training,,,,,False
+"Kennewick-Richland, WA",WA,West,46.364155,-119.254927,0.4437,Fold 4,Training,,,,,False
+"Dalton, GA",GA,South,34.796956,-84.856279,0.4113,Fold 4,Training,,,,,False
+"Greenville-Anderson-Greer, SC",SC,South,34.683709,-82.413423,0.4584,Fold 4,Training,,,,,False
+"Athens-Clarke County, GA",GA,South,33.943984,-83.213897,0.4267,Fold 4,Training,,,,,False
+"Hartford-West Hartford-East Hartford, CT",CT,Northeast,41.688038,-72.545112,0.4863,Fold 4,Training,,,,,False
+"Santa Fe, NM",NM,West,35.514531,-105.963972,0.4757,Fold 4,Training,,,,,False
+"Burlington, NC",NC,South,36.043954,-79.400573,0.4092,Fold 4,Training,,,,,False
+"Tampa-St. Petersburg-Clearwater, FL",FL,South,28.120541,-82.525188,0.4391,Fold 4,Training,,,,,False
+"Des Moines-West Des Moines, IA",IA,Midwest,41.57705,-93.759712,0.5438,Fold 4,Training,,,,,False
+"Monroe, LA",LA,South,32.67396,-92.058318,0.4368,Fold 4,Training,,,,,False
+"Salt Lake City-Murray, UT",UT,West,40.572887,-112.953253,0.5421,Fold 4,Training,,,,,False
+"Auburn-Opelika, AL",AL,South,32.492206,-85.527127,0.4399,Fold 4,Training,,,,,False
+"Lafayette, LA",LA,South,30.012961,-92.136552,0.4837,Fold 4,Training,,,,,False
+"Kansas City, MO-KS",MO,Midwest,38.931857,-94.443841,0.5177,Fold 4,Training,,,,,False
+"Homosassa Springs, FL",FL,South,28.850292,-82.595552,0.3316,Fold 4,Training,,,,,False
+"Jacksonville, FL",FL,South,30.234184,-81.756033,0.4543,Fold 4,Training,,,,,False
+"Olympia-Lacey-Tumwater, WA",WA,West,46.935822,-122.830152,0.4358,Fold 4,Training,,,,,False
+"Flint, MI",MI,Midwest,43.021077,-83.706372,0.346,Fold 4,Training,,,,,False
+"New Orleans-Metairie, LA",LA,South,29.282447,-89.576068,0.4433,Fold 4,Training,,,,,False
+"Chambersburg, PA",PA,Northeast,39.926772,-77.724521,0.4261,Fold 4,Training,,,,,False
+"Winchester, VA-WV",VA,South,39.272974,-78.471828,0.4523,Fold 4,Training,,,,,False
+"Santa Maria-Santa Barbara, CA",CA,West,34.536677,-120.038364,0.4648,Fold 4,Training,,,,,False
+"Florence, SC",SC,South,34.153574,-79.806164,0.3913,Fold 4,Training,,,,,False
+"Columbia, SC",SC,South,34.077585,-81.037845,0.4366,Fold 4,Training,,,,,False
+"Watertown-Fort Drum, NY",NY,Northeast,43.996389,-76.052968,0.4312,Fold 4,Training,,,,,False
+"Morgantown, WV",WV,South,39.525155,-79.801912,0.4465,Fold 4,Training,,,,,False
+"Lexington Park, MD",MD,South,38.312696,-76.527935,0.5056,Fold 4,Training,,,,,False
+"Wichita, KS",KS,Midwest,37.637896,-97.246287,0.4838,Fold 4,Training,,,,,False
+"Columbus, GA-AL",GA,South,32.419377,-84.843709,0.3868,Fold 4,Training,,,,,False
+"Parkersburg-Vienna, WV",WV,South,39.141531,-81.460402,0.3862,Fold 4,Training,,,,,False
+"Boulder, CO",CO,West,40.094971,-105.39771,0.5173,Fold 4,Training,,,,,False
+"Duluth, MN-WI",MN,Midwest,47.329703,-92.37627,0.4713,Fold 4,Training,,,,,False
+"Port St. Lucie, FL",FL,South,27.228046,-80.425388,0.4199,Fold 4,Training,,,,,False
+"Portland-Vancouver-Hillsboro, OR-WA",OR,West,45.600622,-122.484378,0.5056,Fold 4,Training,,,,,False
+"Bloomington, IL",IL,Midwest,40.494559,-88.844539,0.4754,Fold 4,Training,,,,,False
+"Grand Rapids-Wyoming-Kentwood, MI",MI,Midwest,42.979841,-85.715614,0.4817,Fold 4,Training,,,,,False
+"Deltona-Daytona Beach-Ormond Beach, FL",FL,South,29.1789,-81.189023,0.3914,Fold 4,Training,,,,,False
+"Elkhart-Goshen, IN",IN,Midwest,41.600693,-85.863986,0.4256,Fold 4,Training,,,,,False
+"Salinas, CA",CA,West,36.240104,-121.315578,0.3881,Fold 4,Training,,,,,False
+"Lakeland-Winter Haven, FL",FL,South,27.953686,-81.693493,0.3874,Fold 4,Training,,,,,False
+"Memphis, TN-MS-AR",TN,South,35.010307,-89.820503,0.445,Fold 4,Training,,,,,False
+"St. Joseph, MO-KS",MO,Midwest,39.834843,-94.783754,0.4755,Fold 4,Training,,,,,False
+"Amherst Town-Northampton, MA",MA,Northeast,42.339459,-72.663694,0.4183,Fold 4,Training,,,,,False
+"Birmingham, AL",AL,South,33.462372,-86.814338,0.4921,Fold 4,Training,,,,,False
+"Pittsburgh, PA",PA,Northeast,40.471332,-79.863986,0.4824,Fold 4,Training,,,,,False
+"Pueblo, CO",CO,West,38.162765,-104.484668,0.354,Fold 4,Training,,,,,False
+"Chico, CA",CA,West,39.665336,-121.603209,0.3473,Fold 4,Training,,,,,False
+"Texarkana, TX-AR",TX,South,33.478373,-94.207162,0.4368,Fold 4,Training,,,,,False
+"Brunswick-St. Simons, GA",GA,South,31.301739,-81.588909,0.4704,Fold 4,Training,,,,,False
+"Houston-Pasadena-The Woodlands, TX",TX,South,29.801005,-95.34262,0.4702,Fold 4,Training,,,,,False
+"Lynchburg, VA",VA,South,37.364926,-79.216689,0.4492,Fold 4,Training,,,,,False
+"Santa Cruz-Watsonville, CA",CA,West,37.012347,-122.007789,0.4416,Fold 4,Training,,,,,False
+"Greenville, NC",NC,South,35.59249,-77.372739,0.3968,Fold 4,Training,,,,,False
+"Racine-Mount Pleasant, WI",WI,Midwest,42.780392,-87.771599,0.4346,Fold 4,Training,,,,,False
+"Portland-South Portland, ME",ME,Northeast,43.651417,-70.418375,0.521,Fold 4,Training,,,,,False
+"Johnstown, PA",PA,Northeast,40.510209,-78.710488,0.4062,Fold 4,Training,,,,,False
+"Niles, MI",MI,Midwest,41.791382,-86.742543,0.4357,Fold 4,Training,,,,,False
+"Reno, NV",NV,West,40.251057,-119.555507,0.494,Fold 4,Training,,,,,False
+"San Jose-Sunnyvale-Santa Clara, CA",CA,West,36.908472,-121.371372,0.7229,Fold 4,Training,,,,,False
+"Crestview-Fort Walton Beach-Destin, FL",FL,South,30.594941,-86.358164,0.4449,Fold 4,Training,,,,,False
+"Charlottesville, VA",VA,South,37.949084,-78.593206,0.5329,Fold 4,Training,,,,,False
+"Sumter, SC",SC,South,33.91614,-80.382376,0.3382,Fold 4,Training,,,,,False
+"Lincoln, NE",NE,Midwest,40.817429,-96.868801,0.4911,Fold 4,Training,,,,,False
+"Sioux Falls, SD-MN",SD,Midwest,43.525658,-96.875416,0.5709,Fold 4,Training,,,,,False
+"Jackson, TN",TN,South,35.753215,-88.882692,0.4265,Fold 4,Training,,,,,False
+"Terre Haute, IN",IN,Midwest,39.392389,-87.347096,0.391,Fold 4,Training,,,,,False
+"Reading, PA",PA,Northeast,40.413957,-75.92686,0.4459,Fold 4,Training,,,,,False
+"Kiryas Joel-Poughkeepsie-Newburgh, NY",NY,Northeast,41.575274,-74.033873,0.4274,Fold 4,Training,,,,,False
+"Columbia, MO",MO,Midwest,38.986523,-92.585236,0.4949,Fold 4,Training,,,,,False
+"Grants Pass, OR",OR,West,42.386983,-123.57162,0.3324,Fold 4,Training,,,,,False
+"Casper, WY",WY,West,42.977645,-106.768219,0.5699,Fold 4,Training,,,,,False
+"Rome, GA",GA,South,34.26369,-85.213685,0.3998,Fold 4,Training,,,,,False
+"Albany, OR",OR,West,44.488898,-122.537208,0.4349,Fold 4,Training,,,,,False
+"Bellingham, WA",WA,West,48.842653,-121.836432,0.481,Fold 4,Training,,,,,False
+"Knoxville, TN",TN,South,36.044462,-84.136114,0.4568,Fold 4,Training,,,,,False
+"Dothan, AL",AL,South,31.245528,-85.46919,0.451,Fold 4,Training,,,,,False
+"Austin-Round Rock-San Marcos, TX",TX,South,30.249744,-97.649842,0.5338,Fold 4,Training,,,,,False
+"Altoona, PA",PA,Northeast,40.498683,-78.309597,0.4408,Fold 4,Training,,,,,False
+"Waterbury-Shelton, CT",CT,Northeast,41.518931,-73.087906,0.4246,Fold 4,Training,,,,,False
+"Lansing-East Lansing, MI",MI,Midwest,42.713659,-84.605372,0.4193,Fold 4,Training,,,,,False
+"Santa Rosa-Petaluma, CA",CA,West,38.525182,-122.92611,0.495,Fold 4,Training,,,,,False
+"Springfield, OH",OH,Midwest,39.917032,-83.783676,0.383,Fold 4,Training,,,,,False
+"McAllen-Edinburg-Mission, TX",TX,South,26.396384,-98.18099,0.3293,Fold 4,Training,,,,,False
+"Pittsfield, MA",MA,Northeast,42.371493,-73.217928,0.453,Fold 4,Training,,,,,False
+"Springfield, MA",MA,Northeast,42.136198,-72.635648,0.4,Fold 4,Training,,,,,False
+"Raleigh-Cary, NC",NC,South,35.756746,-78.460441,0.5306,Fold 4,Training,,,,,False
+"State College, PA",PA,Northeast,40.909322,-77.847667,0.4572,Fold 4,Training,,,,,False
+"Glens Falls, NY",NY,Northeast,43.44045,-73.636757,0.4193,Fold 4,Training,,,,,False
+"Columbus, IN",IN,Midwest,39.205843,-85.897999,0.4825,Fold 4,Training,,,,,False
+"Fayetteville-Springdale-Rogers, AR",AR,South,36.116394,-94.079545,0.5447,Fold 4,Training,,,,,False
+"Salem, OR",OR,West,44.903385,-122.901757,0.409,Fold 4,Training,,,,,False
+"Phoenix-Mesa-Chandler, AZ",AZ,West,33.185765,-112.067862,0.4566,Fold 4,Training,,,,,False
+"Urban Honolulu, HI",HI,West,21.461365,-158.201974,0.4443,Fold 4,Training,,,,,False
+"Los Angeles-Long Beach-Anaheim, CA",CA,West,34.108703,-118.182753,0.4648,Fold 4,Training,,,,,False
+"Sierra Vista-Douglas, AZ",AZ,West,31.840129,-109.775163,0.3807,Fold 4,Training,,,,,False
+"Waco, TX",TX,South,31.5921,-97.286018,0.4297,Fold 4,Training,,,,,False
+"Jacksonville, NC",NC,South,34.763109,-77.499469,0.3606,Fold 4,Training,,,,,False
+"Warner Robins, GA",GA,South,32.492806,-83.711084,0.3582,Fold 4,Training,,,,,False
+"Kokomo, IN",IN,Midwest,40.483537,-86.114118,0.3351,Fold 4,Training,,,,,False
+"Saginaw, MI",MI,Midwest,43.328267,-84.05541,0.3559,Fold 4,Training,,,,,False
+"Lima, OH",OH,Midwest,40.771627,-84.106103,0.4408,Fold 4,Training,,,,,False
+"New Haven, CT",CT,Northeast,41.290167,-72.837024,0.4486,Fold 4,Training,,,,,False
+"Stockton-Lodi, CA",CA,West,37.934982,-121.272244,0.3853,Fold 4,Training,,,,,False
+"Cape Coral-Fort Myers, FL",FL,South,26.563273,-81.984182,0.4149,Fold 4,Training,,,,,False
+"Chicago-Naperville-Elgin, IL-IN",IL,Midwest,41.75878,-87.841887,0.4792,Fold 4,Training,,,,,False
+"Sacramento-Roseville-Folsom, CA",CA,West,38.790272,-121.005643,0.4506,Fold 4,Training,,,,,False
+"Odessa, TX",TX,South,31.865301,-102.542507,0.5278,Fold 4,Training,,,,,False
+"Great Falls, MT",MT,West,47.316575,-111.350262,0.4222,Fold 4,Training,,,,,False
+"Miami-Fort Lauderdale-West Palm Beach, FL",FL,South,26.101828,-80.478755,0.4168,Fold 4,Training,,,,,False
+"Billings, MT",MT,West,45.63714,-108.832361,0.5462,Fold 4,Training,,,,,False
+"Houma-Bayou Cane-Thibodaux, LA",LA,South,29.33413,-90.843674,0.4955,Fold 4,Training,,,,,False
+"Dallas-Fort Worth-Arlington, TX",TX,South,32.849171,-96.970489,0.4803,Fold 4,Training,,,,,False
+"Charleston, WV",WV,South,38.283213,-81.492557,0.4477,Fold 4,Training,,,,,False
+"Bremerton-Silverdale-Port Orchard, WA",WA,West,47.639687,-122.649636,0.4454,Fold 4,Training,,,,,False
+"Fayetteville, NC",NC,South,35.037956,-78.982209,0.3341,Fold 4,Training,,,,,False
+"Little Rock-North Little Rock-Conway, AR",AR,South,34.755773,-92.400589,0.4679,Fold 4,Training,,,,,False
+"Brownsville-Harlingen, TX",TX,South,26.102923,-97.478958,0.3435,Fold 4,Training,,,,,False
+"Milwaukee-Waukesha, WI",WI,Midwest,42.912643,-87.862312,0.4874,Fold 4,Training,,,,,False
+"Helena, MT",MT,West,46.715671,-112.1352,0.5411,Fold 4,Training,,,,,False
+"Florence-Muscle Shoals, AL",AL,South,34.799254,-87.719388,0.4399,Fold 4,Training,,,,,False
+"Denver-Aurora-Centennial, CO",CO,West,39.434789,-104.901073,0.5249,Fold 4,Training,,,,,False
+"Las Cruces, NM",NM,West,32.349919,-106.834968,0.3621,Fold 4,Training,,,,,False
+"Youngstown-Warren, OH",OH,Midwest,41.195092,-80.76508,0.3982,Fold 4,Training,,,,,False
+"Longview-Kelso, WA",WA,West,46.196785,-122.67846,0.4342,Fold 4,Training,,,,,False
+"Gulfport-Biloxi, MS",MS,South,30.480153,-88.999297,0.4014,Fold 4,Training,,,,,False
+"Sebastian-Vero Beach-West Vero Corridor, FL",FL,South,27.700528,-80.574789,0.4372,Fold 4,Training,,,,,False
+"North Port-Bradenton-Sarasota, FL",FL,South,27.329055,-82.414533,0.4328,Fold 4,Training,,,,,False
+"Lake Havasu City-Kingman, AZ",AZ,West,35.717705,-113.749689,0.3494,Fold 4,Training,,,,,False
+"St. Cloud, MN",MN,Midwest,45.593031,-94.488363,0.5169,Fold 4,Training,,,,,False
+"Nashville-Davidson--Murfreesboro--Franklin, TN",TN,South,36.091577,-86.72298,0.5325,Fold 4,Training,,,,,False
+"Bloomington, IN",IN,Midwest,39.241736,-86.671754,0.4148,Fold 4,Training,,,,,False
+"Boise City, ID",ID,West,43.006648,-116.141909,0.4919,Fold 4,Training,,,,,False
+"Manchester-Nashua, NH",NH,Northeast,42.911532,-71.723055,0.5153,Fold 4,Training,,,,,False
+"Fort Wayne, IN",IN,Midwest,41.006999,-85.216424,0.4642,Fold 4,Training,,,,,False
+"Clarksville, TN-KY",TN,South,36.69571,-87.624307,0.38,Fold 4,Training,,,,,False
+"Visalia, CA",CA,West,36.228834,-118.781055,0.2933,Fold 4,Training,,,,,False
+"Punta Gorda, FL",FL,South,26.906396,-82.003657,0.3518,Fold 4,Training,,,,,False
+"Morristown, TN",TN,South,36.115484,-83.376546,0.3836,Fold 4,Training,,,,,False
+"South Bend-Mishawaka, IN-MI",IN,Midwest,41.774981,-86.123014,0.4054,Fold 4,Training,,,,,False
+"Johnson City, TN",TN,South,36.265822,-82.332693,0.3816,Fold 4,Training,,,,,False
+"Iowa City, IA",IA,Midwest,41.517806,-91.64793,0.4746,Fold 4,Training,,,,,False
+"Hinesville, GA",GA,South,31.778788,-81.57648,0.3309,Fold 4,Training,,,,,False
+"Trenton-Princeton, NJ",NJ,Northeast,40.282503,-74.703724,0.4962,Fold 4,Training,,,,,False
+"Albuquerque, NM",NM,West,35.123496,-106.458392,0.435,Fold 4,Training,,,,,False
+"Medford, OR",OR,West,42.411621,-122.675611,0.4479,Fold 4,Training,,,,,False
+"Dayton-Kettering-Beavercreek, OH",OH,Midwest,39.829746,-84.140992,0.4324,Fold 4,Training,,,,,False
+"Gainesville, FL",FL,South,29.453355,-82.666257,0.3789,Fold 4,Training,,,,,False
+"Burlington-South Burlington, VT",VT,Northeast,44.689115,-73.041175,0.521,Fold 4,Training,,,,,False
+"Lewiston, ID-WA",ID,West,46.251696,-116.925017,0.4938,Fold 4,Training,,,,,False
+"Atlantic City-Hammonton, NJ",NJ,Northeast,39.286186,-74.738311,0.3597,Fold 4,Training,,,,,False
+"Weirton-Steubenville, WV-OH",WV,South,40.388914,-80.701966,0.3611,Fold 4,Training,,,,,False
+"Redding, CA",CA,West,40.760514,-122.043556,0.389,Fold 4,Training,,,,,False
+"Yakima, WA",WA,West,46.456558,-120.740145,0.4018,Fold 4,Training,,,,,False
+"Albany-Schenectady-Troy, NY",NY,Northeast,42.78792,-73.942348,0.4673,Fold 4,Training,,,,,False
+"Green Bay, WI",WI,Midwest,44.474024,-87.99613,0.5187,Fold 4,Training,,,,,False
+"Waterloo-Cedar Falls, IA",IA,Midwest,42.536796,-92.471608,0.511,Fold 4,Training,,,,,False
+"Michigan City-La Porte, IN",IN,Midwest,41.549013,-86.744739,0.4069,Fold 4,Training,,,,,False
+"Mount Vernon-Anacortes, WA",WA,West,48.493292,-121.81577,0.4688,Fold 4,Training,,,,,False
+"York-Hanover, PA",PA,Northeast,39.921751,-76.728889,0.4532,Fold 4,Training,,,,,False
+"La Crosse-Onalaska, WI-MN",WI,Midwest,43.698264,-91.11014,0.5085,Fold 4,Training,,,,,False
+"Harrisonburg, VA",VA,South,38.507612,-78.885329,0.4465,Fold 4,Training,,,,,False
+"Macon-Bibb County, GA",GA,South,32.856216,-83.714305,0.4005,Fold 4,Training,,,,,False
+"Battle Creek, MI",MI,Midwest,42.24299,-85.012385,0.4001,Fold 4,Training,,,,,False
+"Prescott Valley-Prescott, AZ",AZ,West,34.631071,-112.577225,0.4229,Fold 4,Training,,,,,False
+"Worcester, MA",MA,Northeast,42.311693,-71.940282,0.4596,Fold 4,Training,,,,,False
+"Merced, CA",CA,West,37.194806,-120.722802,0.2688,Fold 4,Training,,,,,False
+"Bay City, MI",MI,Midwest,43.699711,-83.978701,0.3578,Fold 4,Training,,,,,False
+"Charlotte-Concord-Gastonia, NC-SC",NC,South,35.166342,-80.797285,0.5132,Fold 4,Training,,,,,False
+"Boston-Cambridge-Newton, MA-NH",MA,Northeast,42.517606,-71.021993,0.5464,Fold 4,Training,,,,,False
+"Bridgeport-Stamford-Danbury, CT",CT,Northeast,41.252442,-73.393266,0.5698,Fold 4,Training,,,,,False
+"Syracuse, NY",NY,Northeast,43.006516,-76.196134,0.4555,Fold 4,Training,,,,,False
+"Hickory-Lenoir-Morganton, NC",NC,South,35.814295,-81.456584,0.4331,Fold 4,Training,,,,,False
+"San Luis Obispo-Paso Robles, CA",CA,West,35.388189,-120.448897,0.4599,Fold 4,Training,,,,,False
+"Grand Forks, ND-MN",ND,Midwest,47.835929,-96.842681,0.5213,Fold 4,Training,,,,,False
+"Janesville-Beloit, WI",WI,Midwest,42.66988,-89.075284,0.4464,Fold 4,Training,,,,,False
+"Fargo, ND-MN",ND,Midwest,46.914859,-96.960183,0.5315,Fold 4,Training,,,,,False
+"El Paso, TX",TX,South,31.527394,-105.521333,0.4009,Fold 4,Training,,,,,False
+"Wausau, WI",WI,Midwest,44.898036,-89.757823,0.5038,Fold 4,Training,,,,,False
+"Kahului-Wailuku, HI",HI,West,20.855931,-156.60155,0.4534,Fold 4,Training,,,,,False
+"Sebring, FL",FL,South,27.34108,-81.342353,0.3461,Fold 4,Training,,,,,False
+"Corvallis, OR",OR,West,44.493882,-123.424664,0.426,Fold 4,Training,,,,,False
+"Providence-Warwick, RI-MA",RI,Northeast,41.70684,-71.286687,0.4407,Fold 4,Training,,,,,False
+"Amarillo, TX",TX,South,35.247999,-101.90867,0.4717,Fold 4,Training,,,,,False
+"Wenatchee-East Wenatchee, WA",WA,West,47.76611,-120.270197,0.4155,Fold 4,Training,,,,,False
+"Kingston, NY",NY,Northeast,41.947212,-74.265458,0.4613,Fold 4,Training,,,,,False
+"Huntington-Ashland, WV-KY-OH",WV,South,38.357487,-82.579994,0.3931,Fold 4,Training,,,,,False
+"Anniston-Oxford, AL",AL,South,33.770516,-85.827909,0.3651,Fold 4,Training,,,,,False
+"Hammond, LA",LA,South,30.621348,-90.40649,0.3974,Fold 4,Training,,,,,False
+"Walla Walla, WA",WA,West,46.254606,-118.48037,0.4294,Fold 4,Training,,,,,False
+"Seattle-Tacoma-Bellevue, WA",WA,West,47.490552,-121.833977,0.518,Fold 4,Training,,,,,False
+"Cleveland, OH",OH,Midwest,41.667548,-81.43052,0.4773,Fold 4,Training,,,,,False
+"Canton-Massillon, OH",OH,Midwest,40.711051,-81.261468,0.4534,Fold 4,Training,,,,,False
+"Abilene, TX",TX,South,32.452022,-99.718743,0.4612,Fold 4,Training,,,,,False
+"Bismarck, ND",ND,Midwest,46.887031,-100.979592,0.5705,Fold 4,Training,,,,,False
+"Utica-Rome, NY",NY,Northeast,43.33228,-75.173189,0.4229,Fold 4,Training,,,,,False
+"Anchorage, AK",AK,West,62.212784,-149.678222,0.5084,Fold 4,Training,,,,,False
+"Eugene-Springfield, OR",OR,West,43.928334,-122.897581,0.4247,Fold 4,Training,,,,,False
+"Alexandria, LA",LA,South,31.325348,-92.546803,0.398,Fold 4,Training,,,,,False
+"Kankakee, IL",IL,Midwest,41.13951,-87.861117,0.4032,Fold 4,Training,,,,,False
+"College Station-Bryan, TX",TX,South,30.754392,-96.488537,0.4311,Fold 4,Training,,,,,False
+"Daphne-Fairhope-Foley, AL",AL,South,30.659218,-87.746067,0.4632,Fold 4,Training,,,,,False
+"Sioux City, IA-NE-SD",IA,Midwest,42.508037,-96.311314,0.5419,Fold 4,Training,,,,,False
+"Grand Junction, CO",CO,West,39.019524,-108.460571,0.4799,Fold 4,Training,,,,,False
+"Panama City-Panama City Beach, FL",FL,South,30.273241,-85.642089,0.4227,Fold 4,Training,,,,,False
+"Tulsa, OK",OK,South,36.254442,-96.177298,0.5025,Fold 4,Training,,,,,False
+"Rapid City, SD",SD,Midwest,44.195108,-102.916612,0.5557,Fold 4,Training,,,,,False
+"Ithaca, NY",NY,Northeast,42.453006,-76.473483,0.3756,Fold 4,Training,,,,,False
+"Williamsport, PA",PA,Northeast,41.343882,-77.055262,0.4124,Fold 4,Training,,,,,False
+"Pensacola-Ferry Pass-Brent, FL",FL,South,30.608557,-87.158547,0.4061,Fold 4,Training,,,,,False
+"Fresno, CA",CA,West,36.879404,-119.668488,0.3497,Fold 4,Training,,,,,False
+"Napa, CA",CA,West,38.5071,-122.325904,0.5398,Fold 4,Training,,,,,False
+"Wheeling, WV-OH",WV,South,39.977687,-80.854826,0.3969,Fold 4,Training,,,,,False
+"Missoula, MT",MT,West,47.069545,-114.262668,0.5149,Fold 4,Training,,,,,False
+"Lewiston-Auburn, ME",ME,Northeast,44.167681,-70.207435,0.4314,Fold 4,Training,,,,,False
+"Gettysburg, PA",PA,Northeast,39.869437,-77.21775,0.4397,Fold 4,Training,,,,,False
+"Minot, ND",ND,Midwest,48.320242,-101.19801,0.5598,Fold 4,Training,,,,,False
+"Wichita Falls, TX",TX,South,33.776144,-98.501907,0.4652,Fold 4,Training,,,,,False
+"Beckley, WV",WV,South,37.905659,-81.163748,0.3822,Fold 4,Training,,,,,False
+"Sherman-Denison, TX",TX,South,33.624548,-96.675777,0.423,Fold 4,Training,,,,,False
+"Lafayette-West Lafayette, IN",IN,Midwest,40.482153,-87.017112,0.4131,Fold 4,Validation,Low/Medium,Low/Medium,0.025,Correct,False
+"San Antonio-New Braunfels, TX",TX,South,29.43306,-98.606973,0.4496,Fold 4,Validation,Low/Medium,Low/Medium,0.0933,Correct,False
+"Savannah, GA",GA,South,32.109256,-81.273287,0.4725,Fold 4,Validation,Low/Medium,Low/Medium,0.2292,Correct,False
+"Albany, GA",GA,South,31.644686,-84.110718,0.4046,Fold 4,Validation,Low/Medium,Low/Medium,0.0054,Correct,False
+"Lebanon, PA",PA,Northeast,40.371448,-76.464819,0.4356,Fold 4,Validation,Low/Medium,Low/Medium,0.0015,Correct,False
+"Blacksburg-Christiansburg-Radford, VA",VA,South,37.121364,-80.531517,0.4032,Fold 4,Validation,Low/Medium,Low/Medium,0.0762,Correct,False
+"Harrisburg-Carlisle, PA",PA,Northeast,40.335915,-77.05049,0.4603,Fold 4,Validation,Low/Medium,Low/Medium,0.4802,Correct,False
+"Decatur, AL",AL,South,34.489361,-87.097147,0.4561,Fold 4,Validation,Low/Medium,High,0.8094,False Positive,True
+"Erie, PA",PA,Northeast,42.117952,-80.096386,0.4241,Fold 4,Validation,Low/Medium,Low/Medium,0.0132,Correct,False
+"Appleton, WI",WI,Midwest,44.290603,-88.372326,0.5302,Fold 4,Validation,High,High,0.9784,Correct,False
+"Kalamazoo-Portage, MI",MI,Midwest,42.246266,-85.532854,0.4284,Fold 4,Validation,Low/Medium,High,0.6589,False Positive,True
+"Cedar Rapids, IA",IA,Midwest,42.086289,-91.631095,0.5179,Fold 4,Validation,High,High,0.9889,Correct,False
+"Omaha, NE-IA",NE,Midwest,41.290459,-95.99997,0.5283,Fold 4,Validation,High,High,0.9946,Correct,False
+"Greensboro-High Point, NC",NC,South,36.025204,-79.792633,0.4482,Fold 4,Validation,Low/Medium,Low/Medium,0.2028,Correct,False
+"Fairbanks-College, AK",AK,West,64.670454,-146.496061,0.4965,Fold 4,Validation,High,Low/Medium,0.483,False Negative,True
+"Ames, IA",IA,Midwest,42.036128,-93.698008,0.4957,Fold 4,Validation,High,Low/Medium,0.2835,False Negative,True
+"Sheboygan, WI",WI,Midwest,43.738713,-87.731531,0.4558,Fold 4,Validation,Low/Medium,High,0.7652,False Positive,True
+"Rochester, MN",MN,Midwest,43.94981,-92.33066,0.5503,Fold 4,Validation,High,High,1.0,Correct,False
+"Lexington-Fayette, KY",KY,South,38.102876,-84.438545,0.4657,Fold 4,Validation,Low/Medium,High,0.9356,False Positive,True
+"Mobile, AL",AL,South,30.684572,-88.196568,0.4451,Fold 4,Validation,Low/Medium,Low/Medium,0.2702,Correct,False
+"Mankato, MN",MN,Midwest,44.15479,-94.147798,0.4811,Fold 4,Validation,High,Low/Medium,0.3871,False Negative,True
+"Columbus, OH",OH,Midwest,39.968562,-82.835911,0.4753,Fold 4,Validation,High,High,0.5992,Correct,False
+"Oshkosh-Neenah, WI",WI,Midwest,44.085707,-88.668149,0.4673,Fold 4,Validation,Low/Medium,High,0.9823,False Positive,True
+"Davenport-Moline-Rock Island, IA-IL",IA,Midwest,41.39168,-90.460076,0.4779,Fold 4,Validation,High,High,0.8292,Correct,False
+"Colorado Springs, CO",CO,West,38.845507,-104.638728,0.4499,Fold 4,Validation,Low/Medium,Low/Medium,0.4262,Correct,False
+"Baton Rouge, LA",LA,South,30.515242,-91.126926,0.4563,Fold 4,Validation,Low/Medium,High,0.9891,False Positive,True
+"Naples-Marco Island, FL",FL,South,26.118786,-81.400955,0.4759,Fold 4,Validation,High,High,0.8207,Correct,False
+"Montgomery, AL",AL,South,32.365631,-86.404585,0.4468,Fold 4,Validation,Low/Medium,Low/Medium,0.0082,Correct,False
+"Topeka, KS",KS,Midwest,39.041389,-95.802639,0.4664,Fold 4,Validation,Low/Medium,High,0.7215,False Positive,True
+"Cincinnati, OH-KY-IN",OH,Midwest,39.078595,-84.463535,0.4837,Fold 4,Validation,High,High,0.8611,Correct,False
+"Eagle Pass, TX",TX,South,28.729787,-100.316678,0.288,Fold 4,Validation,Low/Medium,Low/Medium,0.0,Correct,False
+"Coeur d'Alene, ID",ID,West,47.675957,-116.695919,0.4726,Fold 4,Validation,Low/Medium,High,0.9025,False Positive,True
+"Lawrence, KS",KS,Midwest,38.896417,-95.290947,0.4466,Fold 4,Validation,Low/Medium,Low/Medium,0.2514,Correct,False
+"Bakersfield-Delano, CA",CA,West,35.346629,-118.729506,0.3408,Fold 4,Validation,Low/Medium,Low/Medium,0.0004,Correct,False
+"Manhattan, KS",KS,Midwest,39.268424,-96.562242,0.4437,Fold 4,Validation,Low/Medium,Low/Medium,0.0163,Correct,False
+"Allentown-Bethlehem-Easton, PA-NJ",PA,Northeast,40.789339,-75.398158,0.4477,Fold 4,Validation,Low/Medium,Low/Medium,0.0203,Correct,False
+"New York-Newark-Jersey City, NY-NJ",NY,Northeast,40.735425,-73.80773,0.4692,Fold 4,Validation,Low/Medium,Low/Medium,0.1314,Correct,False
+"Ogden, UT",UT,West,41.124342,-111.866933,0.4827,Fold 4,Validation,High,High,0.6847,Correct,False
+"Riverside-San Bernardino-Ontario, CA",CA,West,34.538476,-116.134541,0.4008,Fold 4,Validation,Low/Medium,Low/Medium,0.0007,Correct,False
+"Wilmington, NC",NC,South,34.253691,-78.041674,0.451,Fold 4,Validation,Low/Medium,High,0.5926,False Positive,True
+"Barnstable Town, MA",MA,Northeast,41.706123,-70.164823,0.4675,Fold 4,Validation,Low/Medium,High,0.8009,False Positive,True
+"San Angelo, TX",TX,South,31.36531,-100.659418,0.4829,Fold 4,Validation,High,Low/Medium,0.1653,False Negative,True
+"Spokane-Spokane Valley, WA",WA,West,48.091618,-117.663472,0.4586,Fold 4,Validation,Low/Medium,Low/Medium,0.3186,Correct,False
+"Yuma, AZ",AZ,West,32.773942,-113.910905,0.3033,Fold 4,Validation,Low/Medium,Low/Medium,0.0,Correct,False
+"Hattiesburg, MS",MS,South,31.188441,-89.232741,0.4449,Fold 4,Validation,Low/Medium,Low/Medium,0.0056,Correct,False
+"Ann Arbor, MI",MI,Midwest,42.252217,-83.843423,0.4645,Fold 4,Validation,Low/Medium,High,0.9728,False Positive,True
+"Lubbock, TX",TX,South,33.469794,-101.880412,0.4604,Fold 4,Validation,Low/Medium,Low/Medium,0.1077,Correct,False
+"Baltimore-Columbia-Towson, MD",MD,South,39.304361,-76.549501,0.4718,Fold 4,Validation,Low/Medium,High,0.8785,False Positive,True
+"Salisbury, MD",MD,South,38.197279,-75.769252,0.4258,Fold 4,Validation,Low/Medium,Low/Medium,0.0019,Correct,False
+"Springfield, MO",MO,Midwest,37.36087,-93.180262,0.4793,Fold 4,Validation,High,High,0.7749,Correct,False
+"Jackson, MI",MI,Midwest,42.248474,-84.420868,0.404,Fold 4,Validation,Low/Medium,Low/Medium,0.002,Correct,False
+"Laredo, TX",TX,South,27.760799,-99.340752,0.3319,Fold 4,Validation,Low/Medium,Low/Medium,0.0019,Correct,False
+"Pocatello, ID",ID,West,42.692921,-112.228982,0.4075,Fold 4,Validation,Low/Medium,High,0.6416,False Positive,True
+"Farmington, NM",NM,West,36.511624,-108.324578,0.4563,Fold 4,Validation,Low/Medium,Low/Medium,0.0851,Correct,False
+"Dubuque, IA",IA,Midwest,42.463481,-90.878771,0.5555,Fold 4,Validation,High,High,0.9957,Correct,False
+"Lawton, OK",OK,South,34.529113,-98.430902,0.3861,Fold 4,Validation,Low/Medium,Low/Medium,0.0028,Correct,False
+"Rocky Mount, NC",NC,South,35.941045,-77.798549,0.3762,Fold 4,Validation,Low/Medium,Low/Medium,0.0145,Correct,False
+"Chattanooga, TN-GA",TN,South,35.049361,-85.361158,0.4656,Fold 4,Validation,Low/Medium,Low/Medium,0.3369,Correct,False
+"Bend, OR",OR,West,44.153837,-120.887072,0.5021,Fold 4,Validation,High,High,0.8391,Correct,False
+"Minneapolis-St. Paul-Bloomington, MN-WI",MN,Midwest,45.096664,-93.275361,0.5123,Fold 4,Validation,High,High,0.993,Correct,False
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",PA,Northeast,39.894958,-75.311982,0.4816,Fold 4,Validation,High,High,0.6576,Correct,False
+"Roanoke, VA",VA,South,37.286226,-79.946935,0.478,Fold 5,Training,,,,,False
+"Huntsville, AL",AL,South,34.783262,-86.734871,0.4804,Fold 5,Training,,,,,False
+"Dover, DE",DE,South,39.097088,-75.502982,0.4792,Fold 5,Training,,,,,False
+"Lafayette-West Lafayette, IN",IN,Midwest,40.482153,-87.017112,0.4131,Fold 5,Training,,,,,False
+"Shreveport-Bossier City, LA",LA,South,32.437682,-93.744884,0.4669,Fold 5,Training,,,,,False
+"Bangor, ME",ME,Northeast,45.409284,-68.666616,0.4332,Fold 5,Training,,,,,False
+"San Antonio-New Braunfels, TX",TX,South,29.43306,-98.606973,0.4496,Fold 5,Training,,,,,False
+"Mansfield, OH",OH,Midwest,40.774159,-82.542781,0.4124,Fold 5,Training,,,,,False
+"Slidell-Mandeville-Covington, LA",LA,South,30.410022,-89.951962,0.4755,Fold 5,Training,,,,,False
+"Savannah, GA",GA,South,32.109256,-81.273287,0.4725,Fold 5,Training,,,,,False
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",DC,South,38.829787,-77.495684,0.5001,Fold 5,Training,,,,,False
+"Albany, GA",GA,South,31.644686,-84.110718,0.4046,Fold 5,Training,,,,,False
+"Traverse City, MI",MI,Midwest,44.952324,-85.90832,0.5112,Fold 5,Training,,,,,False
+"Orlando-Kissimmee-Sanford, FL",FL,South,28.434398,-81.35606,0.4538,Fold 5,Training,,,,,False
+"Tuscaloosa, AL",AL,South,33.097877,-87.799147,0.4401,Fold 5,Training,,,,,False
+"San Francisco-Oakland-Fremont, CA",CA,West,37.773718,-122.274432,0.5773,Fold 5,Training,,,,,False
+"Cape Girardeau, MO-IL",MO,Midwest,37.325936,-89.762639,0.4694,Fold 5,Training,,,,,False
+"Lebanon, PA",PA,Northeast,40.371448,-76.464819,0.4356,Fold 5,Training,,,,,False
+"Elmira, NY",NY,Northeast,42.148697,-76.752471,0.3837,Fold 5,Training,,,,,False
+"Blacksburg-Christiansburg-Radford, VA",VA,South,37.121364,-80.531517,0.4032,Fold 5,Training,,,,,False
+"Rochester, NY",NY,Northeast,43.184718,-77.556558,0.4581,Fold 5,Training,,,,,False
+"Twin Falls, ID",ID,West,42.440397,-114.568729,0.4956,Fold 5,Training,,,,,False
+"Greeley, CO",CO,West,40.555961,-104.383666,0.5211,Fold 5,Training,,,,,False
+"Atlanta-Sandy Springs-Roswell, GA",GA,South,33.732402,-84.392848,0.5058,Fold 5,Training,,,,,False
+"Harrisburg-Carlisle, PA",PA,Northeast,40.335915,-77.05049,0.4603,Fold 5,Training,,,,,False
+"Detroit-Warren-Dearborn, MI",MI,Midwest,42.721848,-83.200846,0.4302,Fold 5,Training,,,,,False
+"Valdosta, GA",GA,South,30.827158,-83.243555,0.3944,Fold 5,Training,,,,,False
+"Winston-Salem, NC",NC,South,36.078852,-80.345064,0.4277,Fold 5,Training,,,,,False
+"Decatur, AL",AL,South,34.489361,-87.097147,0.4561,Fold 5,Training,,,,,False
+"Dalton, GA",GA,South,34.796956,-84.856279,0.4113,Fold 5,Training,,,,,False
+"Greenville-Anderson-Greer, SC",SC,South,34.683709,-82.413423,0.4584,Fold 5,Training,,,,,False
+"Erie, PA",PA,Northeast,42.117952,-80.096386,0.4241,Fold 5,Training,,,,,False
+"Athens-Clarke County, GA",GA,South,33.943984,-83.213897,0.4267,Fold 5,Training,,,,,False
+"Hartford-West Hartford-East Hartford, CT",CT,Northeast,41.688038,-72.545112,0.4863,Fold 5,Training,,,,,False
+"Burlington, NC",NC,South,36.043954,-79.400573,0.4092,Fold 5,Training,,,,,False
+"Tampa-St. Petersburg-Clearwater, FL",FL,South,28.120541,-82.525188,0.4391,Fold 5,Training,,,,,False
+"Des Moines-West Des Moines, IA",IA,Midwest,41.57705,-93.759712,0.5438,Fold 5,Training,,,,,False
+"Salt Lake City-Murray, UT",UT,West,40.572887,-112.953253,0.5421,Fold 5,Training,,,,,False
+"Auburn-Opelika, AL",AL,South,32.492206,-85.527127,0.4399,Fold 5,Training,,,,,False
+"Lafayette, LA",LA,South,30.012961,-92.136552,0.4837,Fold 5,Training,,,,,False
+"Kansas City, MO-KS",MO,Midwest,38.931857,-94.443841,0.5177,Fold 5,Training,,,,,False
+"Appleton, WI",WI,Midwest,44.290603,-88.372326,0.5302,Fold 5,Training,,,,,False
+"Homosassa Springs, FL",FL,South,28.850292,-82.595552,0.3316,Fold 5,Training,,,,,False
+"Jacksonville, FL",FL,South,30.234184,-81.756033,0.4543,Fold 5,Training,,,,,False
+"Kalamazoo-Portage, MI",MI,Midwest,42.246266,-85.532854,0.4284,Fold 5,Training,,,,,False
+"Cedar Rapids, IA",IA,Midwest,42.086289,-91.631095,0.5179,Fold 5,Training,,,,,False
+"Olympia-Lacey-Tumwater, WA",WA,West,46.935822,-122.830152,0.4358,Fold 5,Training,,,,,False
+"Omaha, NE-IA",NE,Midwest,41.290459,-95.99997,0.5283,Fold 5,Training,,,,,False
+"Flint, MI",MI,Midwest,43.021077,-83.706372,0.346,Fold 5,Training,,,,,False
+"New Orleans-Metairie, LA",LA,South,29.282447,-89.576068,0.4433,Fold 5,Training,,,,,False
+"Winchester, VA-WV",VA,South,39.272974,-78.471828,0.4523,Fold 5,Training,,,,,False
+"Santa Maria-Santa Barbara, CA",CA,West,34.536677,-120.038364,0.4648,Fold 5,Training,,,,,False
+"Florence, SC",SC,South,34.153574,-79.806164,0.3913,Fold 5,Training,,,,,False
+"Columbia, SC",SC,South,34.077585,-81.037845,0.4366,Fold 5,Training,,,,,False
+"Greensboro-High Point, NC",NC,South,36.025204,-79.792633,0.4482,Fold 5,Training,,,,,False
+"Fairbanks-College, AK",AK,West,64.670454,-146.496061,0.4965,Fold 5,Training,,,,,False
+"Ames, IA",IA,Midwest,42.036128,-93.698008,0.4957,Fold 5,Training,,,,,False
+"Morgantown, WV",WV,South,39.525155,-79.801912,0.4465,Fold 5,Training,,,,,False
+"Sheboygan, WI",WI,Midwest,43.738713,-87.731531,0.4558,Fold 5,Training,,,,,False
+"Rochester, MN",MN,Midwest,43.94981,-92.33066,0.5503,Fold 5,Training,,,,,False
+"Wichita, KS",KS,Midwest,37.637896,-97.246287,0.4838,Fold 5,Training,,,,,False
+"Lexington-Fayette, KY",KY,South,38.102876,-84.438545,0.4657,Fold 5,Training,,,,,False
+"Columbus, GA-AL",GA,South,32.419377,-84.843709,0.3868,Fold 5,Training,,,,,False
+"Parkersburg-Vienna, WV",WV,South,39.141531,-81.460402,0.3862,Fold 5,Training,,,,,False
+"Mobile, AL",AL,South,30.684572,-88.196568,0.4451,Fold 5,Training,,,,,False
+"Boulder, CO",CO,West,40.094971,-105.39771,0.5173,Fold 5,Training,,,,,False
+"Duluth, MN-WI",MN,Midwest,47.329703,-92.37627,0.4713,Fold 5,Training,,,,,False
+"Port St. Lucie, FL",FL,South,27.228046,-80.425388,0.4199,Fold 5,Training,,,,,False
+"Portland-Vancouver-Hillsboro, OR-WA",OR,West,45.600622,-122.484378,0.5056,Fold 5,Training,,,,,False
+"Bloomington, IL",IL,Midwest,40.494559,-88.844539,0.4754,Fold 5,Training,,,,,False
+"Grand Rapids-Wyoming-Kentwood, MI",MI,Midwest,42.979841,-85.715614,0.4817,Fold 5,Training,,,,,False
+"Mankato, MN",MN,Midwest,44.15479,-94.147798,0.4811,Fold 5,Training,,,,,False
+"Deltona-Daytona Beach-Ormond Beach, FL",FL,South,29.1789,-81.189023,0.3914,Fold 5,Training,,,,,False
+"Columbus, OH",OH,Midwest,39.968562,-82.835911,0.4753,Fold 5,Training,,,,,False
+"Elkhart-Goshen, IN",IN,Midwest,41.600693,-85.863986,0.4256,Fold 5,Training,,,,,False
+"Salinas, CA",CA,West,36.240104,-121.315578,0.3881,Fold 5,Training,,,,,False
+"Lakeland-Winter Haven, FL",FL,South,27.953686,-81.693493,0.3874,Fold 5,Training,,,,,False
+"Memphis, TN-MS-AR",TN,South,35.010307,-89.820503,0.445,Fold 5,Training,,,,,False
+"St. Joseph, MO-KS",MO,Midwest,39.834843,-94.783754,0.4755,Fold 5,Training,,,,,False
+"Amherst Town-Northampton, MA",MA,Northeast,42.339459,-72.663694,0.4183,Fold 5,Training,,,,,False
+"Birmingham, AL",AL,South,33.462372,-86.814338,0.4921,Fold 5,Training,,,,,False
+"Oshkosh-Neenah, WI",WI,Midwest,44.085707,-88.668149,0.4673,Fold 5,Training,,,,,False
+"Pittsburgh, PA",PA,Northeast,40.471332,-79.863986,0.4824,Fold 5,Training,,,,,False
+"Davenport-Moline-Rock Island, IA-IL",IA,Midwest,41.39168,-90.460076,0.4779,Fold 5,Training,,,,,False
+"Pueblo, CO",CO,West,38.162765,-104.484668,0.354,Fold 5,Training,,,,,False
+"Chico, CA",CA,West,39.665336,-121.603209,0.3473,Fold 5,Training,,,,,False
+"Brunswick-St. Simons, GA",GA,South,31.301739,-81.588909,0.4704,Fold 5,Training,,,,,False
+"Houston-Pasadena-The Woodlands, TX",TX,South,29.801005,-95.34262,0.4702,Fold 5,Training,,,,,False
+"Lynchburg, VA",VA,South,37.364926,-79.216689,0.4492,Fold 5,Training,,,,,False
+"Greenville, NC",NC,South,35.59249,-77.372739,0.3968,Fold 5,Training,,,,,False
+"Racine-Mount Pleasant, WI",WI,Midwest,42.780392,-87.771599,0.4346,Fold 5,Training,,,,,False
+"Portland-South Portland, ME",ME,Northeast,43.651417,-70.418375,0.521,Fold 5,Training,,,,,False
+"Johnstown, PA",PA,Northeast,40.510209,-78.710488,0.4062,Fold 5,Training,,,,,False
+"Niles, MI",MI,Midwest,41.791382,-86.742543,0.4357,Fold 5,Training,,,,,False
+"San Jose-Sunnyvale-Santa Clara, CA",CA,West,36.908472,-121.371372,0.7229,Fold 5,Training,,,,,False
+"Crestview-Fort Walton Beach-Destin, FL",FL,South,30.594941,-86.358164,0.4449,Fold 5,Training,,,,,False
+"Colorado Springs, CO",CO,West,38.845507,-104.638728,0.4499,Fold 5,Training,,,,,False
+"Charlottesville, VA",VA,South,37.949084,-78.593206,0.5329,Fold 5,Training,,,,,False
+"Sumter, SC",SC,South,33.91614,-80.382376,0.3382,Fold 5,Training,,,,,False
+"Baton Rouge, LA",LA,South,30.515242,-91.126926,0.4563,Fold 5,Training,,,,,False
+"Sioux Falls, SD-MN",SD,Midwest,43.525658,-96.875416,0.5709,Fold 5,Training,,,,,False
+"Naples-Marco Island, FL",FL,South,26.118786,-81.400955,0.4759,Fold 5,Training,,,,,False
+"Jackson, TN",TN,South,35.753215,-88.882692,0.4265,Fold 5,Training,,,,,False
+"Kiryas Joel-Poughkeepsie-Newburgh, NY",NY,Northeast,41.575274,-74.033873,0.4274,Fold 5,Training,,,,,False
+"Columbia, MO",MO,Midwest,38.986523,-92.585236,0.4949,Fold 5,Training,,,,,False
+"Grants Pass, OR",OR,West,42.386983,-123.57162,0.3324,Fold 5,Training,,,,,False
+"Montgomery, AL",AL,South,32.365631,-86.404585,0.4468,Fold 5,Training,,,,,False
+"Rome, GA",GA,South,34.26369,-85.213685,0.3998,Fold 5,Training,,,,,False
+"Albany, OR",OR,West,44.488898,-122.537208,0.4349,Fold 5,Training,,,,,False
+"Bellingham, WA",WA,West,48.842653,-121.836432,0.481,Fold 5,Training,,,,,False
+"Knoxville, TN",TN,South,36.044462,-84.136114,0.4568,Fold 5,Training,,,,,False
+"Topeka, KS",KS,Midwest,39.041389,-95.802639,0.4664,Fold 5,Training,,,,,False
+"Dothan, AL",AL,South,31.245528,-85.46919,0.451,Fold 5,Training,,,,,False
+"Altoona, PA",PA,Northeast,40.498683,-78.309597,0.4408,Fold 5,Training,,,,,False
+"Waterbury-Shelton, CT",CT,Northeast,41.518931,-73.087906,0.4246,Fold 5,Training,,,,,False
+"Lansing-East Lansing, MI",MI,Midwest,42.713659,-84.605372,0.4193,Fold 5,Training,,,,,False
+"Springfield, OH",OH,Midwest,39.917032,-83.783676,0.383,Fold 5,Training,,,,,False
+"Cincinnati, OH-KY-IN",OH,Midwest,39.078595,-84.463535,0.4837,Fold 5,Training,,,,,False
+"Pittsfield, MA",MA,Northeast,42.371493,-73.217928,0.453,Fold 5,Training,,,,,False
+"Springfield, MA",MA,Northeast,42.136198,-72.635648,0.4,Fold 5,Training,,,,,False
+"State College, PA",PA,Northeast,40.909322,-77.847667,0.4572,Fold 5,Training,,,,,False
+"Eagle Pass, TX",TX,South,28.729787,-100.316678,0.288,Fold 5,Training,,,,,False
+"Glens Falls, NY",NY,Northeast,43.44045,-73.636757,0.4193,Fold 5,Training,,,,,False
+"Columbus, IN",IN,Midwest,39.205843,-85.897999,0.4825,Fold 5,Training,,,,,False
+"Fayetteville-Springdale-Rogers, AR",AR,South,36.116394,-94.079545,0.5447,Fold 5,Training,,,,,False
+"Salem, OR",OR,West,44.903385,-122.901757,0.409,Fold 5,Training,,,,,False
+"Phoenix-Mesa-Chandler, AZ",AZ,West,33.185765,-112.067862,0.4566,Fold 5,Training,,,,,False
+"Urban Honolulu, HI",HI,West,21.461365,-158.201974,0.4443,Fold 5,Training,,,,,False
+"Coeur d'Alene, ID",ID,West,47.675957,-116.695919,0.4726,Fold 5,Training,,,,,False
+"Los Angeles-Long Beach-Anaheim, CA",CA,West,34.108703,-118.182753,0.4648,Fold 5,Training,,,,,False
+"Sierra Vista-Douglas, AZ",AZ,West,31.840129,-109.775163,0.3807,Fold 5,Training,,,,,False
+"Waco, TX",TX,South,31.5921,-97.286018,0.4297,Fold 5,Training,,,,,False
+"Lawrence, KS",KS,Midwest,38.896417,-95.290947,0.4466,Fold 5,Training,,,,,False
+"Warner Robins, GA",GA,South,32.492806,-83.711084,0.3582,Fold 5,Training,,,,,False
+"Kokomo, IN",IN,Midwest,40.483537,-86.114118,0.3351,Fold 5,Training,,,,,False
+"Bakersfield-Delano, CA",CA,West,35.346629,-118.729506,0.3408,Fold 5,Training,,,,,False
+"New Haven, CT",CT,Northeast,41.290167,-72.837024,0.4486,Fold 5,Training,,,,,False
+"Stockton-Lodi, CA",CA,West,37.934982,-121.272244,0.3853,Fold 5,Training,,,,,False
+"Manhattan, KS",KS,Midwest,39.268424,-96.562242,0.4437,Fold 5,Training,,,,,False
+"Chicago-Naperville-Elgin, IL-IN",IL,Midwest,41.75878,-87.841887,0.4792,Fold 5,Training,,,,,False
+"Odessa, TX",TX,South,31.865301,-102.542507,0.5278,Fold 5,Training,,,,,False
+"Allentown-Bethlehem-Easton, PA-NJ",PA,Northeast,40.789339,-75.398158,0.4477,Fold 5,Training,,,,,False
+"Great Falls, MT",MT,West,47.316575,-111.350262,0.4222,Fold 5,Training,,,,,False
+"Miami-Fort Lauderdale-West Palm Beach, FL",FL,South,26.101828,-80.478755,0.4168,Fold 5,Training,,,,,False
+"Billings, MT",MT,West,45.63714,-108.832361,0.5462,Fold 5,Training,,,,,False
+"Houma-Bayou Cane-Thibodaux, LA",LA,South,29.33413,-90.843674,0.4955,Fold 5,Training,,,,,False
+"Dallas-Fort Worth-Arlington, TX",TX,South,32.849171,-96.970489,0.4803,Fold 5,Training,,,,,False
+"Charleston, WV",WV,South,38.283213,-81.492557,0.4477,Fold 5,Training,,,,,False
+"Bremerton-Silverdale-Port Orchard, WA",WA,West,47.639687,-122.649636,0.4454,Fold 5,Training,,,,,False
+"New York-Newark-Jersey City, NY-NJ",NY,Northeast,40.735425,-73.80773,0.4692,Fold 5,Training,,,,,False
+"Little Rock-North Little Rock-Conway, AR",AR,South,34.755773,-92.400589,0.4679,Fold 5,Training,,,,,False
+"Ogden, UT",UT,West,41.124342,-111.866933,0.4827,Fold 5,Training,,,,,False
+"Riverside-San Bernardino-Ontario, CA",CA,West,34.538476,-116.134541,0.4008,Fold 5,Training,,,,,False
+"Helena, MT",MT,West,46.715671,-112.1352,0.5411,Fold 5,Training,,,,,False
+"Florence-Muscle Shoals, AL",AL,South,34.799254,-87.719388,0.4399,Fold 5,Training,,,,,False
+"Denver-Aurora-Centennial, CO",CO,West,39.434789,-104.901073,0.5249,Fold 5,Training,,,,,False
+"Youngstown-Warren, OH",OH,Midwest,41.195092,-80.76508,0.3982,Fold 5,Training,,,,,False
+"Longview-Kelso, WA",WA,West,46.196785,-122.67846,0.4342,Fold 5,Training,,,,,False
+"Wilmington, NC",NC,South,34.253691,-78.041674,0.451,Fold 5,Training,,,,,False
+"Gulfport-Biloxi, MS",MS,South,30.480153,-88.999297,0.4014,Fold 5,Training,,,,,False
+"Sebastian-Vero Beach-West Vero Corridor, FL",FL,South,27.700528,-80.574789,0.4372,Fold 5,Training,,,,,False
+"North Port-Bradenton-Sarasota, FL",FL,South,27.329055,-82.414533,0.4328,Fold 5,Training,,,,,False
+"Barnstable Town, MA",MA,Northeast,41.706123,-70.164823,0.4675,Fold 5,Training,,,,,False
+"San Angelo, TX",TX,South,31.36531,-100.659418,0.4829,Fold 5,Training,,,,,False
+"Bloomington, IN",IN,Midwest,39.241736,-86.671754,0.4148,Fold 5,Training,,,,,False
+"Boise City, ID",ID,West,43.006648,-116.141909,0.4919,Fold 5,Training,,,,,False
+"Manchester-Nashua, NH",NH,Northeast,42.911532,-71.723055,0.5153,Fold 5,Training,,,,,False
+"Fort Wayne, IN",IN,Midwest,41.006999,-85.216424,0.4642,Fold 5,Training,,,,,False
+"Visalia, CA",CA,West,36.228834,-118.781055,0.2933,Fold 5,Training,,,,,False
+"Punta Gorda, FL",FL,South,26.906396,-82.003657,0.3518,Fold 5,Training,,,,,False
+"Spokane-Spokane Valley, WA",WA,West,48.091618,-117.663472,0.4586,Fold 5,Training,,,,,False
+"Morristown, TN",TN,South,36.115484,-83.376546,0.3836,Fold 5,Training,,,,,False
+"Yuma, AZ",AZ,West,32.773942,-113.910905,0.3033,Fold 5,Training,,,,,False
+"South Bend-Mishawaka, IN-MI",IN,Midwest,41.774981,-86.123014,0.4054,Fold 5,Training,,,,,False
+"Johnson City, TN",TN,South,36.265822,-82.332693,0.3816,Fold 5,Training,,,,,False
+"Hinesville, GA",GA,South,31.778788,-81.57648,0.3309,Fold 5,Training,,,,,False
+"Hattiesburg, MS",MS,South,31.188441,-89.232741,0.4449,Fold 5,Training,,,,,False
+"Trenton-Princeton, NJ",NJ,Northeast,40.282503,-74.703724,0.4962,Fold 5,Training,,,,,False
+"Ann Arbor, MI",MI,Midwest,42.252217,-83.843423,0.4645,Fold 5,Training,,,,,False
+"Dayton-Kettering-Beavercreek, OH",OH,Midwest,39.829746,-84.140992,0.4324,Fold 5,Training,,,,,False
+"Gainesville, FL",FL,South,29.453355,-82.666257,0.3789,Fold 5,Training,,,,,False
+"Burlington-South Burlington, VT",VT,Northeast,44.689115,-73.041175,0.521,Fold 5,Training,,,,,False
+"Lewiston, ID-WA",ID,West,46.251696,-116.925017,0.4938,Fold 5,Training,,,,,False
+"Atlantic City-Hammonton, NJ",NJ,Northeast,39.286186,-74.738311,0.3597,Fold 5,Training,,,,,False
+"Weirton-Steubenville, WV-OH",WV,South,40.388914,-80.701966,0.3611,Fold 5,Training,,,,,False
+"Redding, CA",CA,West,40.760514,-122.043556,0.389,Fold 5,Training,,,,,False
+"Yakima, WA",WA,West,46.456558,-120.740145,0.4018,Fold 5,Training,,,,,False
+"Albany-Schenectady-Troy, NY",NY,Northeast,42.78792,-73.942348,0.4673,Fold 5,Training,,,,,False
+"Green Bay, WI",WI,Midwest,44.474024,-87.99613,0.5187,Fold 5,Training,,,,,False
+"Waterloo-Cedar Falls, IA",IA,Midwest,42.536796,-92.471608,0.511,Fold 5,Training,,,,,False
+"York-Hanover, PA",PA,Northeast,39.921751,-76.728889,0.4532,Fold 5,Training,,,,,False
+"La Crosse-Onalaska, WI-MN",WI,Midwest,43.698264,-91.11014,0.5085,Fold 5,Training,,,,,False
+"Harrisonburg, VA",VA,South,38.507612,-78.885329,0.4465,Fold 5,Training,,,,,False
+"Macon-Bibb County, GA",GA,South,32.856216,-83.714305,0.4005,Fold 5,Training,,,,,False
+"Battle Creek, MI",MI,Midwest,42.24299,-85.012385,0.4001,Fold 5,Training,,,,,False
+"Lubbock, TX",TX,South,33.469794,-101.880412,0.4604,Fold 5,Training,,,,,False
+"Worcester, MA",MA,Northeast,42.311693,-71.940282,0.4596,Fold 5,Training,,,,,False
+"Baltimore-Columbia-Towson, MD",MD,South,39.304361,-76.549501,0.4718,Fold 5,Training,,,,,False
+"Merced, CA",CA,West,37.194806,-120.722802,0.2688,Fold 5,Training,,,,,False
+"Boston-Cambridge-Newton, MA-NH",MA,Northeast,42.517606,-71.021993,0.5464,Fold 5,Training,,,,,False
+"Bridgeport-Stamford-Danbury, CT",CT,Northeast,41.252442,-73.393266,0.5698,Fold 5,Training,,,,,False
+"Salisbury, MD",MD,South,38.197279,-75.769252,0.4258,Fold 5,Training,,,,,False
+"San Luis Obispo-Paso Robles, CA",CA,West,35.388189,-120.448897,0.4599,Fold 5,Training,,,,,False
+"Grand Forks, ND-MN",ND,Midwest,47.835929,-96.842681,0.5213,Fold 5,Training,,,,,False
+"Janesville-Beloit, WI",WI,Midwest,42.66988,-89.075284,0.4464,Fold 5,Training,,,,,False
+"Fargo, ND-MN",ND,Midwest,46.914859,-96.960183,0.5315,Fold 5,Training,,,,,False
+"El Paso, TX",TX,South,31.527394,-105.521333,0.4009,Fold 5,Training,,,,,False
+"Wausau, WI",WI,Midwest,44.898036,-89.757823,0.5038,Fold 5,Training,,,,,False
+"Kahului-Wailuku, HI",HI,West,20.855931,-156.60155,0.4534,Fold 5,Training,,,,,False
+"Springfield, MO",MO,Midwest,37.36087,-93.180262,0.4793,Fold 5,Training,,,,,False
+"Jackson, MI",MI,Midwest,42.248474,-84.420868,0.404,Fold 5,Training,,,,,False
+"Providence-Warwick, RI-MA",RI,Northeast,41.70684,-71.286687,0.4407,Fold 5,Training,,,,,False
+"Amarillo, TX",TX,South,35.247999,-101.90867,0.4717,Fold 5,Training,,,,,False
+"Wenatchee-East Wenatchee, WA",WA,West,47.76611,-120.270197,0.4155,Fold 5,Training,,,,,False
+"Kingston, NY",NY,Northeast,41.947212,-74.265458,0.4613,Fold 5,Training,,,,,False
+"Huntington-Ashland, WV-KY-OH",WV,South,38.357487,-82.579994,0.3931,Fold 5,Training,,,,,False
+"Laredo, TX",TX,South,27.760799,-99.340752,0.3319,Fold 5,Training,,,,,False
+"Pocatello, ID",ID,West,42.692921,-112.228982,0.4075,Fold 5,Training,,,,,False
+"Walla Walla, WA",WA,West,46.254606,-118.48037,0.4294,Fold 5,Training,,,,,False
+"Farmington, NM",NM,West,36.511624,-108.324578,0.4563,Fold 5,Training,,,,,False
+"Dubuque, IA",IA,Midwest,42.463481,-90.878771,0.5555,Fold 5,Training,,,,,False
+"Abilene, TX",TX,South,32.452022,-99.718743,0.4612,Fold 5,Training,,,,,False
+"Bismarck, ND",ND,Midwest,46.887031,-100.979592,0.5705,Fold 5,Training,,,,,False
+"Utica-Rome, NY",NY,Northeast,43.33228,-75.173189,0.4229,Fold 5,Training,,,,,False
+"Lawton, OK",OK,South,34.529113,-98.430902,0.3861,Fold 5,Training,,,,,False
+"Rocky Mount, NC",NC,South,35.941045,-77.798549,0.3762,Fold 5,Training,,,,,False
+"Chattanooga, TN-GA",TN,South,35.049361,-85.361158,0.4656,Fold 5,Training,,,,,False
+"Anchorage, AK",AK,West,62.212784,-149.678222,0.5084,Fold 5,Training,,,,,False
+"Eugene-Springfield, OR",OR,West,43.928334,-122.897581,0.4247,Fold 5,Training,,,,,False
+"Alexandria, LA",LA,South,31.325348,-92.546803,0.398,Fold 5,Training,,,,,False
+"Kankakee, IL",IL,Midwest,41.13951,-87.861117,0.4032,Fold 5,Training,,,,,False
+"College Station-Bryan, TX",TX,South,30.754392,-96.488537,0.4311,Fold 5,Training,,,,,False
+"Grand Junction, CO",CO,West,39.019524,-108.460571,0.4799,Fold 5,Training,,,,,False
+"Panama City-Panama City Beach, FL",FL,South,30.273241,-85.642089,0.4227,Fold 5,Training,,,,,False
+"Tulsa, OK",OK,South,36.254442,-96.177298,0.5025,Fold 5,Training,,,,,False
+"Ithaca, NY",NY,Northeast,42.453006,-76.473483,0.3756,Fold 5,Training,,,,,False
+"Bend, OR",OR,West,44.153837,-120.887072,0.5021,Fold 5,Training,,,,,False
+"Minneapolis-St. Paul-Bloomington, MN-WI",MN,Midwest,45.096664,-93.275361,0.5123,Fold 5,Training,,,,,False
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",PA,Northeast,39.894958,-75.311982,0.4816,Fold 5,Training,,,,,False
+"Pensacola-Ferry Pass-Brent, FL",FL,South,30.608557,-87.158547,0.4061,Fold 5,Training,,,,,False
+"Napa, CA",CA,West,38.5071,-122.325904,0.5398,Fold 5,Training,,,,,False
+"Wheeling, WV-OH",WV,South,39.977687,-80.854826,0.3969,Fold 5,Training,,,,,False
+"Missoula, MT",MT,West,47.069545,-114.262668,0.5149,Fold 5,Training,,,,,False
+"Lewiston-Auburn, ME",ME,Northeast,44.167681,-70.207435,0.4314,Fold 5,Training,,,,,False
+"Gettysburg, PA",PA,Northeast,39.869437,-77.21775,0.4397,Fold 5,Training,,,,,False
+"Wichita Falls, TX",TX,South,33.776144,-98.501907,0.4652,Fold 5,Training,,,,,False
+"Sherman-Denison, TX",TX,South,33.624548,-96.675777,0.423,Fold 5,Training,,,,,False
+"Asheville, NC",NC,South,35.61634,-82.570683,0.4541,Fold 5,Validation,Low/Medium,Low/Medium,0.1466,Correct,False
+"Ocala, FL",FL,South,29.202805,-82.0431,0.385,Fold 5,Validation,Low/Medium,Low/Medium,0.0055,Correct,False
+"Akron, OH",OH,Midwest,41.146639,-81.35011,0.4669,Fold 5,Validation,Low/Medium,Low/Medium,0.2926,Correct,False
+"Hilton Head Island-Bluffton-Port Royal, SC",SC,South,32.386792,-80.830877,0.4556,Fold 5,Validation,Low/Medium,High,0.6034,False Positive,True
+"Paducah, KY-IL",KY,South,37.094234,-88.71705,0.4338,Fold 5,Validation,Low/Medium,High,0.9674,False Positive,True
+"Bowling Green, KY",KY,South,37.046804,-86.397398,0.4077,Fold 5,Validation,Low/Medium,Low/Medium,0.1762,Correct,False
+"Norwich-New London-Willimantic, CT",CT,Northeast,41.484769,-72.101666,0.4231,Fold 5,Validation,Low/Medium,Low/Medium,0.0006,Correct,False
+"Kennewick-Richland, WA",WA,West,46.364155,-119.254927,0.4437,Fold 5,Validation,Low/Medium,Low/Medium,0.2108,Correct,False
+"Santa Fe, NM",NM,West,35.514531,-105.963972,0.4757,Fold 5,Validation,High,Low/Medium,0.362,False Negative,True
+"Monroe, LA",LA,South,32.67396,-92.058318,0.4368,Fold 5,Validation,Low/Medium,Low/Medium,0.2569,Correct,False
+"Chambersburg, PA",PA,Northeast,39.926772,-77.724521,0.4261,Fold 5,Validation,Low/Medium,Low/Medium,0.0105,Correct,False
+"Watertown-Fort Drum, NY",NY,Northeast,43.996389,-76.052968,0.4312,Fold 5,Validation,Low/Medium,Low/Medium,0.0241,Correct,False
+"Lexington Park, MD",MD,South,38.312696,-76.527935,0.5056,Fold 5,Validation,High,Low/Medium,0.0288,False Negative,True
+"Texarkana, TX-AR",TX,South,33.478373,-94.207162,0.4368,Fold 5,Validation,Low/Medium,Low/Medium,0.029,Correct,False
+"Santa Cruz-Watsonville, CA",CA,West,37.012347,-122.007789,0.4416,Fold 5,Validation,Low/Medium,Low/Medium,0.2934,Correct,False
+"Reno, NV",NV,West,40.251057,-119.555507,0.494,Fold 5,Validation,High,High,0.9401,Correct,False
+"Lincoln, NE",NE,Midwest,40.817429,-96.868801,0.4911,Fold 5,Validation,High,High,0.9977,Correct,False
+"Terre Haute, IN",IN,Midwest,39.392389,-87.347096,0.391,Fold 5,Validation,Low/Medium,Low/Medium,0.0208,Correct,False
+"Reading, PA",PA,Northeast,40.413957,-75.92686,0.4459,Fold 5,Validation,Low/Medium,Low/Medium,0.0128,Correct,False
+"Casper, WY",WY,West,42.977645,-106.768219,0.5699,Fold 5,Validation,High,High,0.9949,Correct,False
+"Austin-Round Rock-San Marcos, TX",TX,South,30.249744,-97.649842,0.5338,Fold 5,Validation,High,High,0.9989,Correct,False
+"Santa Rosa-Petaluma, CA",CA,West,38.525182,-122.92611,0.495,Fold 5,Validation,High,High,0.821,Correct,False
+"McAllen-Edinburg-Mission, TX",TX,South,26.396384,-98.18099,0.3293,Fold 5,Validation,Low/Medium,Low/Medium,0.0,Correct,False
+"Raleigh-Cary, NC",NC,South,35.756746,-78.460441,0.5306,Fold 5,Validation,High,High,0.9712,Correct,False
+"Jacksonville, NC",NC,South,34.763109,-77.499469,0.3606,Fold 5,Validation,Low/Medium,Low/Medium,0.0001,Correct,False
+"Saginaw, MI",MI,Midwest,43.328267,-84.05541,0.3559,Fold 5,Validation,Low/Medium,Low/Medium,0.0062,Correct,False
+"Lima, OH",OH,Midwest,40.771627,-84.106103,0.4408,Fold 5,Validation,Low/Medium,Low/Medium,0.0155,Correct,False
+"Cape Coral-Fort Myers, FL",FL,South,26.563273,-81.984182,0.4149,Fold 5,Validation,Low/Medium,Low/Medium,0.207,Correct,False
+"Sacramento-Roseville-Folsom, CA",CA,West,38.790272,-121.005643,0.4506,Fold 5,Validation,Low/Medium,Low/Medium,0.3561,Correct,False
+"Fayetteville, NC",NC,South,35.037956,-78.982209,0.3341,Fold 5,Validation,Low/Medium,Low/Medium,0.0002,Correct,False
+"Brownsville-Harlingen, TX",TX,South,26.102923,-97.478958,0.3435,Fold 5,Validation,Low/Medium,Low/Medium,0.0,Correct,False
+"Milwaukee-Waukesha, WI",WI,Midwest,42.912643,-87.862312,0.4874,Fold 5,Validation,High,High,0.9112,Correct,False
+"Las Cruces, NM",NM,West,32.349919,-106.834968,0.3621,Fold 5,Validation,Low/Medium,Low/Medium,0.0002,Correct,False
+"Lake Havasu City-Kingman, AZ",AZ,West,35.717705,-113.749689,0.3494,Fold 5,Validation,Low/Medium,Low/Medium,0.0005,Correct,False
+"St. Cloud, MN",MN,Midwest,45.593031,-94.488363,0.5169,Fold 5,Validation,High,High,0.9783,Correct,False
+"Nashville-Davidson--Murfreesboro--Franklin, TN",TN,South,36.091577,-86.72298,0.5325,Fold 5,Validation,High,High,0.8506,Correct,False
+"Clarksville, TN-KY",TN,South,36.69571,-87.624307,0.38,Fold 5,Validation,Low/Medium,Low/Medium,0.0004,Correct,False
+"Iowa City, IA",IA,Midwest,41.517806,-91.64793,0.4746,Fold 5,Validation,High,Low/Medium,0.0304,False Negative,True
+"Albuquerque, NM",NM,West,35.123496,-106.458392,0.435,Fold 5,Validation,Low/Medium,Low/Medium,0.03,Correct,False
+"Medford, OR",OR,West,42.411621,-122.675611,0.4479,Fold 5,Validation,Low/Medium,High,0.5531,False Positive,True
+"Michigan City-La Porte, IN",IN,Midwest,41.549013,-86.744739,0.4069,Fold 5,Validation,Low/Medium,Low/Medium,0.002,Correct,False
+"Mount Vernon-Anacortes, WA",WA,West,48.493292,-121.81577,0.4688,Fold 5,Validation,Low/Medium,Low/Medium,0.1688,Correct,False
+"Prescott Valley-Prescott, AZ",AZ,West,34.631071,-112.577225,0.4229,Fold 5,Validation,Low/Medium,Low/Medium,0.0292,Correct,False
+"Bay City, MI",MI,Midwest,43.699711,-83.978701,0.3578,Fold 5,Validation,Low/Medium,Low/Medium,0.0024,Correct,False
+"Charlotte-Concord-Gastonia, NC-SC",NC,South,35.166342,-80.797285,0.5132,Fold 5,Validation,High,High,0.9781,Correct,False
+"Syracuse, NY",NY,Northeast,43.006516,-76.196134,0.4555,Fold 5,Validation,Low/Medium,Low/Medium,0.047,Correct,False
+"Hickory-Lenoir-Morganton, NC",NC,South,35.814295,-81.456584,0.4331,Fold 5,Validation,Low/Medium,Low/Medium,0.0126,Correct,False
+"Sebring, FL",FL,South,27.34108,-81.342353,0.3461,Fold 5,Validation,Low/Medium,Low/Medium,0.0011,Correct,False
+"Corvallis, OR",OR,West,44.493882,-123.424664,0.426,Fold 5,Validation,Low/Medium,Low/Medium,0.137,Correct,False
+"Anniston-Oxford, AL",AL,South,33.770516,-85.827909,0.3651,Fold 5,Validation,Low/Medium,Low/Medium,0.0011,Correct,False
+"Hammond, LA",LA,South,30.621348,-90.40649,0.3974,Fold 5,Validation,Low/Medium,Low/Medium,0.0009,Correct,False
+"Seattle-Tacoma-Bellevue, WA",WA,West,47.490552,-121.833977,0.518,Fold 5,Validation,High,High,0.9999,Correct,False
+"Cleveland, OH",OH,Midwest,41.667548,-81.43052,0.4773,Fold 5,Validation,High,Low/Medium,0.3397,False Negative,True
+"Canton-Massillon, OH",OH,Midwest,40.711051,-81.261468,0.4534,Fold 5,Validation,Low/Medium,Low/Medium,0.0329,Correct,False
+"Daphne-Fairhope-Foley, AL",AL,South,30.659218,-87.746067,0.4632,Fold 5,Validation,Low/Medium,Low/Medium,0.0777,Correct,False
+"Sioux City, IA-NE-SD",IA,Midwest,42.508037,-96.311314,0.5419,Fold 5,Validation,High,High,0.8388,Correct,False
+"Rapid City, SD",SD,Midwest,44.195108,-102.916612,0.5557,Fold 5,Validation,High,High,0.8752,Correct,False
+"Williamsport, PA",PA,Northeast,41.343882,-77.055262,0.4124,Fold 5,Validation,Low/Medium,Low/Medium,0.0071,Correct,False
+"Fresno, CA",CA,West,36.879404,-119.668488,0.3497,Fold 5,Validation,Low/Medium,Low/Medium,0.002,Correct,False
+"Minot, ND",ND,Midwest,48.320242,-101.19801,0.5598,Fold 5,Validation,High,High,0.9935,Correct,False
+"Beckley, WV",WV,South,37.905659,-81.163748,0.3822,Fold 5,Validation,Low/Medium,Low/Medium,0.0099,Correct,False
+"Asheville, NC",NC,South,35.61634,-82.570683,0.4541,Test Set,Training,,,,,False
+"Ocala, FL",FL,South,29.202805,-82.0431,0.385,Test Set,Training,,,,,False
+"Roanoke, VA",VA,South,37.286226,-79.946935,0.478,Test Set,Training,,,,,False
+"Huntsville, AL",AL,South,34.783262,-86.734871,0.4804,Test Set,Training,,,,,False
+"Dover, DE",DE,South,39.097088,-75.502982,0.4792,Test Set,Training,,,,,False
+"Lafayette-West Lafayette, IN",IN,Midwest,40.482153,-87.017112,0.4131,Test Set,Training,,,,,False
+"Akron, OH",OH,Midwest,41.146639,-81.35011,0.4669,Test Set,Training,,,,,False
+"Shreveport-Bossier City, LA",LA,South,32.437682,-93.744884,0.4669,Test Set,Training,,,,,False
+"Bangor, ME",ME,Northeast,45.409284,-68.666616,0.4332,Test Set,Training,,,,,False
+"San Antonio-New Braunfels, TX",TX,South,29.43306,-98.606973,0.4496,Test Set,Training,,,,,False
+"Mansfield, OH",OH,Midwest,40.774159,-82.542781,0.4124,Test Set,Training,,,,,False
+"Slidell-Mandeville-Covington, LA",LA,South,30.410022,-89.951962,0.4755,Test Set,Training,,,,,False
+"Hilton Head Island-Bluffton-Port Royal, SC",SC,South,32.386792,-80.830877,0.4556,Test Set,Training,,,,,False
+"Savannah, GA",GA,South,32.109256,-81.273287,0.4725,Test Set,Training,,,,,False
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",DC,South,38.829787,-77.495684,0.5001,Test Set,Training,,,,,False
+"Albany, GA",GA,South,31.644686,-84.110718,0.4046,Test Set,Training,,,,,False
+"Traverse City, MI",MI,Midwest,44.952324,-85.90832,0.5112,Test Set,Training,,,,,False
+"Orlando-Kissimmee-Sanford, FL",FL,South,28.434398,-81.35606,0.4538,Test Set,Training,,,,,False
+"Paducah, KY-IL",KY,South,37.094234,-88.71705,0.4338,Test Set,Training,,,,,False
+"Tuscaloosa, AL",AL,South,33.097877,-87.799147,0.4401,Test Set,Training,,,,,False
+"San Francisco-Oakland-Fremont, CA",CA,West,37.773718,-122.274432,0.5773,Test Set,Training,,,,,False
+"Cape Girardeau, MO-IL",MO,Midwest,37.325936,-89.762639,0.4694,Test Set,Training,,,,,False
+"Bowling Green, KY",KY,South,37.046804,-86.397398,0.4077,Test Set,Training,,,,,False
+"Lebanon, PA",PA,Northeast,40.371448,-76.464819,0.4356,Test Set,Training,,,,,False
+"Elmira, NY",NY,Northeast,42.148697,-76.752471,0.3837,Test Set,Training,,,,,False
+"Blacksburg-Christiansburg-Radford, VA",VA,South,37.121364,-80.531517,0.4032,Test Set,Training,,,,,False
+"Rochester, NY",NY,Northeast,43.184718,-77.556558,0.4581,Test Set,Training,,,,,False
+"Twin Falls, ID",ID,West,42.440397,-114.568729,0.4956,Test Set,Training,,,,,False
+"Greeley, CO",CO,West,40.555961,-104.383666,0.5211,Test Set,Training,,,,,False
+"Atlanta-Sandy Springs-Roswell, GA",GA,South,33.732402,-84.392848,0.5058,Test Set,Training,,,,,False
+"Norwich-New London-Willimantic, CT",CT,Northeast,41.484769,-72.101666,0.4231,Test Set,Training,,,,,False
+"Harrisburg-Carlisle, PA",PA,Northeast,40.335915,-77.05049,0.4603,Test Set,Training,,,,,False
+"Detroit-Warren-Dearborn, MI",MI,Midwest,42.721848,-83.200846,0.4302,Test Set,Training,,,,,False
+"Valdosta, GA",GA,South,30.827158,-83.243555,0.3944,Test Set,Training,,,,,False
+"Winston-Salem, NC",NC,South,36.078852,-80.345064,0.4277,Test Set,Training,,,,,False
+"Decatur, AL",AL,South,34.489361,-87.097147,0.4561,Test Set,Training,,,,,False
+"Kennewick-Richland, WA",WA,West,46.364155,-119.254927,0.4437,Test Set,Training,,,,,False
+"Dalton, GA",GA,South,34.796956,-84.856279,0.4113,Test Set,Training,,,,,False
+"Greenville-Anderson-Greer, SC",SC,South,34.683709,-82.413423,0.4584,Test Set,Training,,,,,False
+"Erie, PA",PA,Northeast,42.117952,-80.096386,0.4241,Test Set,Training,,,,,False
+"Athens-Clarke County, GA",GA,South,33.943984,-83.213897,0.4267,Test Set,Training,,,,,False
+"Hartford-West Hartford-East Hartford, CT",CT,Northeast,41.688038,-72.545112,0.4863,Test Set,Training,,,,,False
+"Santa Fe, NM",NM,West,35.514531,-105.963972,0.4757,Test Set,Training,,,,,False
+"Burlington, NC",NC,South,36.043954,-79.400573,0.4092,Test Set,Training,,,,,False
+"Tampa-St. Petersburg-Clearwater, FL",FL,South,28.120541,-82.525188,0.4391,Test Set,Training,,,,,False
+"Des Moines-West Des Moines, IA",IA,Midwest,41.57705,-93.759712,0.5438,Test Set,Training,,,,,False
+"Monroe, LA",LA,South,32.67396,-92.058318,0.4368,Test Set,Training,,,,,False
+"Salt Lake City-Murray, UT",UT,West,40.572887,-112.953253,0.5421,Test Set,Training,,,,,False
+"Auburn-Opelika, AL",AL,South,32.492206,-85.527127,0.4399,Test Set,Training,,,,,False
+"Lafayette, LA",LA,South,30.012961,-92.136552,0.4837,Test Set,Training,,,,,False
+"Kansas City, MO-KS",MO,Midwest,38.931857,-94.443841,0.5177,Test Set,Training,,,,,False
+"Appleton, WI",WI,Midwest,44.290603,-88.372326,0.5302,Test Set,Training,,,,,False
+"Homosassa Springs, FL",FL,South,28.850292,-82.595552,0.3316,Test Set,Training,,,,,False
+"Jacksonville, FL",FL,South,30.234184,-81.756033,0.4543,Test Set,Training,,,,,False
+"Kalamazoo-Portage, MI",MI,Midwest,42.246266,-85.532854,0.4284,Test Set,Training,,,,,False
+"Cedar Rapids, IA",IA,Midwest,42.086289,-91.631095,0.5179,Test Set,Training,,,,,False
+"Olympia-Lacey-Tumwater, WA",WA,West,46.935822,-122.830152,0.4358,Test Set,Training,,,,,False
+"Omaha, NE-IA",NE,Midwest,41.290459,-95.99997,0.5283,Test Set,Training,,,,,False
+"Flint, MI",MI,Midwest,43.021077,-83.706372,0.346,Test Set,Training,,,,,False
+"New Orleans-Metairie, LA",LA,South,29.282447,-89.576068,0.4433,Test Set,Training,,,,,False
+"Chambersburg, PA",PA,Northeast,39.926772,-77.724521,0.4261,Test Set,Training,,,,,False
+"Winchester, VA-WV",VA,South,39.272974,-78.471828,0.4523,Test Set,Training,,,,,False
+"Santa Maria-Santa Barbara, CA",CA,West,34.536677,-120.038364,0.4648,Test Set,Training,,,,,False
+"Florence, SC",SC,South,34.153574,-79.806164,0.3913,Test Set,Training,,,,,False
+"Columbia, SC",SC,South,34.077585,-81.037845,0.4366,Test Set,Training,,,,,False
+"Greensboro-High Point, NC",NC,South,36.025204,-79.792633,0.4482,Test Set,Training,,,,,False
+"Watertown-Fort Drum, NY",NY,Northeast,43.996389,-76.052968,0.4312,Test Set,Training,,,,,False
+"Fairbanks-College, AK",AK,West,64.670454,-146.496061,0.4965,Test Set,Training,,,,,False
+"Ames, IA",IA,Midwest,42.036128,-93.698008,0.4957,Test Set,Training,,,,,False
+"Morgantown, WV",WV,South,39.525155,-79.801912,0.4465,Test Set,Training,,,,,False
+"Lexington Park, MD",MD,South,38.312696,-76.527935,0.5056,Test Set,Training,,,,,False
+"Sheboygan, WI",WI,Midwest,43.738713,-87.731531,0.4558,Test Set,Training,,,,,False
+"Rochester, MN",MN,Midwest,43.94981,-92.33066,0.5503,Test Set,Training,,,,,False
+"Wichita, KS",KS,Midwest,37.637896,-97.246287,0.4838,Test Set,Training,,,,,False
+"Lexington-Fayette, KY",KY,South,38.102876,-84.438545,0.4657,Test Set,Training,,,,,False
+"Columbus, GA-AL",GA,South,32.419377,-84.843709,0.3868,Test Set,Training,,,,,False
+"Parkersburg-Vienna, WV",WV,South,39.141531,-81.460402,0.3862,Test Set,Training,,,,,False
+"Mobile, AL",AL,South,30.684572,-88.196568,0.4451,Test Set,Training,,,,,False
+"Boulder, CO",CO,West,40.094971,-105.39771,0.5173,Test Set,Training,,,,,False
+"Duluth, MN-WI",MN,Midwest,47.329703,-92.37627,0.4713,Test Set,Training,,,,,False
+"Port St. Lucie, FL",FL,South,27.228046,-80.425388,0.4199,Test Set,Training,,,,,False
+"Portland-Vancouver-Hillsboro, OR-WA",OR,West,45.600622,-122.484378,0.5056,Test Set,Training,,,,,False
+"Bloomington, IL",IL,Midwest,40.494559,-88.844539,0.4754,Test Set,Training,,,,,False
+"Grand Rapids-Wyoming-Kentwood, MI",MI,Midwest,42.979841,-85.715614,0.4817,Test Set,Training,,,,,False
+"Mankato, MN",MN,Midwest,44.15479,-94.147798,0.4811,Test Set,Training,,,,,False
+"Deltona-Daytona Beach-Ormond Beach, FL",FL,South,29.1789,-81.189023,0.3914,Test Set,Training,,,,,False
+"Columbus, OH",OH,Midwest,39.968562,-82.835911,0.4753,Test Set,Training,,,,,False
+"Elkhart-Goshen, IN",IN,Midwest,41.600693,-85.863986,0.4256,Test Set,Training,,,,,False
+"Salinas, CA",CA,West,36.240104,-121.315578,0.3881,Test Set,Training,,,,,False
+"Lakeland-Winter Haven, FL",FL,South,27.953686,-81.693493,0.3874,Test Set,Training,,,,,False
+"Memphis, TN-MS-AR",TN,South,35.010307,-89.820503,0.445,Test Set,Training,,,,,False
+"St. Joseph, MO-KS",MO,Midwest,39.834843,-94.783754,0.4755,Test Set,Training,,,,,False
+"Amherst Town-Northampton, MA",MA,Northeast,42.339459,-72.663694,0.4183,Test Set,Training,,,,,False
+"Birmingham, AL",AL,South,33.462372,-86.814338,0.4921,Test Set,Training,,,,,False
+"Oshkosh-Neenah, WI",WI,Midwest,44.085707,-88.668149,0.4673,Test Set,Training,,,,,False
+"Pittsburgh, PA",PA,Northeast,40.471332,-79.863986,0.4824,Test Set,Training,,,,,False
+"Davenport-Moline-Rock Island, IA-IL",IA,Midwest,41.39168,-90.460076,0.4779,Test Set,Training,,,,,False
+"Pueblo, CO",CO,West,38.162765,-104.484668,0.354,Test Set,Training,,,,,False
+"Chico, CA",CA,West,39.665336,-121.603209,0.3473,Test Set,Training,,,,,False
+"Texarkana, TX-AR",TX,South,33.478373,-94.207162,0.4368,Test Set,Training,,,,,False
+"Brunswick-St. Simons, GA",GA,South,31.301739,-81.588909,0.4704,Test Set,Training,,,,,False
+"Houston-Pasadena-The Woodlands, TX",TX,South,29.801005,-95.34262,0.4702,Test Set,Training,,,,,False
+"Lynchburg, VA",VA,South,37.364926,-79.216689,0.4492,Test Set,Training,,,,,False
+"Santa Cruz-Watsonville, CA",CA,West,37.012347,-122.007789,0.4416,Test Set,Training,,,,,False
+"Greenville, NC",NC,South,35.59249,-77.372739,0.3968,Test Set,Training,,,,,False
+"Racine-Mount Pleasant, WI",WI,Midwest,42.780392,-87.771599,0.4346,Test Set,Training,,,,,False
+"Portland-South Portland, ME",ME,Northeast,43.651417,-70.418375,0.521,Test Set,Training,,,,,False
+"Johnstown, PA",PA,Northeast,40.510209,-78.710488,0.4062,Test Set,Training,,,,,False
+"Niles, MI",MI,Midwest,41.791382,-86.742543,0.4357,Test Set,Training,,,,,False
+"Reno, NV",NV,West,40.251057,-119.555507,0.494,Test Set,Training,,,,,False
+"San Jose-Sunnyvale-Santa Clara, CA",CA,West,36.908472,-121.371372,0.7229,Test Set,Training,,,,,False
+"Crestview-Fort Walton Beach-Destin, FL",FL,South,30.594941,-86.358164,0.4449,Test Set,Training,,,,,False
+"Colorado Springs, CO",CO,West,38.845507,-104.638728,0.4499,Test Set,Training,,,,,False
+"Charlottesville, VA",VA,South,37.949084,-78.593206,0.5329,Test Set,Training,,,,,False
+"Sumter, SC",SC,South,33.91614,-80.382376,0.3382,Test Set,Training,,,,,False
+"Lincoln, NE",NE,Midwest,40.817429,-96.868801,0.4911,Test Set,Training,,,,,False
+"Baton Rouge, LA",LA,South,30.515242,-91.126926,0.4563,Test Set,Training,,,,,False
+"Sioux Falls, SD-MN",SD,Midwest,43.525658,-96.875416,0.5709,Test Set,Training,,,,,False
+"Naples-Marco Island, FL",FL,South,26.118786,-81.400955,0.4759,Test Set,Training,,,,,False
+"Jackson, TN",TN,South,35.753215,-88.882692,0.4265,Test Set,Training,,,,,False
+"Terre Haute, IN",IN,Midwest,39.392389,-87.347096,0.391,Test Set,Training,,,,,False
+"Reading, PA",PA,Northeast,40.413957,-75.92686,0.4459,Test Set,Training,,,,,False
+"Kiryas Joel-Poughkeepsie-Newburgh, NY",NY,Northeast,41.575274,-74.033873,0.4274,Test Set,Training,,,,,False
+"Columbia, MO",MO,Midwest,38.986523,-92.585236,0.4949,Test Set,Training,,,,,False
+"Grants Pass, OR",OR,West,42.386983,-123.57162,0.3324,Test Set,Training,,,,,False
+"Montgomery, AL",AL,South,32.365631,-86.404585,0.4468,Test Set,Training,,,,,False
+"Casper, WY",WY,West,42.977645,-106.768219,0.5699,Test Set,Training,,,,,False
+"Rome, GA",GA,South,34.26369,-85.213685,0.3998,Test Set,Training,,,,,False
+"Albany, OR",OR,West,44.488898,-122.537208,0.4349,Test Set,Training,,,,,False
+"Bellingham, WA",WA,West,48.842653,-121.836432,0.481,Test Set,Training,,,,,False
+"Knoxville, TN",TN,South,36.044462,-84.136114,0.4568,Test Set,Training,,,,,False
+"Topeka, KS",KS,Midwest,39.041389,-95.802639,0.4664,Test Set,Training,,,,,False
+"Dothan, AL",AL,South,31.245528,-85.46919,0.451,Test Set,Training,,,,,False
+"Austin-Round Rock-San Marcos, TX",TX,South,30.249744,-97.649842,0.5338,Test Set,Training,,,,,False
+"Altoona, PA",PA,Northeast,40.498683,-78.309597,0.4408,Test Set,Training,,,,,False
+"Waterbury-Shelton, CT",CT,Northeast,41.518931,-73.087906,0.4246,Test Set,Training,,,,,False
+"Lansing-East Lansing, MI",MI,Midwest,42.713659,-84.605372,0.4193,Test Set,Training,,,,,False
+"Santa Rosa-Petaluma, CA",CA,West,38.525182,-122.92611,0.495,Test Set,Training,,,,,False
+"Springfield, OH",OH,Midwest,39.917032,-83.783676,0.383,Test Set,Training,,,,,False
+"McAllen-Edinburg-Mission, TX",TX,South,26.396384,-98.18099,0.3293,Test Set,Training,,,,,False
+"Cincinnati, OH-KY-IN",OH,Midwest,39.078595,-84.463535,0.4837,Test Set,Training,,,,,False
+"Pittsfield, MA",MA,Northeast,42.371493,-73.217928,0.453,Test Set,Training,,,,,False
+"Springfield, MA",MA,Northeast,42.136198,-72.635648,0.4,Test Set,Training,,,,,False
+"Raleigh-Cary, NC",NC,South,35.756746,-78.460441,0.5306,Test Set,Training,,,,,False
+"State College, PA",PA,Northeast,40.909322,-77.847667,0.4572,Test Set,Training,,,,,False
+"Eagle Pass, TX",TX,South,28.729787,-100.316678,0.288,Test Set,Training,,,,,False
+"Glens Falls, NY",NY,Northeast,43.44045,-73.636757,0.4193,Test Set,Training,,,,,False
+"Columbus, IN",IN,Midwest,39.205843,-85.897999,0.4825,Test Set,Training,,,,,False
+"Fayetteville-Springdale-Rogers, AR",AR,South,36.116394,-94.079545,0.5447,Test Set,Training,,,,,False
+"Salem, OR",OR,West,44.903385,-122.901757,0.409,Test Set,Training,,,,,False
+"Phoenix-Mesa-Chandler, AZ",AZ,West,33.185765,-112.067862,0.4566,Test Set,Training,,,,,False
+"Urban Honolulu, HI",HI,West,21.461365,-158.201974,0.4443,Test Set,Training,,,,,False
+"Coeur d'Alene, ID",ID,West,47.675957,-116.695919,0.4726,Test Set,Training,,,,,False
+"Los Angeles-Long Beach-Anaheim, CA",CA,West,34.108703,-118.182753,0.4648,Test Set,Training,,,,,False
+"Sierra Vista-Douglas, AZ",AZ,West,31.840129,-109.775163,0.3807,Test Set,Training,,,,,False
+"Waco, TX",TX,South,31.5921,-97.286018,0.4297,Test Set,Training,,,,,False
+"Jacksonville, NC",NC,South,34.763109,-77.499469,0.3606,Test Set,Training,,,,,False
+"Lawrence, KS",KS,Midwest,38.896417,-95.290947,0.4466,Test Set,Training,,,,,False
+"Warner Robins, GA",GA,South,32.492806,-83.711084,0.3582,Test Set,Training,,,,,False
+"Kokomo, IN",IN,Midwest,40.483537,-86.114118,0.3351,Test Set,Training,,,,,False
+"Saginaw, MI",MI,Midwest,43.328267,-84.05541,0.3559,Test Set,Training,,,,,False
+"Lima, OH",OH,Midwest,40.771627,-84.106103,0.4408,Test Set,Training,,,,,False
+"Bakersfield-Delano, CA",CA,West,35.346629,-118.729506,0.3408,Test Set,Training,,,,,False
+"New Haven, CT",CT,Northeast,41.290167,-72.837024,0.4486,Test Set,Training,,,,,False
+"Stockton-Lodi, CA",CA,West,37.934982,-121.272244,0.3853,Test Set,Training,,,,,False
+"Cape Coral-Fort Myers, FL",FL,South,26.563273,-81.984182,0.4149,Test Set,Training,,,,,False
+"Manhattan, KS",KS,Midwest,39.268424,-96.562242,0.4437,Test Set,Training,,,,,False
+"Chicago-Naperville-Elgin, IL-IN",IL,Midwest,41.75878,-87.841887,0.4792,Test Set,Training,,,,,False
+"Sacramento-Roseville-Folsom, CA",CA,West,38.790272,-121.005643,0.4506,Test Set,Training,,,,,False
+"Odessa, TX",TX,South,31.865301,-102.542507,0.5278,Test Set,Training,,,,,False
+"Allentown-Bethlehem-Easton, PA-NJ",PA,Northeast,40.789339,-75.398158,0.4477,Test Set,Training,,,,,False
+"Great Falls, MT",MT,West,47.316575,-111.350262,0.4222,Test Set,Training,,,,,False
+"Miami-Fort Lauderdale-West Palm Beach, FL",FL,South,26.101828,-80.478755,0.4168,Test Set,Training,,,,,False
+"Billings, MT",MT,West,45.63714,-108.832361,0.5462,Test Set,Training,,,,,False
+"Houma-Bayou Cane-Thibodaux, LA",LA,South,29.33413,-90.843674,0.4955,Test Set,Training,,,,,False
+"Dallas-Fort Worth-Arlington, TX",TX,South,32.849171,-96.970489,0.4803,Test Set,Training,,,,,False
+"Charleston, WV",WV,South,38.283213,-81.492557,0.4477,Test Set,Training,,,,,False
+"Bremerton-Silverdale-Port Orchard, WA",WA,West,47.639687,-122.649636,0.4454,Test Set,Training,,,,,False
+"New York-Newark-Jersey City, NY-NJ",NY,Northeast,40.735425,-73.80773,0.4692,Test Set,Training,,,,,False
+"Fayetteville, NC",NC,South,35.037956,-78.982209,0.3341,Test Set,Training,,,,,False
+"Little Rock-North Little Rock-Conway, AR",AR,South,34.755773,-92.400589,0.4679,Test Set,Training,,,,,False
+"Ogden, UT",UT,West,41.124342,-111.866933,0.4827,Test Set,Training,,,,,False
+"Brownsville-Harlingen, TX",TX,South,26.102923,-97.478958,0.3435,Test Set,Training,,,,,False
+"Riverside-San Bernardino-Ontario, CA",CA,West,34.538476,-116.134541,0.4008,Test Set,Training,,,,,False
+"Milwaukee-Waukesha, WI",WI,Midwest,42.912643,-87.862312,0.4874,Test Set,Training,,,,,False
+"Helena, MT",MT,West,46.715671,-112.1352,0.5411,Test Set,Training,,,,,False
+"Florence-Muscle Shoals, AL",AL,South,34.799254,-87.719388,0.4399,Test Set,Training,,,,,False
+"Denver-Aurora-Centennial, CO",CO,West,39.434789,-104.901073,0.5249,Test Set,Training,,,,,False
+"Las Cruces, NM",NM,West,32.349919,-106.834968,0.3621,Test Set,Training,,,,,False
+"Youngstown-Warren, OH",OH,Midwest,41.195092,-80.76508,0.3982,Test Set,Training,,,,,False
+"Longview-Kelso, WA",WA,West,46.196785,-122.67846,0.4342,Test Set,Training,,,,,False
+"Wilmington, NC",NC,South,34.253691,-78.041674,0.451,Test Set,Training,,,,,False
+"Gulfport-Biloxi, MS",MS,South,30.480153,-88.999297,0.4014,Test Set,Training,,,,,False
+"Sebastian-Vero Beach-West Vero Corridor, FL",FL,South,27.700528,-80.574789,0.4372,Test Set,Training,,,,,False
+"North Port-Bradenton-Sarasota, FL",FL,South,27.329055,-82.414533,0.4328,Test Set,Training,,,,,False
+"Barnstable Town, MA",MA,Northeast,41.706123,-70.164823,0.4675,Test Set,Training,,,,,False
+"San Angelo, TX",TX,South,31.36531,-100.659418,0.4829,Test Set,Training,,,,,False
+"Lake Havasu City-Kingman, AZ",AZ,West,35.717705,-113.749689,0.3494,Test Set,Training,,,,,False
+"St. Cloud, MN",MN,Midwest,45.593031,-94.488363,0.5169,Test Set,Training,,,,,False
+"Nashville-Davidson--Murfreesboro--Franklin, TN",TN,South,36.091577,-86.72298,0.5325,Test Set,Training,,,,,False
+"Bloomington, IN",IN,Midwest,39.241736,-86.671754,0.4148,Test Set,Training,,,,,False
+"Boise City, ID",ID,West,43.006648,-116.141909,0.4919,Test Set,Training,,,,,False
+"Manchester-Nashua, NH",NH,Northeast,42.911532,-71.723055,0.5153,Test Set,Training,,,,,False
+"Fort Wayne, IN",IN,Midwest,41.006999,-85.216424,0.4642,Test Set,Training,,,,,False
+"Clarksville, TN-KY",TN,South,36.69571,-87.624307,0.38,Test Set,Training,,,,,False
+"Visalia, CA",CA,West,36.228834,-118.781055,0.2933,Test Set,Training,,,,,False
+"Punta Gorda, FL",FL,South,26.906396,-82.003657,0.3518,Test Set,Training,,,,,False
+"Spokane-Spokane Valley, WA",WA,West,48.091618,-117.663472,0.4586,Test Set,Training,,,,,False
+"Morristown, TN",TN,South,36.115484,-83.376546,0.3836,Test Set,Training,,,,,False
+"Yuma, AZ",AZ,West,32.773942,-113.910905,0.3033,Test Set,Training,,,,,False
+"South Bend-Mishawaka, IN-MI",IN,Midwest,41.774981,-86.123014,0.4054,Test Set,Training,,,,,False
+"Johnson City, TN",TN,South,36.265822,-82.332693,0.3816,Test Set,Training,,,,,False
+"Iowa City, IA",IA,Midwest,41.517806,-91.64793,0.4746,Test Set,Training,,,,,False
+"Hinesville, GA",GA,South,31.778788,-81.57648,0.3309,Test Set,Training,,,,,False
+"Hattiesburg, MS",MS,South,31.188441,-89.232741,0.4449,Test Set,Training,,,,,False
+"Trenton-Princeton, NJ",NJ,Northeast,40.282503,-74.703724,0.4962,Test Set,Training,,,,,False
+"Albuquerque, NM",NM,West,35.123496,-106.458392,0.435,Test Set,Training,,,,,False
+"Ann Arbor, MI",MI,Midwest,42.252217,-83.843423,0.4645,Test Set,Training,,,,,False
+"Medford, OR",OR,West,42.411621,-122.675611,0.4479,Test Set,Training,,,,,False
+"Dayton-Kettering-Beavercreek, OH",OH,Midwest,39.829746,-84.140992,0.4324,Test Set,Training,,,,,False
+"Gainesville, FL",FL,South,29.453355,-82.666257,0.3789,Test Set,Training,,,,,False
+"Burlington-South Burlington, VT",VT,Northeast,44.689115,-73.041175,0.521,Test Set,Training,,,,,False
+"Lewiston, ID-WA",ID,West,46.251696,-116.925017,0.4938,Test Set,Training,,,,,False
+"Atlantic City-Hammonton, NJ",NJ,Northeast,39.286186,-74.738311,0.3597,Test Set,Training,,,,,False
+"Weirton-Steubenville, WV-OH",WV,South,40.388914,-80.701966,0.3611,Test Set,Training,,,,,False
+"Redding, CA",CA,West,40.760514,-122.043556,0.389,Test Set,Training,,,,,False
+"Yakima, WA",WA,West,46.456558,-120.740145,0.4018,Test Set,Training,,,,,False
+"Albany-Schenectady-Troy, NY",NY,Northeast,42.78792,-73.942348,0.4673,Test Set,Training,,,,,False
+"Green Bay, WI",WI,Midwest,44.474024,-87.99613,0.5187,Test Set,Training,,,,,False
+"Waterloo-Cedar Falls, IA",IA,Midwest,42.536796,-92.471608,0.511,Test Set,Training,,,,,False
+"Michigan City-La Porte, IN",IN,Midwest,41.549013,-86.744739,0.4069,Test Set,Training,,,,,False
+"Mount Vernon-Anacortes, WA",WA,West,48.493292,-121.81577,0.4688,Test Set,Training,,,,,False
+"York-Hanover, PA",PA,Northeast,39.921751,-76.728889,0.4532,Test Set,Training,,,,,False
+"La Crosse-Onalaska, WI-MN",WI,Midwest,43.698264,-91.11014,0.5085,Test Set,Training,,,,,False
+"Harrisonburg, VA",VA,South,38.507612,-78.885329,0.4465,Test Set,Training,,,,,False
+"Macon-Bibb County, GA",GA,South,32.856216,-83.714305,0.4005,Test Set,Training,,,,,False
+"Battle Creek, MI",MI,Midwest,42.24299,-85.012385,0.4001,Test Set,Training,,,,,False
+"Prescott Valley-Prescott, AZ",AZ,West,34.631071,-112.577225,0.4229,Test Set,Training,,,,,False
+"Lubbock, TX",TX,South,33.469794,-101.880412,0.4604,Test Set,Training,,,,,False
+"Worcester, MA",MA,Northeast,42.311693,-71.940282,0.4596,Test Set,Training,,,,,False
+"Baltimore-Columbia-Towson, MD",MD,South,39.304361,-76.549501,0.4718,Test Set,Training,,,,,False
+"Merced, CA",CA,West,37.194806,-120.722802,0.2688,Test Set,Training,,,,,False
+"Bay City, MI",MI,Midwest,43.699711,-83.978701,0.3578,Test Set,Training,,,,,False
+"Charlotte-Concord-Gastonia, NC-SC",NC,South,35.166342,-80.797285,0.5132,Test Set,Training,,,,,False
+"Boston-Cambridge-Newton, MA-NH",MA,Northeast,42.517606,-71.021993,0.5464,Test Set,Training,,,,,False
+"Bridgeport-Stamford-Danbury, CT",CT,Northeast,41.252442,-73.393266,0.5698,Test Set,Training,,,,,False
+"Salisbury, MD",MD,South,38.197279,-75.769252,0.4258,Test Set,Training,,,,,False
+"Syracuse, NY",NY,Northeast,43.006516,-76.196134,0.4555,Test Set,Training,,,,,False
+"Hickory-Lenoir-Morganton, NC",NC,South,35.814295,-81.456584,0.4331,Test Set,Training,,,,,False
+"San Luis Obispo-Paso Robles, CA",CA,West,35.388189,-120.448897,0.4599,Test Set,Training,,,,,False
+"Grand Forks, ND-MN",ND,Midwest,47.835929,-96.842681,0.5213,Test Set,Training,,,,,False
+"Janesville-Beloit, WI",WI,Midwest,42.66988,-89.075284,0.4464,Test Set,Training,,,,,False
+"Fargo, ND-MN",ND,Midwest,46.914859,-96.960183,0.5315,Test Set,Training,,,,,False
+"El Paso, TX",TX,South,31.527394,-105.521333,0.4009,Test Set,Training,,,,,False
+"Wausau, WI",WI,Midwest,44.898036,-89.757823,0.5038,Test Set,Training,,,,,False
+"Kahului-Wailuku, HI",HI,West,20.855931,-156.60155,0.4534,Test Set,Training,,,,,False
+"Sebring, FL",FL,South,27.34108,-81.342353,0.3461,Test Set,Training,,,,,False
+"Springfield, MO",MO,Midwest,37.36087,-93.180262,0.4793,Test Set,Training,,,,,False
+"Corvallis, OR",OR,West,44.493882,-123.424664,0.426,Test Set,Training,,,,,False
+"Jackson, MI",MI,Midwest,42.248474,-84.420868,0.404,Test Set,Training,,,,,False
+"Providence-Warwick, RI-MA",RI,Northeast,41.70684,-71.286687,0.4407,Test Set,Training,,,,,False
+"Amarillo, TX",TX,South,35.247999,-101.90867,0.4717,Test Set,Training,,,,,False
+"Wenatchee-East Wenatchee, WA",WA,West,47.76611,-120.270197,0.4155,Test Set,Training,,,,,False
+"Kingston, NY",NY,Northeast,41.947212,-74.265458,0.4613,Test Set,Training,,,,,False
+"Huntington-Ashland, WV-KY-OH",WV,South,38.357487,-82.579994,0.3931,Test Set,Training,,,,,False
+"Laredo, TX",TX,South,27.760799,-99.340752,0.3319,Test Set,Training,,,,,False
+"Anniston-Oxford, AL",AL,South,33.770516,-85.827909,0.3651,Test Set,Training,,,,,False
+"Hammond, LA",LA,South,30.621348,-90.40649,0.3974,Test Set,Training,,,,,False
+"Pocatello, ID",ID,West,42.692921,-112.228982,0.4075,Test Set,Training,,,,,False
+"Walla Walla, WA",WA,West,46.254606,-118.48037,0.4294,Test Set,Training,,,,,False
+"Farmington, NM",NM,West,36.511624,-108.324578,0.4563,Test Set,Training,,,,,False
+"Seattle-Tacoma-Bellevue, WA",WA,West,47.490552,-121.833977,0.518,Test Set,Training,,,,,False
+"Cleveland, OH",OH,Midwest,41.667548,-81.43052,0.4773,Test Set,Training,,,,,False
+"Dubuque, IA",IA,Midwest,42.463481,-90.878771,0.5555,Test Set,Training,,,,,False
+"Canton-Massillon, OH",OH,Midwest,40.711051,-81.261468,0.4534,Test Set,Training,,,,,False
+"Abilene, TX",TX,South,32.452022,-99.718743,0.4612,Test Set,Training,,,,,False
+"Bismarck, ND",ND,Midwest,46.887031,-100.979592,0.5705,Test Set,Training,,,,,False
+"Utica-Rome, NY",NY,Northeast,43.33228,-75.173189,0.4229,Test Set,Training,,,,,False
+"Lawton, OK",OK,South,34.529113,-98.430902,0.3861,Test Set,Training,,,,,False
+"Rocky Mount, NC",NC,South,35.941045,-77.798549,0.3762,Test Set,Training,,,,,False
+"Chattanooga, TN-GA",TN,South,35.049361,-85.361158,0.4656,Test Set,Training,,,,,False
+"Anchorage, AK",AK,West,62.212784,-149.678222,0.5084,Test Set,Training,,,,,False
+"Eugene-Springfield, OR",OR,West,43.928334,-122.897581,0.4247,Test Set,Training,,,,,False
+"Alexandria, LA",LA,South,31.325348,-92.546803,0.398,Test Set,Training,,,,,False
+"Kankakee, IL",IL,Midwest,41.13951,-87.861117,0.4032,Test Set,Training,,,,,False
+"College Station-Bryan, TX",TX,South,30.754392,-96.488537,0.4311,Test Set,Training,,,,,False
+"Daphne-Fairhope-Foley, AL",AL,South,30.659218,-87.746067,0.4632,Test Set,Training,,,,,False
+"Sioux City, IA-NE-SD",IA,Midwest,42.508037,-96.311314,0.5419,Test Set,Training,,,,,False
+"Grand Junction, CO",CO,West,39.019524,-108.460571,0.4799,Test Set,Training,,,,,False
+"Panama City-Panama City Beach, FL",FL,South,30.273241,-85.642089,0.4227,Test Set,Training,,,,,False
+"Tulsa, OK",OK,South,36.254442,-96.177298,0.5025,Test Set,Training,,,,,False
+"Rapid City, SD",SD,Midwest,44.195108,-102.916612,0.5557,Test Set,Training,,,,,False
+"Ithaca, NY",NY,Northeast,42.453006,-76.473483,0.3756,Test Set,Training,,,,,False
+"Williamsport, PA",PA,Northeast,41.343882,-77.055262,0.4124,Test Set,Training,,,,,False
+"Bend, OR",OR,West,44.153837,-120.887072,0.5021,Test Set,Training,,,,,False
+"Minneapolis-St. Paul-Bloomington, MN-WI",MN,Midwest,45.096664,-93.275361,0.5123,Test Set,Training,,,,,False
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",PA,Northeast,39.894958,-75.311982,0.4816,Test Set,Training,,,,,False
+"Pensacola-Ferry Pass-Brent, FL",FL,South,30.608557,-87.158547,0.4061,Test Set,Training,,,,,False
+"Fresno, CA",CA,West,36.879404,-119.668488,0.3497,Test Set,Training,,,,,False
+"Napa, CA",CA,West,38.5071,-122.325904,0.5398,Test Set,Training,,,,,False
+"Wheeling, WV-OH",WV,South,39.977687,-80.854826,0.3969,Test Set,Training,,,,,False
+"Missoula, MT",MT,West,47.069545,-114.262668,0.5149,Test Set,Training,,,,,False
+"Lewiston-Auburn, ME",ME,Northeast,44.167681,-70.207435,0.4314,Test Set,Training,,,,,False
+"Gettysburg, PA",PA,Northeast,39.869437,-77.21775,0.4397,Test Set,Training,,,,,False
+"Minot, ND",ND,Midwest,48.320242,-101.19801,0.5598,Test Set,Training,,,,,False
+"Wichita Falls, TX",TX,South,33.776144,-98.501907,0.4652,Test Set,Training,,,,,False
+"Beckley, WV",WV,South,37.905659,-81.163748,0.3822,Test Set,Training,,,,,False
+"Sherman-Denison, TX",TX,South,33.624548,-96.675777,0.423,Test Set,Training,,,,,False
+"Vallejo, CA",CA,West,38.267226,-121.939594,0.387,Test Set,Test,Low/Medium,Low/Medium,0.0022,Correct,False
+"Tucson, AZ",AZ,West,32.128038,-111.783657,0.4122,Test Set,Test,Low/Medium,Low/Medium,0.01,Correct,False
+"Hagerstown-Martinsburg, MD-WV",MD,South,39.554433,-77.984594,0.4336,Test Set,Test,Low/Medium,Low/Medium,0.0092,Correct,False
+"Charleston-North Charleston, SC",SC,South,33.01754,-80.009947,0.4765,Test Set,Test,High,High,0.8779,Correct,False
+"Indianapolis-Carmel-Greenwood, IN",IN,Midwest,39.790533,-86.12426,0.4852,Test Set,Test,High,High,0.8926,Correct,False
+"Buffalo-Cheektowaga, NY",NY,Northeast,43.044371,-78.777335,0.4407,Test Set,Test,Low/Medium,Low/Medium,0.0852,Correct,False
+"Lake Charles, LA",LA,South,30.038451,-93.190093,0.4615,Test Set,Test,Low/Medium,Low/Medium,0.0941,Correct,False
+"Carson City, NV",NV,West,39.15306,-119.747368,0.4403,Test Set,Test,Low/Medium,High,0.995,False Positive,True
+"Joplin, MO-KS",MO,Midwest,37.092135,-94.500651,0.4453,Test Set,Test,Low/Medium,Low/Medium,0.2886,Correct,False
+"Owensboro, KY",KY,South,37.664375,-87.147386,0.4227,Test Set,Test,Low/Medium,Low/Medium,0.2911,Correct,False
+"Goldsboro, NC",NC,South,35.35419,-78.00867,0.3571,Test Set,Test,Low/Medium,Low/Medium,0.0002,Correct,False
+"Longview, TX",TX,South,32.431646,-94.684833,0.4788,Test Set,Test,High,Low/Medium,0.387,False Negative,True
+"Modesto, CA",CA,West,37.562316,-121.002831,0.3584,Test Set,Test,Low/Medium,Low/Medium,0.0004,Correct,False
+"Midland, TX",TX,South,32.092359,-101.994539,0.6175,Test Set,Test,High,High,1.0,Correct,False
+"Gadsden, AL",AL,South,34.047641,-86.034263,0.3656,Test Set,Test,Low/Medium,Low/Medium,0.0003,Correct,False
+"Corpus Christi, TX",TX,South,27.894817,-97.401668,0.4361,Test Set,Test,Low/Medium,Low/Medium,0.0117,Correct,False
+"Binghamton, NY",NY,Northeast,42.163928,-76.022943,0.401,Test Set,Test,Low/Medium,Low/Medium,0.0148,Correct,False
+"Fond du Lac, WI",WI,Midwest,43.754722,-88.493284,0.4693,Test Set,Test,Low/Medium,Low/Medium,0.1878,Correct,False
+"Madison, WI",WI,Midwest,43.083846,-89.597745,0.5384,Test Set,Test,High,High,0.9976,Correct,False
+"Vineland, NJ",NJ,Northeast,39.328434,-75.121628,0.3389,Test Set,Test,Low/Medium,Low/Medium,0.0006,Correct,False
+"Spartanburg, SC",SC,South,34.83462,-81.842401,0.4457,Test Set,Test,Low/Medium,Low/Medium,0.0632,Correct,False
+"Grand Island, NE",NE,Midwest,41.083926,-98.374218,0.4959,Test Set,Test,High,High,0.9816,Correct,False
+"Cleveland, TN",TN,South,35.138117,-84.655079,0.4151,Test Set,Test,Low/Medium,Low/Medium,0.0018,Correct,False
+"Scranton--Wilkes-Barre, PA",PA,Northeast,41.322881,-75.898188,0.4125,Test Set,Test,Low/Medium,Low/Medium,0.0047,Correct,False
+"St. George, UT",UT,West,37.262531,-113.4878,0.4719,Test Set,Test,Low/Medium,High,0.9059,False Positive,True
+"Midland, MI",MI,Midwest,43.648203,-84.379414,0.4241,Test Set,Test,Low/Medium,High,0.9871,False Positive,True
+"Champaign-Urbana, IL",IL,Midwest,40.234489,-88.298623,0.4191,Test Set,Test,Low/Medium,Low/Medium,0.0962,Correct,False
+"Fort Smith, AR-OK",AR,South,35.429088,-94.448349,0.447,Test Set,Test,Low/Medium,Low/Medium,0.2879,Correct,False
+"Wildwood-The Villages, FL",FL,South,28.713326,-82.069522,0.4345,Test Set,Test,Low/Medium,Low/Medium,0.0012,Correct,False
+"Yuba City, CA",CA,West,39.160969,-121.511833,0.3351,Test Set,Test,Low/Medium,Low/Medium,0.0005,Correct,False
+"Toledo, OH",OH,Midwest,41.544357,-83.690777,0.4215,Test Set,Test,Low/Medium,Low/Medium,0.0744,Correct,False
+"Durham-Chapel Hill, NC",NC,South,35.995536,-79.09699,0.4908,Test Set,Test,High,High,0.9973,Correct,False
+"Logan, UT-ID",UT,West,41.88902,-111.787438,0.4751,Test Set,Test,High,High,0.9989,Correct,False
+"Kenosha, WI",WI,Midwest,42.587526,-87.879996,0.4245,Test Set,Test,Low/Medium,Low/Medium,0.0045,Correct,False
+"Jackson, MS",MS,South,32.426311,-90.136422,0.4647,Test Set,Test,Low/Medium,Low/Medium,0.0268,Correct,False
+"Flagstaff, AZ",AZ,West,35.829692,-111.773728,0.395,Test Set,Test,Low/Medium,Low/Medium,0.0013,Correct,False
+"Lancaster, PA",PA,Northeast,40.041992,-76.250198,0.4713,Test Set,Test,Low/Medium,Low/Medium,0.1223,Correct,False
+"Jefferson City, MO",MO,Midwest,38.636885,-92.088876,0.4888,Test Set,Test,High,High,0.9472,Correct,False
+"Victoria, TX",TX,South,28.731455,-97.196993,0.4683,Test Set,Test,Low/Medium,Low/Medium,0.1741,Correct,False
+"Hot Springs, AR",AR,South,34.578852,-93.146932,0.4404,Test Set,Test,Low/Medium,High,0.6397,False Positive,True
+"Provo-Orem-Lehi, UT",UT,West,39.872067,-112.359059,0.5055,Test Set,Test,High,High,0.9488,Correct,False
+"Fort Collins-Loveland, CO",CO,West,40.658093,-105.486764,0.4975,Test Set,Test,High,High,0.9831,Correct,False
+"Oxnard-Thousand Oaks-Ventura, CA",CA,West,34.358748,-119.133145,0.497,Test Set,Test,High,High,0.6691,Correct,False
+"Gainesville, GA",GA,South,34.317569,-83.8185,0.4999,Test Set,Test,High,High,0.6598,Correct,False
+"Monroe, MI",MI,Midwest,41.916097,-83.487106,0.3946,Test Set,Test,Low/Medium,Low/Medium,0.0014,Correct,False
+"Beaumont-Port Arthur, TX",TX,South,30.075928,-94.202705,0.414,Test Set,Test,Low/Medium,Low/Medium,0.0175,Correct,False
+"Tyler, TX",TX,South,32.375105,-95.268939,0.4862,Test Set,Test,High,Low/Medium,0.2772,False Negative,True
+"Springfield, IL",IL,Midwest,39.828621,-89.696067,0.473,Test Set,Test,High,Low/Medium,0.2275,False Negative,True
+"Eau Claire, WI",WI,Midwest,44.938672,-91.284322,0.4899,Test Set,Test,High,High,0.6796,Correct,False
+"Jonesboro, AR",AR,South,35.696978,-90.650175,0.4309,Test Set,Test,Low/Medium,Low/Medium,0.1347,Correct,False
+"Muncie, IN",IN,Midwest,40.227543,-85.399262,0.3718,Test Set,Test,Low/Medium,Low/Medium,0.0082,Correct,False
+"Idaho Falls, ID",ID,West,43.620423,-112.420919,0.486,Test Set,Test,High,High,0.9987,Correct,False
+"Virginia Beach-Chesapeake-Norfolk, VA-NC",VA,South,36.837289,-76.391849,0.4406,Test Set,Test,Low/Medium,Low/Medium,0.0519,Correct,False
+"Augusta-Richmond County, GA-SC",GA,South,33.460371,-81.982833,0.4166,Test Set,Test,Low/Medium,Low/Medium,0.0168,Correct,False
+"El Centro, CA",CA,West,33.040814,-115.3554,0.1924,Test Set,Test,Low/Medium,Low/Medium,0.0,Correct,False
+"Evansville, IN",IN,Midwest,38.049142,-87.584519,0.4585,Test Set,Test,Low/Medium,High,0.8724,False Positive,True
+"Pinehurst-Southern Pines, NC",NC,South,35.308273,-79.492723,0.501,Test Set,Test,High,Low/Medium,0.0256,False Negative,True
+"Staunton-Stuarts Draft, VA",VA,South,38.160958,-79.127632,0.4611,Test Set,Test,Low/Medium,Low/Medium,0.0965,Correct,False
+"Killeen-Temple, TX",TX,South,31.20273,-97.789638,0.3915,Test Set,Test,Low/Medium,Low/Medium,0.0015,Correct,False
+"Myrtle Beach-Conway-North Myrtle Beach, SC",SC,South,33.909269,-78.976675,0.375,Test Set,Test,Low/Medium,Low/Medium,0.0788,Correct,False
+"Kingsport-Bristol, TN-VA",TN,South,36.604161,-82.440145,0.4163,Test Set,Test,Low/Medium,Low/Medium,0.0225,Correct,False
+"Palm Bay-Melbourne-Titusville, FL",FL,South,28.298311,-80.700333,0.4193,Test Set,Test,Low/Medium,Low/Medium,0.3143,Correct,False
+"Cheyenne, WY",WY,West,41.29283,-104.660395,0.5203,Test Set,Test,High,High,0.9993,Correct,False
+"Rockford, IL",IL,Midwest,42.331183,-89.042914,0.4372,Test Set,Test,Low/Medium,Low/Medium,0.0085,Correct,False
+"San Diego-Chula Vista-Carlsbad, CA",CA,West,33.023604,-116.776117,0.4691,Test Set,Test,Low/Medium,High,0.9808,False Positive,True
+"Muskegon-Norton Shores, MI",MI,Midwest,43.428739,-86.420908,0.3501,Test Set,Test,Low/Medium,Low/Medium,0.0001,Correct,False
+"Enid, OK",OK,South,36.378132,-97.788741,0.4957,Test Set,Test,High,High,0.8468,Correct,False
+"Louisville/Jefferson County, KY-IN",KY,South,38.224363,-85.701989,0.4629,Test Set,Test,Low/Medium,High,0.9498,False Positive,True
+"Richmond, VA",VA,South,37.412237,-77.44372,0.4925,Test Set,Test,High,High,0.9713,Correct,False
+"Hanford-Corcoran, CA",CA,West,36.072478,-119.81553,0.2784,Test Set,Test,Low/Medium,Low/Medium,0.0,Correct,False
+"Tallahassee, FL",FL,South,30.346366,-84.267001,0.4064,Test Set,Test,Low/Medium,Low/Medium,0.1338,Correct,False
+"Bozeman, MT",MT,West,45.518054,-111.163921,0.597,Test Set,Test,High,High,1.0,Correct,False
+"Las Vegas-Henderson-North Las Vegas, NV",NV,West,36.21413,-115.014398,0.4087,Test Set,Test,Low/Medium,Low/Medium,0.0001,Correct,False
+"Sandusky, OH",OH,Midwest,41.519606,-82.794568,0.4412,Test Set,Test,Low/Medium,Low/Medium,0.237,Correct,False
+"Peoria, IL",IL,Midwest,40.788069,-89.514639,0.466,Test Set,Test,Low/Medium,High,0.679,False Positive,True
+"Decatur, IL",IL,Midwest,39.860237,-88.961529,0.4416,Test Set,Test,Low/Medium,High,0.8683,False Positive,True
+"Elizabethtown, KY",KY,South,37.651209,-85.887598,0.3697,Test Set,Test,Low/Medium,Low/Medium,0.0788,Correct,False
+"Oklahoma City, OK",OK,South,35.430968,-97.506966,0.4994,Test Set,Test,High,High,0.9116,Correct,False

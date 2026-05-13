@@ -1,0 +1,11 @@
+metro_title,opportunity_score,median_income,unemployment_rate,establishments_per_10k,annual_payroll_per_employee
+"San Jose-Sunnyvale-Santa Clara, CA",0.7229,164801,4.2,252.18,180.14
+"Midland, TX",0.6175,89627,2.9,331.15,88.36
+"Bozeman, MT",0.597,103918,2.3,537.71,59.49
+"San Francisco-Oakland-Fremont, CA",0.5773,135590,4.2,286.64,129.84
+"Sioux Falls, SD-MN",0.5709,82509,1.7,297.04,58.57
+"Bismarck, ND",0.5705,86769,2.3,299.77,57.17
+"Casper, WY",0.5699,71381,3.3,381.92,59.16
+"Bridgeport-Stamford-Danbury, CT",0.5698,116402,3.1,276.51,99.27
+"Minot, ND",0.5598,70782,2.5,302.45,55.96
+"Rapid City, SD",0.5557,78056,1.8,343.32,52.34

@@ -1,0 +1,8 @@
+{
+  "selected_metros": 386,
+  "overlap_metros": 386,
+  "raw_cbp_rows_used": 369496,
+  "sample_scope": "all 386 overlapping metros",
+  "primary_state_labels": 51,
+  "business_types_supported": 9
+}

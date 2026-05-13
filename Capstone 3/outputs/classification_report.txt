@@ -1,0 +1,15 @@
+Best classifier: LogisticRegression (tuned)
+Split: 231/77/78 (train/validation/test)
+Test Accuracy: 0.8333
+Test F1: 0.7451
+Test ROC-AUC: 0.9020
+5-fold CV F1: 0.7877 +/- 0.0891
+
+              precision    recall  f1-score   support
+
+           0     0.9200    0.8364    0.8762        55
+           1     0.6786    0.8261    0.7451        23
+
+    accuracy                         0.8333        78
+   macro avg     0.7993    0.8312    0.8106        78
+weighted avg     0.8488    0.8333    0.8375        78
